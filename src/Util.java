@@ -29,7 +29,7 @@ public class Util {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-
+		System.out.println();
 		return result;
 	}
 	
