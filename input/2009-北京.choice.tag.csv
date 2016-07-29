@@ -1,0 +1,57 @@
+时间,地点,术语,数量词,（粗粒度）分词,（细粒度）分词,词性
+9,0 3 8,1 10,,Ⅰ区 太阳年辐射总量 比 Ⅳ区 高 ， 主要 因为 Ⅰ区 夏季 大气逆辐射 强,Ⅰ区 太阳 年 辐射 总量 比 Ⅳ区 高 ， 主要 因为 Ⅰ区 夏季 大气 逆 辐射 强,loc term P loc VA PU AD P loc time term VA
+,0 3 8,1,,Ⅰ区 太阳年辐射总量 比 Ⅳ区 高 ， 主要 因为 Ⅰ区 年 平均 气温 比较 高,Ⅰ区 太阳 年 辐射 总量 比 Ⅳ区 高 ， 主要 因为 Ⅰ区 年 平均 气温 比较 高,loc term P loc VA PU AD P loc NN JJ NN AD VA
+,0 3 8,1 9,,Ⅰ区 太阳年辐射总量 比 Ⅳ区 高 ， 主要 因为 Ⅰ区 正午太阳高度角 大,Ⅰ区 太阳 年 辐射 总量 比 Ⅳ区 高 ， 主要 因为 Ⅰ区 正午 太阳 高度角 大,loc term P loc VA PU AD P loc term VA
+,0 3 8,1,,Ⅰ区 太阳年辐射总量 比 Ⅳ区 高 ， 主要 因为 Ⅰ区 天气 晴朗 且 海拔 高,Ⅰ区 太阳 年 辐射 总量 比 Ⅳ区 高 ， 主要 因为 Ⅰ区 天气 晴朗 且 海拔 高,loc term P loc VA PU AD P loc NN VA CC NN VA
+,,,,随 年份 的 推移 ， 臭氧 总量 最大值 所在 位置 南移,随 年份 的 推移 ， 臭氧 总量 最大值 所在 位置 南移,P NN DEG VV PU NN NN NN VV NN VV
+,,8,,随 年份 的 推移 ， 臭氧 总量 随 纬度 的 增高 而 递减,随 年份 的 推移 ， 臭氧 总量 随 纬度 的 增高 而 递减,P NN DEG VV PU NN NN P term DEG VV MSP VV
+,8,,,随 年份 的 推移 ， 臭氧 总量 在 高纬地区 递减 明显,随 年份 的 推移 ， 臭氧 总量 在 高纬 地区 递减 明显,P NN DEG VV PU NN NN P loc VV VA
+,,,,随 年份 的 推移 ， 臭氧 总量 随 大气 CO2 浓度 而 增,随 年份 的 推移 ， 臭氧 总量 随 大气 CO2 浓度 而 增,P NN DEG VV PU NN NN P NN NR NN MSP VV
+,,,,臭氧 总量 减少 直接 导致 太阳 紫外线 辐射 减小,臭氧 总量 减少 直接 导致 太阳 紫外线 辐射 减小,NN NN VV AD VV NN NN NN VV
+,,5,,臭氧 总量 减少 直接 导致 平流层 气温 降低,臭氧 总量 减少 直接 导致 平流层 气温 降低,NN NN VV AD VV term NN VV
+,,5,,臭氧 总量 减少 直接 导致 酸雨区 面积 缩小,臭氧 总量 减少 直接 导致 酸雨区 面积 缩小,NN NN VV AD VV term NN VV
+,,5,,臭氧 总量 减少 直接 导致 地面辐射强度 减弱,臭氧 总量 减少 直接 导致 地面 辐射 强度 减弱,NN NN VV AD VV term VV
+,,3,,图 中 山地 年降水量 随 海拔 升高 而 递减,图 中 山地 年 降水量 随 海拔 升高 而 递减,NN LC NN term P NN VV MSP VV
+,,3,,图 中 山地 年降水量 与 山地 气温 垂直 变化 一致,图 中 山地 年 降水量 与 山地 气温 垂直 变化 一致,NN LC NN term CC NN NN JJ NN NN
+,,3,,图 中 山地 年降水量 最大值 所 在 海拔 高度 不同,图 中 山地 年 降水量 最大值 所 在 海拔 高度 不同,NN LC NN term NN MSP P NN NN VA
+,,3,,图 中 山地 年降水量 垂直 变化 最 大 的 是 山地 ①,图 中 山地 年 降水量 垂直 变化 最 大 的 是 山地 ①,NN LC NN term JJ NN AD VA DEC VC NN NN
+,,4 6,,山麓 景观 分别 为 温带荒漠 和 亚热带常绿阔叶林 的 是 ① 和 ②,山麓 景观 分别 为 温带 荒漠 和 亚热带 常绿 阔叶林 的 是 ① 和 ②,NN NN AD VC term CC term DEG VC NN CC NN
+,,4 6,,山麓 景观 分别 为 温带荒漠 和 亚热带常绿阔叶林 的 是 ① 和 ③,山麓 景观 分别 为 温带 荒漠 和 亚热带 常绿 阔叶林 的 是 ① 和 ③,NN NN AD VC term CC term DEG VC NN CC NN
+,,4 6,,山麓 景观 分别 为 温带荒漠 和 亚热带常绿阔叶林 的 是 ② 和 ④,山麓 景观 分别 为 温带 荒漠 和 亚热带 常绿 阔叶林 的 是 ② 和 ④,NN NN AD VC term CC term DEG VC NN CC NN
+,,4 6,,山麓 景观 分别 为 温带荒漠 和 亚热带常绿阔叶林 的 是 ③ 和 ④,山麓 景观 分别 为 温带 荒漠 和 亚热带 常绿 阔叶林 的 是 ③ 和 ④,NN NN AD VC term CC term DEG VC NN CC NN
+,,4 7,,该 海域 沿岸 存在 上升流 ， 为 热带雨林气候,该 海域 沿岸 存在 上升流 ， 为 热带 雨林 气候,DT NN NN VV term PU VC term
+,,4,,该 海域 沿岸 存在 上升流,该 海域 沿岸 存在 上升流,DT NN NN VV term
+,,4,,该 海域 沿岸 为 热带雨林气候,该 海域 沿岸 为 热带 雨林 气候,DT NN NN VC term
+,,4 8,,该 海域 沿岸 有 暖流 经过 ， 为 热带草原气候,该 海域 沿岸 有 暖流 经过 ， 为 热带 草原 气候,DT NN NN VE term VV PU VC term
+,,4,,该 海域 沿岸 有 暖流 经过,该 海域 沿岸 有 暖流 经过,DT NN NN VE term VV
+,,4,,该 海域 沿岸 为 热带草原气候,该 海域 沿岸 为 热带 草原 气候,DT NN NN VC term
+,,4 8,,该 海域 沿岸 有 寒流 经过 ， 为 热带沙漠气候,该 海域 沿岸 有 寒流 经过 ， 为 热带 沙漠 气候,DT NN NN VE term VV PU VC term
+,,4,,该 海域 沿岸 有 寒流 经过,该 海域 沿岸 有 寒流 经过,DT NN NN VE term VV
+,,4,,该 海域 沿岸 为 热带沙漠气候,该 海域 沿岸 为 热带 沙漠 气候,DT NN NN VC term
+,,4 7,,该 海域 沿岸 盛行 东南风 ， 为 热带季风气候,该 海域 沿岸 盛行 东南风 ， 为 热带 季风 气候,DT NN NN VV term PU VC term
+,,4,,该 海域 沿岸 盛行 东南风,该 海域 沿岸 盛行 东南风,DT NN NN VV term
+,,4,,该 海域 沿岸 为 热带季风气候,该 海域 沿岸 为 热带 季风 气候,DT NN NN VC term
+,,5,,图 中 乙处 为 河流 冲积扇,图 中 乙处 为 河流 冲积扇,NN LC NN VC NN term
+,,3,,图 中 丙处 侵蚀 比 对岸 强,图 中 丙处 侵蚀 比 对岸 强,NN LC NN term P NN VA
+,,,,图 中 丁处 矿床 为 天然气,图 中 丁处 矿床 为 天然气,NN LC NN NN VC NN
+,,4,,图 中 戊处 位于 背斜谷 内,图 中 戊处 位于 背斜谷 内,NN LC NN VV term LC
+,6,,,岛内 最 大 零售 商业点 位于 甲村 ， 主要 形成 原因 是 该 村 地形 平坦 ， 交通 便利,岛内 最 大 零售 商业 点位于 甲村 ， 主要 形成 原因 是 该 村 地形 平坦 ， 交通 便利,NN AD JJ NN NN VV loc PU AD VV NN VC DT NN NN VA PU NN VA
+,6,,,岛内 最 大 零售 商业点 位于 甲村 ， 主要 形成 原因 是 该 村 地形 平坦,岛内 最 大 零售 商业点 位于 甲村 ， 主要 形成 原因 是 该 村 地形 平坦,NN AD JJ NN NN VV loc PU AD VV NN VC DT NN NN VA
+,6,,,岛内 最 大 零售 商业点 位于 甲村 ， 主要 形成 原因 是 该 村 交通 便利,岛内 最 大 零售 商业点 位于 甲村 ， 主要 形成 原因 是 该 村 交通 便利,NN AD JJ NN NN VV loc PU AD VV NN VC DT NN NN VA
+,6,,,岛内 最 大 零售 商业点 位于 甲村 ， 主要 形成 原因 是 该 村 商业 从业 人口 多,岛内 最 大 零售 商业点 位于 甲村 ， 主要 形成 原因 是 该 村 商业 从业 人口 多,NN AD JJ NN NN VV loc PU AD VV NN VC DT NN NN JJ NN VA
+,6,,,岛内 最 大 零售 商业点 位于 甲村 ， 主要 形成 原因 是 该 村 商业 组织 形式 复杂,岛内 最 大 零售 商业点 位于 甲村 ， 主要 形成 原因 是 该 村 商业 组织 形式 复杂,NN AD JJ NN NN VV loc PU AD VV NN VC DT NN NN NN NN VA
+,6,,,岛内 最 大 零售 商业点 位于 甲村 ， 主要 形成 原因 是 该 村 人口 数量 大,岛内 最 大 零售 商业点 位于 甲村 ， 主要 形成 原因 是 该 村 人口 数量 大,NN AD JJ NN NN VV loc PU AD VV NN VC DT NN NN NN VA
+,,,,在 海岛 开发 的 过程 中 ， 该 岛 人口 容量 最 主要 受 耕地 资源 、 矿产 资源 限制,在 海岛 开发 的 过程 中 ， 该 岛 人口 容量 最 主要 受 耕地 资源 、 矿产 资源 限制,P NN VV DEC NN LC PU loc NN NN NN AD AD VV NN NN PU NN NN NN
+,,,,在 海岛 开发 的 过程 中 ， 该 岛 适宜 大 面积 种植 水稻 、 甜菜 、 香蕉 和 橡胶,在 海岛 开发 的 过程 中 ， 该 岛 适宜 大 面积 种植 水稻 、 甜菜 、 香蕉 和 橡胶,P NN VV DEC NN LC PU DT NN VV JJ NN VV NN PU NN PU NN CC NN
+,,,,在 海岛 开发 的 过程 中 ， 该 岛 河流 入海口 处 地势 开阔 ， 适宜 建设 深水港,在 海岛 开发 的 过程 中 ， 该 岛 河流 入海口 处 地势 开阔 ， 适宜 建设 深水港,P NN VV DEC NN LC PU DT NN NN NN NN NN VA PU VV VV NN
+,,,,在 海岛 开发 的 过程 中 ， 该 岛 河流 入海口 处 地势 开阔,在 海岛 开发 的 过程 中 ， 该 岛 河流 入海口 处 地势 开阔,P NN VV DEC NN LC PU DT NN NN NN NN NN VA
+,,,,在 海岛 开发 的 过程 中 ， 该 岛 适宜 建设 深水港,在 海岛 开发 的 过程 中 ， 该 岛 适宜 建设 深水港,P NN VV DEC NN LC PU DT NN VV VV NN
+,,15,,在 海岛 开发 的 过程 中 ， 该 岛 需要 防范 强风 、 暴雨 、 风暴潮 等 自然 灾害,在 海岛 开发 的 过程 中 ， 该 岛 需要 防范 强风 、 暴雨 、 风暴潮 等 自然 灾害,P NN VV DEC NN LC PU DT NN VV VV NN PU NN PU term ETC NN NN
+,12,,,接受 湖北 输出 货运量 最 多 的 省份 （ 直辖市 ） 位于 湖北以南,接受 湖北 输出 货运量 最 多 的 省份 （ 直辖市 ） 位于 湖北 以南,VV NR NN NN AD VA DEC NN PU NN PU VV loc
+,12,,,接受 湖北 输出 货运量 最 多 的 省份 （ 直辖市 ） 位于 湖北以北,接受 湖北 输出 货运量 最 多 的 省份 （ 直辖市 ） 位于 湖北 以北,VV NR NN NN AD VA DEC NN PU NN PU VV loc
+,12,,,接受 湖北 输出 货运量 最 多 的 省份 （ 直辖市 ） 位于 湖北以东,接受 湖北 输出 货运量 最 多 的 省份 （ 直辖市 ） 位于 湖北 以东,VV NR NN NN AD VA DEC NN PU NN PU VV loc
+,12,,,接受 湖北 输出 货运量 最 多 的 省份 （ 直辖市 ） 位于 湖北以西,接受 湖北 输出 货运量 最 多 的 省份 （ 直辖市 ） 位于 湖北 以西,VV NR NN NN AD VA DEC NN PU NN PU VV loc
+,7 15 17,,,承担 由 邻省 （ 直辖市 ） 输入 湖北 的 货运量 最 大 的 铁路线 是 京沪线 、 京广线,承担 由 邻省 （ 直辖市 ） 输入 湖北 的 货运量 最 大 的 铁路线 是 京沪线 、 京广线,VV P NN PU NN PU VV loc DEG NN AD VA DEC NN VC loc PU loc
+,7 15 17,,,承担 由 邻省 （ 直辖市 ） 输入 湖北 的 货运量 最 大 的 铁路线 是 京广线 、 焦枝线,承担 由 邻省 （ 直辖市 ） 输入 湖北 的 货运量 最 大 的 铁路线 是 京广线 、 焦枝线,VV P NN PU NN PU VV loc DEG NN AD VA DEC NN VC loc PU loc
+,7 15 17,,,承担 由 邻省 （ 直辖市 ） 输入 湖北 的 货运量 最 大 的 铁路线 是 京九线 、 枝柳线,承担 由 邻省 （ 直辖市 ） 输入 湖北 的 货运量 最 大 的 铁路线 是 京九线 、 枝柳线,VV P NN PU NN PU VV loc DEG NN AD VA DEC NN VC loc PU loc
+,7 15 17,,,承担 由 邻省 （ 直辖市 ） 输入 湖北 的 货运量 最 大 的 铁路线 是 陇海线 、 焦枝线,承担 由 邻省 （ 直辖市 ） 输入 湖北 的 货运量 最 大 的 铁路线 是 陇海线 、 焦枝线,VV P NN PU NN PU VV loc DEG NN AD VA DEC NN VC loc PU loc

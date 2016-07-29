@@ -1,0 +1,96 @@
+图_NN 中_LC 指示_VV 山脊_term 和_CC 山谷_term 的_DEG 分别_AD 是_VC ①_NN 和_CC ②_NN 
+图_NN 中_LC 指示_VV 山脊_term 和_CC 山谷_term 的_DEG 分别_AD 是_VC ①_NN 和_CC ②_NN 
+图_NN 中_LC 指示_VV 山脊_term 和_CC 山谷_term 的_DEG 分别_AD 是_VC ②_NN 和_CC ③_NN 
+图_NN 中_LC 指示_VV 山脊_term 和_CC 山谷_term 的_DEG 分别_AD 是_VC ②_NN 和_CC ③_NN 
+图_NN 中_LC 指示_VV 山脊_term 和_CC 山谷_term 的_DEG 分别_AD 是_VC ③_NN 和_CC ④_NN 
+图_NN 中_LC 指示_VV 山脊_term 和_CC 山谷_term 的_DEG 分别_AD 是_VC ③_NN 和_CC ④_NN 
+图_NN 中_LC 指示_VV 山脊_term 和_CC 山谷_term 的_DEG 分别_AD 是_VC ④_NN 和_CC ⑤_NN 
+图_NN 中_LC 指示_VV 山脊_term 和_CC 山谷_term 的_DEG 分别_AD 是_VC ④_NN 和_CC ⑤_NN 
+八达岭地区_loc 花岗岩_term 从_P 形成_VV 到_P 出露_VV 所_MSP 经历_VV 的_DEC 地质_term 过程_NN 依次_AD 是_VC 固结成岩_term —_PU 风化剥蚀_term —_PU 侵蚀搬运_term —_PU 地壳抬升_term 
+八达岭_loc 地区_loc 花岗岩_term 从_P 形成_VV 到_P 出露_VV 所_MSP 经历_VV 的_DEC 地质_term 过程_NN 依次_AD 是_VC 固结_term 成岩_term —_PU 风化_term 剥蚀_term —_PU 侵蚀_term 搬运_term —_PU 地壳_term 抬升_term 
+八达岭地区_loc 花岗岩_term 从_P 形成_VV 到_P 出露_VV 所_MSP 经历_VV 的_DEC 地质_term 过程_NN 依次_AD 是_VC 地壳抬升_term —_PU 侵蚀搬运_term —_PU 岩浆侵入_term —_PU 风化剥蚀_term 
+八达岭_loc 地区_loc 花岗岩_term 从_P 形成_VV 到_P 出露_VV 所_MSP 经历_VV 的_DEC 地质_term 过程_NN 依次_AD 是_VC 地壳_term 抬升_term —_PU 侵蚀_term 搬运_term —_PU 岩浆_term 侵入_term —_PU 风化_term 剥蚀_term 
+八达岭地区_loc 花岗岩_term 从_P 形成_VV 到_P 出露_VV 所_MSP 经历_VV 的_DEC 地质_term 过程_NN 依次_AD 是_VC 岩浆侵入_term —_PU 地壳抬升_term —_PU 风化剥蚀_term —_PU 侵蚀搬运_term 
+八达岭_loc 地区_loc 花岗岩_term 从_P 形成_VV 到_P 出露_VV 所_MSP 经历_VV 的_DEC 地质_term 过程_NN 依次_AD 是_VC 岩浆_term 侵入_term —_PU 地壳_term 抬升_term —_PU 风化_term 剥蚀_term —_PU 侵蚀_term 搬运_term 
+八达岭地区_loc 花岗岩_term 从_P 形成_VV 到_P 出露_VV 所_MSP 经历_VV 的_DEC 地质_term 过程_NN 依次_AD 是_VC 侵蚀搬运_term —_PU 岩浆侵入_term —_PU 地壳抬升_term —_PU 固结成岩_term 
+八达岭_loc 地区_loc 花岗岩_term 从_P 形成_VV 到_P 出露_VV 所_MSP 经历_VV 的_DEC 地质_term 过程_NN 依次_AD 是_VC 侵蚀_term 搬运_term —_PU 岩浆_term 侵入_term —_PU 地壳_term 抬升_term —_PU 固结_term 成岩_term 
+经纬网_term 的_DEG 纬线_term 间距_NN 为_VC 3°_num 
+经纬网_term 的_DEG 纬线_term 间距_NN 为_VC 3°_num 
+经纬网_term 的_DEG 纬线_term 间距_NN 为_VC 5°_num 
+经纬网_term 的_DEG 纬线_term 间距_NN 为_VC 5°_num 
+经纬网_term 的_DEG 纬线_term 间距_NN 为_VC 8°_num 
+经纬网_term 的_DEG 纬线_term 间距_NN 为_VC 8°_num 
+经纬网_term 的_DEG 纬线_term 间距_NN 为_VC 10°_num 
+经纬网_term 的_DEG 纬线_term 间距_NN 为_VC 10°_num 
+图_NN 上_LC 标出_VV 的_DEC 经纬网_term 格区_NN 中_LC ②_NN 与_CC ③_NN 都_AD 处于_VV 暖温带_term 
+图_NN 上_LC 标出_VV 的_DEC 经纬网_term 格区_NN 中_LC ②_NN 与_CC ③_NN 都_AD 处于_VV 暖温带_term 
+图_NN 上_LC 标出_VV 的_DEC 经纬网_term 格区_NN 中_LC 随_P 地球_NN 自转_term ，_PU ③_NN 的_DEG 角速度_NN 比_P ④_NN 小_VA 
+图_NN 上_LC 标出_VV 的_DEC 经纬网_term 格区_NN 中_LC 随_P 地球_NN 自转_term ，_PU ③_NN 的_DEG 角速度_NN 比_P ④_NN 小_VA 
+图_NN 上_LC 标出_VV 的_DEC 经纬网_term 格区_NN 中_LC 从春分到夏至_time ，_PU ①_NN 比_P ④_NN 的_DEG 昼长_term 变化_NN 幅度_NN 大_VA 
+图_NN 上_LC 标出_VV 的_DEC 经纬网_term 格区_NN 中_LC 从_time 春分_time 到_time 夏至_time ，_PU ①_NN 比_P ④_NN 的_DEG 昼长_term 变化_NN 幅度_NN 大_VA 
+图_NN 上_LC 标出_VV 的_DEC 经纬网_term 格区_NN 中_LC 从夏至到秋分_time ，_PU ②_NN 比_P ⑤_NN 的_DEG 正午太阳高度角_term 变化_NN 幅度_NN 大_VA 
+图_NN 上_LC 标出_VV 的_DEC 经纬网_term 格区_NN 中_LC 从_time 夏至_time 到_time 秋分_time ，_PU ②_NN 比_P ⑤_NN 的_DEG 正午_term 太阳_term 高度_term 角_term 变化_NN 幅度_NN 大_VA 
+人口_NN 密度_NN 差值_NN 最_AD 大_VA 的_DEC 两_CD 个_M 网格区_NN 是_VC ①_NN 和_CC ④_NN 
+人口_NN 密度_NN 差值_NN 最_AD 大_VA 的_DEC 两_CD 个_M 网格区_NN 是_VC ①_NN 和_CC ④_NN 
+人口_NN 密度_NN 差值_NN 最_AD 大_VA 的_DEC 两_CD 个_M 网格区_NN 是_VC ②_NN 和_CC ③_NN 
+人口_NN 密度_NN 差值_NN 最_AD 大_VA 的_DEC 两_CD 个_M 网格区_NN 是_VC ②_NN 和_CC ③_NN 
+人口_NN 密度_NN 差值_NN 最_AD 大_VA 的_DEC 两_CD 个_M 网格区_NN 是_VC ③_NN 和_CC ⑤_NN 
+人口_NN 密度_NN 差值_NN 最_AD 大_VA 的_DEC 两_CD 个_M 网格区_NN 是_VC ③_NN 和_CC ⑤_NN 
+人口_NN 密度_NN 差值_NN 最_AD 大_VA 的_DEC 两_CD 个_M 网格区_NN 是_VC ④_NN 和_CC ⑤_NN 
+人口_NN 密度_NN 差值_NN 最_AD 大_VA 的_DEC 两_CD 个_M 网格区_NN 是_VC ④_NN 和_CC ⑤_NN 
+从_P 地形_NN 和_CC 降水_NN 条件_NN 分析_VV ，_PU 最_AD 易_VA 发生_VV 泥石流_term 的_DEC 网格区_NN 是_VC ①_NN 
+从_P 地形_NN 和_CC 降水_NN 条件_NN 分析_VV ，_PU 最_AD 易_VA 发生_VV 泥石流_term 的_DEC 网格区_NN 是_VC ①_NN 
+从_P 地形_NN 和_CC 降水_NN 条件_NN 分析_VV ，_PU 最_AD 易_VA 发生_VV 泥石流_term 的_DEC 网格区_NN 是_VC ②_NN 
+从_P 地形_NN 和_CC 降水_NN 条件_NN 分析_VV ，_PU 最_AD 易_VA 发生_VV 泥石流_term 的_DEC 网格区_NN 是_VC ②_NN 
+从_P 地形_NN 和_CC 降水_NN 条件_NN 分析_VV ，_PU 最_AD 易_VA 发生_VV 泥石流_term 的_DEC 网格区_NN 是_VC ④_NN 
+从_P 地形_NN 和_CC 降水_NN 条件_NN 分析_VV ，_PU 最_AD 易_VA 发生_VV 泥石流_term 的_DEC 网格区_NN 是_VC ④_NN 
+从_P 地形_NN 和_CC 降水_NN 条件_NN 分析_VV ，_PU 最_AD 易_VA 发生_VV 泥石流_term 的_DEC 网格区_NN 是_VC ⑤_NN 
+从_P 地形_NN 和_CC 降水_NN 条件_NN 分析_VV ，_PU 最_AD 易_VA 发生_VV 泥石流_term 的_DEC 网格区_NN 是_VC ⑤_NN 
+由08时到20时_time ，_PU 图_NN 中_LC ①地_loc 风向_term 偏北_VA ，_PU 风力_NN 逐渐_AD 减弱_VV 
+由_time 08时_time 到_time 20时_time ，_PU 图_NN 中_LC ①地_loc 风向_term 偏北_VA ，_PU 风力_NN 逐渐_AD 减弱_VV 
+由08时到20时_time ，_PU 图_NN 中_LC ①地_loc 风向_term 偏北_VA 
+由_time 08时_time 到_time 20时_time ，_PU 图_NN 中_LC ①地_loc 风向_term 偏北_VA 
+由08时到20时_time ，_PU 图_NN 中_LC ①地_loc 风力_term 逐渐_AD 减弱_VV 
+由_time 08时_time 到_time 20时_time ，_PU 图_NN 中_LC ①地_loc 风力_term 逐渐_AD 减弱_VV 
+由08时到20时_time ，_PU 图_NN 中_LC ②地_loc 受_VV 高压脊_term 控制_NN ，_PU 天气_NN 持续_VV 晴朗_VV 
+由_time 08时_time 到_time 20时_time ，_PU 图_NN 中_LC ②地_loc 受_VV 高压脊_term 控制_NN ，_PU 天气_NN 持续_VV 晴朗_VV 
+由08时到20时_time ，_PU 图_NN 中_LC ②地_loc 受_VV 高压脊_term 控制_NN 
+由_time 08时_time 到_time 20时_time ，_PU 图_NN 中_LC ②地_loc 受_VV 高压脊_term 控制_NN 
+由08时到20时_time ，_PU 图_NN 中_LC ②地_loc 天气_NN 持续_VV 晴朗_VV 
+由_time 08时_time 到_time 20时_time ，_PU 图_NN 中_LC ②地_loc 天气_NN 持续_VV 晴朗_VV 
+由08时到20时_time ，_PU 图_NN 中_LC 低气压中心_term 向_P 东北_NN 方向_NN 移动_VV 并_CC 增强_VV 
+由_time 08时_time 到_time 20时_time ，_PU 图_NN 中_LC 低_term 气压_term 中心_term 向_P 东北_NN 方向_NN 移动_VV 并_CC 增强_VV 
+由08时到20时_time ，_PU 图_NN 中_LC 气旋中心_term 附近_NN 暖锋_term 移动_NN 快于_VV 冷锋_NN 
+由_time 08时_time 到_time 20时_time ，_PU 图_NN 中_LC 气旋_term 中心_term 附近_NN 暖锋_term 移动_NN 快于_VV 冷锋_NN 
+乍得湖_loc 流域_NN 河流径流量_term 的_DEG 季节_NN 变化_NN 小_VA 
+乍得湖_loc 流域_NN 河流_term 径流量_term 的_DEG 季节_NN 变化_NN 小_VA 
+乍得湖_loc 流域_NN 河水_NN 主要_AD 来源于_VV 冰雪_NN 融水_NN 
+乍得湖_loc 流域_NN 河水_NN 主要_AD 来源于_VV 冰雪_NN 融水_NN 
+乍得湖_loc 流域_NN 地表径流_term 参与_VV 海陆间水循环_term 
+乍得湖_loc 流域_NN 地表_term 径流_term 参与_VV 海陆_term 间_term 水循环_term 
+乍得湖_loc 流域_NN 水面_NN 蒸发_NN 参与_VV 陆地内水循环_term 
+乍得湖_loc 流域_NN 水面_NN 蒸发_NN 参与_VV 陆地_term 内_term 水循环_term 
+根据_P 图_NN 中_LC 信息_NN 可以_VV 判断_VV 流域_NN 面积_NN 缩小_VV 
+根据_P 图_NN 中_LC 信息_NN 可以_VV 判断_VV 流域_NN 面积_NN 缩小_VV 
+根据_P 图_NN 中_LC 信息_NN 可以_VV 判断_VV 湖泊_NN 水位_NN 总体_NN 下降_VV 
+根据_P 图_NN 中_LC 信息_NN 可以_VV 判断_VV 湖泊_NN 水位_NN 总体_NN 下降_VV 
+根据_P 图_NN 中_LC 信息_NN 可以_VV 判断_VV 流域_NN 主体_NN 位于_VV 热带荒漠_term 
+根据_P 图_NN 中_LC 信息_NN 可以_VV 判断_VV 流域_NN 主体_NN 位于_VV 热带_term 荒漠_term 
+根据_P 图_NN 中_LC 信息_NN 可以_VV 判断_VV 1963年_time 时_LC 湖底_NN 东南_NN 高_VA ，_PU 西北_NN 低_VA 
+根据_P 图_NN 中_LC 信息_NN 可以_VV 判断_VV 1963年_time 时_LC 湖底_NN 东南_NN 高_VA ，_PU 西北_NN 低_VA 
+该_DT 城区_NN 地表_NN 温度_NN 的_DEG 高低_JJ 变化_NN 与_CC 地表_NN 起伏_NN 呈_VV 正_AD 相关_VA 
+该_DT 城区_NN 地表_NN 温度_NN 的_DEG 高低_JJ 变化_NN 与_CC 地表_NN 起伏_NN 呈_VV 正_AD 相关_VA 
+该_DT 城区_NN 地表_NN 温度_NN 的_DEG 高值区_NN 变化_NN 是_VC 气候_NN 变暖_VA 的_DEC 结果_NN 
+该_DT 城区_NN 地表_NN 温度_NN 的_DEG 高值区_NN 变化_NN 是_VC 气候_NN 变暖_VA 的_DEC 结果_NN 
+该_DT 城区_NN 地表_NN 温度_NN 的_DEG 低值区_NN 是_VC 河流_NN 或_CC 绿地_NN 影响_NN 的_DEG 结果_NN 
+该_DT 城区_NN 地表_NN 温度_NN 的_DEG 低值区_NN 是_VC 河流_NN 或_CC 绿地_NN 影响_NN 的_DEG 结果_NN 
+该_DT 城区_NN 地表_NN 温度_NN 的_DEG 差异_NN 可_VV 导致_VV 地面_NN 风_NN 从_P 城区_NN 吹向_VV 郊区_NN 
+该_DT 城区_NN 地表_NN 温度_NN 的_DEG 差异_NN 可_VV 导致_VV 地面_NN 风_NN 从_P 城区_NN 吹向_VV 郊区_NN 
+据_P 图_NN 可以_VV 推断_VV ，_PU 从1982年到2004年_time 该_DT 城区_NN 建筑物_NN 占地_NN 面积_NN 增加_VV 
+据_P 图_NN 可以_VV 推断_VV ，_PU 从_time 1982年_time 到_time 2004年_time 该_DT 城区_NN 建筑物_NN 占地_NN 面积_NN 增加_VV 
+据_P 图_NN 可以_VV 推断_VV ，_PU 从1982年到2004年_time 该_DT 城区_NN 南北部_NN 道路_NN 密度_NN 差异_NN 加大_VV 
+据_P 图_NN 可以_VV 推断_VV ，_PU 从_time 1982年_time 到_time 2004年_time 该_DT 城区_NN 南北部_NN 道路_NN 密度_NN 差异_NN 加大_VV 
+据_P 图_NN 可以_VV 推断_VV ，_PU 从1982年到2004年_time 该_DT 城区_NN 商业区_NN 向_P 城区_NN 中心_NN 集中_VV 
+据_P 图_NN 可以_VV 推断_VV ，_PU 从_time 1982年_time 到_time 2004年_time 该_DT 城区_NN 商业区_NN 向_P 城区_NN 中心_NN 集中_VV 
+据_P 图_NN 可以_VV 推断_VV ，_PU 从1982年到2004年_time 该_DT 城区_NN 空间_NN 形态_NN 没有_VE 发生_VV 变化_NN 
+据_P 图_NN 可以_VV 推断_VV ，_PU 从_time 1982年_time 到_time 2004年_time 该_DT 城区_NN 空间_NN 形态_NN 没有_VE 发生_VV 变化_NN 

@@ -1,0 +1,132 @@
+该_DT 船员_NN 拍摄_VV 照片_NN 时_LC ，_PU P地_loc 的_DEG 地方时_term 为_VC 22时_time 
+该_DT 船员_NN 拍摄_VV 照片_NN 时_LC ，_PU P地_@@ 的_DEG 地方时_@@ 为_VC 22时_@@ 
+
+该_DT 船员_NN 拍摄_VV 照片_NN 时_LC ，_PU P地_loc 的_DEG 地方时_term 为_VC 14时_time 
+该_DT 船员_NN 拍摄_VV 照片_NN 时_LC ，_PU P地_@@ 的_DEG 地方时_@@ 为_VC 14时_@@ 
+
+该_DT 船员_NN 拍摄_VV 照片_NN 时_LC ，_PU P地_loc 的_DEG 地方时_term 为_VC 20时_time 
+该_DT 船员_NN 拍摄_VV 照片_NN 时_LC ，_PU P地_@@ 的_DEG 地方时_@@ 为_VC 20时_@@ 
+
+该_DT 船员_NN 拍摄_VV 照片_NN 时_LC ，_PU P地_loc 的_DEG 地方时_term 为_VC 16时_time 
+该_DT 船员_NN 拍摄_VV 照片_NN 时_LC ，_PU P地_@@ 的_DEG 地方时_@@ 为_VC 16时_@@ 
+
+拍摄_VV 照片_NN 的_DEG 当天_time ，_PU 漠河_loc 的_DEG 夜长_NN 约_AD 为_VC 16小时_time 
+拍摄_VV 照片_NN 的_DEG 当天_@@ ，_PU 漠河_@@ 的_DEG 夜长_NN 约_AD 为_VC 16_@@ 小时_@@ 
+
+拍摄_VV 照片_NN 的_DEG 当天_time ，_PU 漠河_loc 的_DEG 夜长_NN 约_AD 为_VC 14小时_time 
+拍摄_VV 照片_NN 的_DEG 当天_@@ ，_PU 漠河_@@ 的_DEG 夜长_NN 约_AD 为_VC 14_@@ 小时_@@ 
+
+拍摄_VV 照片_NN 的_DEG 当天_time ，_PU 漠河_loc 的_DEG 夜长_NN 约_AD 为_VC 10小时_time 
+拍摄_VV 照片_NN 的_DEG 当天_@@ ，_PU 漠河_@@ 的_DEG 夜长_NN 约_AD 为_VC 10_@@ 小时_@@ 
+
+拍摄_VV 照片_NN 的_DEG 当天_time ，_PU 漠河_loc 的_DEG 夜长_NN 约_AD 为_VC 12小时_time 
+拍摄_VV 照片_NN 的_DEG 当天_@@ ，_PU 漠河_@@ 的_DEG 夜长_NN 约_AD 为_VC 12_@@ 小时_@@ 
+
+该_DT 船_NN 即将_AD 进入_VV 巴拿马运河_loc 
+该_DT 船_NN 即将_AD 进入_VV 巴拿马_@@ 运河_@@ 
+
+该_DT 船_NN 即将_AD 进入_VV 麦哲伦海峡_loc 
+该_DT 船_NN 即将_AD 进入_VV 麦哲伦_@@ 海峡_@@ 
+
+该_DT 船_NN 即将_AD 进入_VV 德雷克海峡_loc 
+该_DT 船_NN 即将_AD 进入_VV 德雷克_@@ 海峡_@@ 
+
+该_DT 船_NN 即将_AD 进入_VV 直布罗陀海峡_loc 
+该_DT 船_NN 即将_AD 进入_VV 直布罗陀_@@ 海峡_@@ 
+
+此时_time 世界_NN 各地_NN 可能_VV 出现_VV 的_DEC 现象_NN 是_VC 美国中部_loc 小麦_NN 黄熟_VA 
+此时_@@ 世界_NN 各地_NN 可能_VV 出现_VV 的_DEC 现象_NN 是_VC 美国_@@ 中部_@@ 小麦_NN 黄熟_VA 
+
+此时_time 世界_NN 各地_NN 可能_VV 出现_VV 的_DEC 现象_NN 是_VC 中国江淮流域_loc 干热_VA 
+此时_@@ 世界_NN 各地_NN 可能_VV 出现_VV 的_DEC 现象_NN 是_VC 中国_@@ 江淮_@@ 流域_@@ 干热_VA 
+
+此时_time 世界_NN 各地_NN 可能_VV 出现_VV 的_DEC 现象_NN 是_VC 地中海北岸_loc 连日_NT 阴雨_NN 
+此时_@@ 世界_NN 各地_NN 可能_VV 出现_VV 的_DEC 现象_NN 是_VC 地中海_@@ 北岸_@@ 连日_NT 阴雨_NN 
+
+此时_time 世界_NN 各地_NN 可能_VV 出现_VV 的_DEC 现象_NN 是_VC 拉普拉塔河_loc 正值_VV 枯水期_term 
+此时_@@ 世界_NN 各地_NN 可能_VV 出现_VV 的_DEC 现象_NN 是_VC 拉普拉塔河_@@ 正值_VV 枯水期_@@ 
+
+图2_NN 中_LC ①地_loc 所处_VV 的_DEC 自然带_term 是_VC 热带雨林带_term 
+图2_NN 中_LC ①地_@@ 所处_VV 的_DEC 自然带_@@ 是_VC 热带_@@ 雨林_@@ 带_@@ 
+
+图2_NN 中_LC ①地_loc 所处_VV 的_DEC 自然带_term 是_VC 热带草原带_term 
+图2_NN 中_LC ①地_@@ 所处_VV 的_DEC 自然带_@@ 是_VC 热带_@@ 草原_@@ 带_@@ 
+
+图2_NN 中_LC ①地_loc 所处_VV 的_DEC 自然带_term 是_VC 热带沙漠带_term 
+图2_NN 中_LC ①地_@@ 所处_VV 的_DEC 自然带_@@ 是_VC 热带_@@ 沙漠_@@ 带_@@ 
+
+图2_NN 中_LC ①地_loc 所处_VV 的_DEC 自然带_term 是_VC 热带季雨林带_term 
+图2_NN 中_LC ①地_@@ 所处_VV 的_DEC 自然带_@@ 是_VC 热带_@@ 季雨林_@@ 带_@@ 
+
+图2_NN 中_LC ①②③三地_loc 自然_NN 条件_NN 相_AD 比较_VV ②地_loc 降水_VV 最_AD 多_VA 
+图2_NN 中_LC ①_@@ ②_@@ ③_@@ 三_@@ 地_@@ 自然_NN 条件_NN 相_AD 比较_VV ②地_@@ 降水_VV 最_AD 多_VA 
+
+图2_NN 中_LC ①②③三地_loc 自然_NN 条件_NN 相_AD 比较_VV 只有_AD ③地_loc 的_DEG 植被_term 为_VC 森林_NN 
+图2_NN 中_LC ①_@@ ②_@@ ③_@@ 三_@@ 地_@@ 自然_NN 条件_NN 相_AD 比较_VV 只有_AD ③地_@@ 的_DEG 植被_@@ 为_VC 森林_NN 
+
+图2_NN 中_LC ①②③三地_loc 自然_NN 条件_NN 相_AD 比较_VV ①地_loc 年均_JJ 温_NN 最_AD 低_VA 
+图2_NN 中_LC ①_@@ ②_@@ ③_@@ 三_@@ 地_@@ 自然_NN 条件_NN 相_AD 比较_VV ①地_@@ 年均_JJ 温_NN 最_AD 低_VA 
+
+图2_NN 中_LC ①②③三地_loc 自然_NN 条件_NN 相_AD 比较_VV ②、③两地_loc 均_AD 受_VV 暖流_term 影响_NN 
+图2_NN 中_LC ①_@@ ②_@@ ③_@@ 三_@@ 地_@@ 自然_NN 条件_NN 相_AD 比较_VV ②_@@ 、_@@ ③_@@ 两地_@@ 均_AD 受_VV 暖流_@@ 影响_NN 
+
+在_P 此_PN 期间_time ，_PU 能源_NN 生产_NN 与_CC 消费_NN 结构_NN 的_DEG 变化_NN 为_VC 煤炭_NN 消费量_NN 的_DEC 比重_NN 增加_VV 最_AD 多_VA 
+在_P 此_PN 期间_@@ ，_PU 能源_NN 生产_NN 与_CC 消费_NN 结构_NN 的_DEG 变化_NN 为_VC 煤炭_NN 消费量_NN 的_DEC 比重_NN 增加_VV 最_AD 多_VA 
+
+在_P 此_PN 期间_time ，_PU 能源_NN 生产_NN 与_CC 消费_NN 结构_NN 的_DEG 变化_NN 为_VC 天然气_NN 生产量_NN 的_DEC 比重_NN 变幅_NN 最_AD 大_VA 
+在_P 此_PN 期间_@@ ，_PU 能源_NN 生产_NN 与_CC 消费_NN 结构_NN 的_DEG 变化_NN 为_VC 天然气_NN 生产量_NN 的_DEC 比重_NN 变幅_NN 最_AD 大_VA 
+
+在_P 此_PN 期间_time ，_PU 能源_NN 生产_NN 与_CC 消费_NN 结构_NN 的_DEG 变化_NN 为_VC 1995年_time ，_PU 煤炭_NN 生产量_NN 所_MSP 占_VV 比重_NN 低于_VV 其_PN 消费量_NN 所_MSP 占_VV 比重_NN 
+在_P 此_PN 期间_@@ ，_PU 能源_NN 生产_NN 与_CC 消费_NN 结构_NN 的_DEG 变化_NN 为_VC 1995年_@@ ，_PU 煤炭_NN 生产量_NN 所_MSP 占_VV 比重_NN 低于_VV 其_PN 消费量_NN 所_MSP 占_VV 比重_NN 
+
+在_P 此_PN 期间_time ，_PU 能源_NN 生产_NN 与_CC 消费_NN 结构_NN 的_DEG 变化_NN 为_VC 1994年_time ，_PU 石油_NN 生产量_NN 和_CC 消费量_NN 所_MSP 占_VV 比重_NN 相近_VV 
+在_P 此_PN 期间_@@ ，_PU 能源_NN 生产_NN 与_CC 消费_NN 结构_NN 的_DEG 变化_NN 为_VC 1994年_@@ ，_PU 石油_NN 生产量_NN 和_CC 消费量_NN 所_MSP 占_VV 比重_NN 相近_VV 
+
+2000年_time 消费量_NN 超过_VV 生产量_NN 20％_num 以上_LC 的_DEG 能源_NN 种类_NN 有_VE 煤炭_NN 、_PU 石油_NN 
+2000年_@@ 消费量_NN 超过_VV 生产量_NN 20％_@@ 以上_LC 的_DEG 能源_NN 种类_NN 有_VE 煤炭_NN 、_PU 石油_NN 
+
+2000年_time 消费量_NN 超过_VV 生产量_NN 20％_num 以上_LC 的_DEG 能源_NN 种类_NN 有_VE 石油_NN 、_PU 水电_NN 
+2000年_@@ 消费量_NN 超过_VV 生产量_NN 20％_@@ 以上_LC 的_DEG 能源_NN 种类_NN 有_VE 石油_NN 、_PU 水电_NN 
+
+2000年_time 消费量_NN 超过_VV 生产量_NN 20％_num 以上_LC 的_DEG 能源_NN 种类_NN 有_VE 水电_NN 、_PU 天然气_NN 
+2000年_@@ 消费量_NN 超过_VV 生产量_NN 20％_@@ 以上_LC 的_DEG 能源_NN 种类_NN 有_VE 水电_NN 、_PU 天然气_NN 
+
+2000年_time 消费量_NN 超过_VV 生产量_NN 20％_num 以上_LC 的_DEG 能源_NN 种类_NN 有_VE 天然气_NN 、_PU 煤炭_NN 
+2000年_@@ 消费量_NN 超过_VV 生产量_NN 20％_@@ 以上_LC 的_DEG 能源_NN 种类_NN 有_VE 天然气_NN 、_PU 煤炭_NN 
+
+我国_NR 目前_time 以_P 煤炭_NN 消费_NN 为主_VV 的_DEC 状况_NN 已经_AD 改变_VV 
+我国_NR 目前_@@ 以_P 煤炭_NN 消费_NN 为主_VV 的_DEC 状况_NN 已经_AD 改变_VV 
+
+我国_NR 目前_time 天然气_NN 消费_NN 呈_VV 下降_VV 趋势_NN 
+我国_NR 目前_@@ 天然气_NN 消费_NN 呈_VV 下降_VV 趋势_NN 
+
+我国_NR 目前_time 因_P 消费量_NN 少于_VV 生产量_NN ，_PU 原油_NN 可以_VV 大量_CD 出口_NN 
+我国_NR 目前_@@ 因_P 消费量_NN 少于_VV 生产量_NN ，_PU 原油_NN 可以_VV 大量_CD 出口_NN 
+
+我国_NR 目前_time 水电_NN 生产_NN 呈_VV 增加_VV 的_DEC 趋势_NN 
+我国_NR 目前_@@ 水电_NN 生产_NN 呈_VV 增加_VV 的_DEC 趋势_NN 
+
+长江三角洲地区_loc 与_CC 城市带_term 发育_VV 不_AD 相关_VA 的_DEC 自然_NN 因素_NN 是_VC 气候_NN 温和_VA 湿润_VA 
+长江_@@ 三角洲_@@ 地区_@@ 与_CC 城市带_@@ 发育_VV 不_AD 相关_VA 的_DEC 自然_NN 因素_NN 是_VC 气候_NN 温和_VA 湿润_VA 
+
+长江三角洲地区_loc 与_CC 城市带_term 发育_VV 不_AD 相关_VA 的_DEC 自然_NN 因素_NN 是_VC 河网_NN 密集_VA 
+长江_@@ 三角洲_@@ 地区_@@ 与_CC 城市带_@@ 发育_VV 不_AD 相关_VA 的_DEC 自然_NN 因素_NN 是_VC 河网_NN 密集_VA 
+
+长江三角洲地区_loc 与_CC 城市带_term 发育_VV 不_AD 相关_VA 的_DEC 自然_NN 因素_NN 是_VC 矿产_NN 资源_NN 丰富_VA 
+长江_@@ 三角洲_@@ 地区_@@ 与_CC 城市带_@@ 发育_VV 不_AD 相关_VA 的_DEC 自然_NN 因素_NN 是_VC 矿产_NN 资源_NN 丰富_VA 
+
+长江三角洲地区_loc 与_CC 城市带_term 发育_VV 不_AD 相关_VA 的_DEC 自然_NN 因素_NN 是_VC 临_VV 江_NN 面_VV 海_NN 的_DEC 地理_NN 位置_NN 
+长江_@@ 三角洲_@@ 地区_@@ 与_CC 城市带_@@ 发育_VV 不_AD 相关_VA 的_DEC 自然_NN 因素_NN 是_VC 临_VV 江_NN 面_VV 海_NN 的_DEC 地理_NN 位置_NN 
+
+该_DT 地区_NN 经济_NN 高速_JJ 增长_NN 的_DEG 根本_NN 原因_NN 是_VC 市场_NN 机制_NN 比较_AD 成熟_VA 
+该_DT 地区_NN 经济_NN 高速_JJ 增长_NN 的_DEG 根本_NN 原因_NN 是_VC 市场_NN 机制_NN 比较_AD 成熟_VA 
+
+该_DT 地区_NN 经济_NN 高速_JJ 增长_NN 的_DEG 根本_NN 原因_NN 是_VC 特色_NN 经济_NN 形成_VV 规模_NN 
+该_DT 地区_NN 经济_NN 高速_JJ 增长_NN 的_DEG 根本_NN 原因_NN 是_VC 特色_NN 经济_NN 形成_VV 规模_NN 
+
+该_DT 地区_NN 经济_NN 高速_JJ 增长_NN 的_DEG 根本_NN 原因_NN 是_VC 积极_AD 参与_VV 国际_NN 竞争_NN 
+该_DT 地区_NN 经济_NN 高速_JJ 增长_NN 的_DEG 根本_NN 原因_NN 是_VC 积极_AD 参与_VV 国际_NN 竞争_NN 
+
+该_DT 地区_NN 经济_NN 高速_JJ 增长_NN 的_DEG 根本_NN 原因_NN 是_VC 第一产业_term 发展_NN 迅速_VA 
+该_DT 地区_NN 经济_NN 高速_JJ 增长_NN 的_DEG 根本_NN 原因_NN 是_VC 第一_@@ 产业_@@ 发展_NN 迅速_VA 
+

@@ -1,0 +1,75 @@
+﻿喀什_NR
+比利时_NR
+法_NR
+甲_NN 、_PU 乙_NN 两_CD 区域_NN
+西雅图_NR
+甲_NN 、_PU 乙_NN 两_CD 地_NN
+滦河_NR 河道_NN
+法国_NR
+新西兰_NR
+渭河_NR 平原_NN
+张家口市_NR
+河套_NR 平原_NN
+甲地_NR
+民丰_NR
+井冈山_NR 地区_NN
+大堡礁_NR
+乌鲁木齐_NR
+京_NR 津_NR 冀_NR 地区_NN
+马来西亚_NR
+和田_NR
+河南省_NR
+张家口_NR
+崇礼_NR
+塔里木河_NR 流域_NN
+华北_NR 平原_NN
+中国_NR
+②地_NR
+井冈山_NR
+三峡_NR 地区_NN
+北京_NR
+乌海_NR
+德_NR
+磴口_NR
+①地_NR
+北岛_NR
+曹妃甸_NR 地区_NN
+京_NR 杭_NR 运河_NN
+河源_NR 地区_NN
+川_NR 渝_NR 地区_NN
+滦河_NR 三角洲_NR
+长江_NR 三角洲_NR 地区_NN
+延怀河谷_NR
+澳大利亚_NR
+长江_NR
+乙区_NR
+包_NR 兰_NR 铁路_NN
+印度尼西亚_NR
+泰国_NR
+黄河_NR
+荷兰_NR
+英吉利_NR 海峡_NN
+南海_NR
+艾尔斯_NR
+英国_NR
+俄罗斯_NR
+乙_NN 、_PU 丙_NN 两_CD 区_NN
+美国_NR
+北海_NR
+挪威_NR
+印度_NR
+南岛_NR
+北京市_NR
+一_CD 种_M
+253.74万_CD
+3_CD 个_M
+10℃_CD
+1.2亿_CD
+三分之一_CD
+1830年_NT 后_LC
+2001年_NT
+近年_NT 来_LC
+百余_CD 年_NN
+2003年_NT
+1995年_NT 以来_LC
+20世纪_NT 30年代_NT

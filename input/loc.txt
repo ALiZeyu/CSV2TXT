@@ -1,0 +1,340 @@
+黑龙江_NR
+海河_NR 流域_NN
+太白山_NR 北麓_NN
+东京_NR
+长三角_NR 地区_NN
+南京_NR 栖霞山_NR
+辽_NR
+鞍山_NR 钢铁_NN 基地_NN
+欧_NR
+南非_NR
+四川_NR 盆地_NN
+武汉_NR
+黑龙江_NR 湿地_NN
+丙村_NR
+A_NN 、_PU C_NN 两_CD 地_NN
+南方_NR 地区_NN
+①_NN ②_NN ③_NN ④_NN 四_CD 地_NN
+③处_NR
+P处_NR
+三江_NR 平原_NN 湿地_NN
+库尔勒_NR
+港_NR 珠_NR 澳_NR 大桥_NN
+西部_NN 地区_NN
+宁_NR
+河北省_NR
+⑤地_NR
+天津市_NR
+京_NR 广_NR 铁路_NN
+马达加斯加_NR
+黄土高原_NN 地区_NN
+丙处_NR
+闽_NR
+中国_NR
+青藏_NR 高原_NN
+②_NN ③_NN 两_CD 地_NN
+青藏_NR 高原_NN 地区_NN
+太行_NR 大峡谷_NN
+丁村_NR
+北京_NR
+东南_NR 地区_NN
+①地_NR
+丹江口_NR
+清明上河图_NR
+内蒙古_NR
+浙_NR
+上海_NR 市区_NN
+吉林_NR
+圣若阿金_NR 地区_NN
+丙地_NR
+苏_NR
+玛曲_NR 湿地_NN
+渤海_NR 湾_NN
+扬州_NR
+乙地_NR
+长春_NR
+好望角_NR
+海口_NR
+横断山_NR
+新疆_NR 湿地_NN
+广东_NR
+我国_NR 东部_NN
+青_NR
+南部_NN 沿海_NN 地区_NN
+香港_NR
+江苏省_NR
+丁处_NR
+环京_NR
+云南_NR
+天山_NR 山脉_NN
+祁连_NR 山脉_NN
+川_NR 、_PU 渝_NR 地区_NN
+京_NR 港_NR 澳_NR 高速_JJ 公路_NN
+撒哈拉_NR 沙漠_NN
+南洋_NR
+越南_NR
+英国_NR 西部_NN
+东南_NR 省份_NN
+京_NR 沪_NR 高速_JJ 铁路_NN
+孟加拉国_NR
+甲_NN 、_PU 乙_NN 、_PU 丙_NN 、_PU 丁_NN 四_CD 地_NN
+A_NN 、_PU D_NN 两_CD 地_NN
+北京市_NR
+北方_NR 地区_NN
+西南_NR 省份_NN
+北京_NR 周边_NN
+澳_NR
+美国_NR 肯尼迪_NR 航天_NN 中心_NN
+印度河_NR
+西亚_NR 地区_NN
+深圳_NR
+沿海_NN 地区_NN
+南方_NR
+珠江_NR 三角洲_NN
+②_NN ④_NN 两_CD 地_NN
+班加罗尔_NR
+长江_NR 中下游_NR 平原_NN
+成渝_NR 地区_NN
+桂_NR
+珠江_NR 三角洲_NN 地区_NN
+甲地_NR
+日本_NR
+海南_NR
+河北_NR
+乌鲁木齐_NR
+喜马拉雅_NR 山脉_NN
+旧金山_NR
+冀_NR
+乌兰察布_NR
+太行山_NR
+河西走廊_NR
+塔里木河_NR 流域_NN
+阿勒泰_NR
+四川_NR
+西昌_NR
+丙_NN 、_PU 丁_NN 两_CD 地_NN
+印度_NR 大部分_CD 地区_NN
+乙处_NR
+澳大利亚_NR 东北部_NN
+江西_NR
+京_NR 九_NR 铁路_NN
+辽宁_NR
+华北_NR 地区_NN
+哈尔滨_NR
+松花江_NR
+浙江_NR
+东北_NR 平原_NN
+大西洋_NR
+黄山_NR
+丁地_NR
+滨海_NR 湿地_NN
+昆仑站_NR
+昆仑_NR 山脉_NN
+南宁_NR
+蓉欧_NR 快速_JJ 铁路_NN
+西藏_NR
+乙区_NR
+八里沟_NR
+新疆_NR 喀纳斯_NR
+南半球_NR
+天津_NR
+非洲_NR 西_NN 海岸_NN
+铁塔_NR 公园_NN
+宁启_NR 铁路_NN
+德班_NR
+晋_NR
+中_NR 巴_NR 铁路_NN
+河南_NR
+漠河_NR
+龙峪湾_NN
+南海_NR
+黄土_NR 高原_NN
+宁夏_NR 平原_NN
+③地_NR
+滇_NR
+西南_NR 地区_NN
+④处_NR
+赣_NR
+准噶尔_NR 盆地_NN
+陕_NR
+祁连山_NR
+南美洲_NR 大陆_NN
+广东_NR 石门谷_NR
+慕尼黑_NR
+老君山_NR
+珠三角_NR 地区_NN
+美国_NR 中部_NN 平原_NN
+阿克苏_NR
+嫩江_NR
+Q地_NR
+清江_NR 流域_NN
+黔_NR
+抱犊寨_NR
+德国_NR
+甲_NN 、_PU 乙_NN 两_CD 地_NN
+火星_NR
+新_NR
+秋沟_NR
+藏_NR
+吉林_NR 红叶谷_NR
+④地_NR
+缅_NR
+鲁_NR
+津_NR
+印度洋_NR
+西北_NR 地区_NN
+悉尼_NR
+长江_NR 流域_NN
+北美洲_NR
+乙河_NR
+沿海_NN 城市_NN
+河口_NR
+太白山_NR 北坡_NN
+伊宁_NR
+东非_NR 高原_NN
+②地_NR
+伦敦_NR
+山东_NR
+新疆_NR
+海南岛_NR 西部_NN
+丹江口_NR 地区_NN
+湖南省_NR
+②处_NR
+长三角_NR
+大庆_NR
+横断_NR 山区_NN
+珠江_NR 流域_NN
+成都_NR 平原_NN
+江南_NR
+南亚_NR 地区_NN
+青岛_NR
+地球_NR
+海南省_NR 中部_NN
+皖_NR
+北美洲_NR 大陆_NN
+新市镇_NR
+A_NN 、_PU B_NN 两处_NR
+沪_NR
+长江_NR
+西北_NR 省份_NN
+甲国_NR
+延吉_NR
+广西_NR
+上海_NR
+宁夏_NR
+印度尼西亚_NR
+西北部_NN 地区_NN
+筑波_NR
+湖北_NR
+日本_NR 北部_NN
+荷兰_NR
+台_NR
+广州_NR
+大巴山_NR
+红旗渠_NR
+东北_NR 地区_NN
+珠三角_NR
+禹王谷_NR
+甲处_NR
+兰州_NR
+石家庄_NR
+欧盟_NR
+万仙山_NR
+黑龙江省_NR
+①_NN ②_NN ③_NN 三_CD 地_NN
+喀什_NR
+齐王寨_NR
+西部_NN
+大相国寺_NR
+台湾岛_NR
+东南部_NN 地区_NN
+甲区_NR
+豫_NR
+西藏_NR 湿地_NN
+秦岭_NR
+雪峰山_NR
+①_NN ④_NN 两_CD 地_NN
+印度_NR 半岛_NR
+菲律宾_NR
+陕西省_NR
+昆明_NR
+云南省_NR
+③_NN ④_NN 两地_NR
+甲_NN 、_PU 丙_NN 、_PU 丁_NN 三_CD 地_NN
+非洲_NR 大陆_NN
+环渤海_NR 地区_NN
+殷墟_NR
+乙国_NR
+沈阳_NR
+贵阳_NR
+德国_NR 鲁尔_NR 工业区_NN
+西藏_NR 自治区_NN
+贵州省_NR
+甘_NR
+南亚_NR
+武清区_NR
+湖南_NR
+A地_NR
+东北_NR
+马氏_NR 庄园_NN
+A_NN 、_PU B_NN 两_CD 地_NN
+长春市_NR
+欧洲_NR 西部_NN 地区_NN
+甲地区_NR
+粤_NR
+上海市_NR
+澳大利亚_NR 大陆_NN
+M地_NR
+安第斯_NR 山地_NN
+北冰洋_NR
+玻利维亚_NR
+巴西_NR
+东部_NN 平原_NN
+B地_NR
+鸡冠洞_NR
+北京市_NR 西北部_NN
+湘_NR
+东部_NN 沿海_NN 地区_NN
+珠江_NR 三角洲_NN 工业_NN 基地_NN
+合恩角_NR
+马六甲_NR 海峡_NN
+帕斯_NR
+内蒙古_NR 乌兰察布_NR
+江苏_NR
+太平洋_NR
+京杭_NR 运河_NN
+大兴安岭_NR
+南美洲_NR
+湘_NR 、_PU 赣_NR 北部_NN
+瓦努阿图_NR
+澳大利亚_NR
+西安_NR
+京_NR
+太白山_NR
+唐古拉山_NR
+亚洲_NR 东部_NN
+亚洲_NR
+丙区_NR
+新加坡_NR
+南极_NR
+欧洲_NR
+冰岛_NR
+巫山_NR
+港_NR
+英国_NR
+华北_NR
+汉江_NR
+⑥地_NR
+太阳_NR
+俄罗斯_NR
+大洋洲_NR
+兖州_NR
+美国_NR
+大连_NR
+北冰洋_NR 海域_NN
+①_NN ③_NN 两_CD 地_NN
+印度_NR
+①处_NR
+东南亚_NR
+中_NR
+内陆_NN 城市_NN

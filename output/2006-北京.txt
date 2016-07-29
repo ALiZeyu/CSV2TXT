@@ -1,0 +1,104 @@
+三_CD 个_M 观测点_NN 中_LC ①_NN 位于_VV 大西洋_loc 
+三_CD 个_M 观测点_NN 中_LC ①_NN 位于_VV 大西洋_loc 
+三_CD 个_M 观测点_NN 中_LC ②_NN 的_DEG 纬度_term 位置_NN 最_AD 低_VA 
+三_CD 个_M 观测点_NN 中_LC ②_NN 的_DEG 纬度_term 位置_NN 最_AD 低_VA 
+三_CD 个_M 观测点_NN 中_LC ③_NN 的_DEG 海底_NN 地形_NN 是_VC 大陆架_term 
+三_CD 个_M 观测点_NN 中_LC ③_NN 的_DEG 海底_NN 地形_NN 是_VC 大陆架_term 
+三_CD 个_M 观测点_NN 中_LC 0－1km_num 之间_LC ，_PU ①_NN 的_DEG 水温_NN 变化_NN 比_P ②_NN 大_VA 
+三_CD 个_M 观测点_NN 中_LC 0_num －_num 1_num km_num 之间_LC ，_PU ①_NN 的_DEG 水温_NN 变化_NN 比_P ②_NN 大_VA 
+日界线_term 附近_NN ，_PU 易_AD 形成_VV 台风_NN 海区_NN 的_DEG 北界_NN 可达_VV 北纬_term 35°_num 
+日界线_term 附近_NN ，_PU 易_AD 形成_VV 台风_NN 海区_NN 的_DEG 北界_NN 可达_VV 北纬_term 35°_num 
+日界线_term 附近_NN ，_PU 易_AD 形成_VV 台风_NN 海区_NN 的_DEG 北界_NN 可达_VV 北纬_term 25°_num 
+日界线_term 附近_NN ，_PU 易_AD 形成_VV 台风_NN 海区_NN 的_DEG 北界_NN 可达_VV 北纬_term 25°_num 
+日界线_term 附近_NN ，_PU 易_AD 形成_VV 台风_NN 海区_NN 的_DEG 北界_NN 可达_VV 北纬_term 20°_num 
+日界线_term 附近_NN ，_PU 易_AD 形成_VV 台风_NN 海区_NN 的_DEG 北界_NN 可达_VV 北纬_term 20°_num 
+日界线_term 附近_NN ，_PU 易_AD 形成_VV 台风_NN 海区_NN 的_DEG 北界_NN 可达_VV 北纬_term 15°_num 
+日界线_term 附近_NN ，_PU 易_AD 形成_VV 台风_NN 海区_NN 的_DEG 北界_NN 可达_VV 北纬_term 15°_num 
+影响_VV 美国_loc 的_DEC 飓风_term （_PU 台风_term ）_PU 多_AD 形成_VV 于_P ①_NN 
+影响_VV 美国_loc 的_DEC 飓风_term （_PU 台风_term ）_PU 多_AD 形成_VV 于_P ①_NN 
+影响_VV 美国_loc 的_DEC 飓风_term （_PU 台风_term ）_PU 多_AD 形成_VV 于_P ②_NN 
+影响_VV 美国_loc 的_DEC 飓风_term （_PU 台风_term ）_PU 多_AD 形成_VV 于_P ②_NN 
+影响_VV 美国_loc 的_DEC 飓风_term （_PU 台风_term ）_PU 多_AD 形成_VV 于_P ③_NN 
+影响_VV 美国_loc 的_DEC 飓风_term （_PU 台风_term ）_PU 多_AD 形成_VV 于_P ③_NN 
+影响_VV 美国_loc 的_DEC 飓风_term （_PU 台风_term ）_PU 多_AD 形成_VV 于_P ④_NN 
+影响_VV 美国_loc 的_DEC 飓风_term （_PU 台风_term ）_PU 多_AD 形成_VV 于_P ④_NN 
+图示_VV 四_CD 个_M 区域_NN 中_LC ①_NN 主要_AD 受_VV 风海流_term 影响_NN 
+图示_VV 四_CD 个_M 区域_NN 中_LC ①_NN 主要_AD 受_VV 风海流_term 影响_NN 
+图示_VA 四_CD 个_M 区域_NN 中_LC ②_NN 主要_AD 受_VV 寒流_term 影响_NN 
+图示_VA 四_CD 个_M 区域_NN 中_LC ②_NN 主要_AD 受_VV 寒流_term 影响_NN 
+图示_VA 四_CD 个_M 区域_NN 中_LC ③_NN 是_VC 世界_NN 著名_JJ 大渔场_NN 
+图示_VA 四_CD 个_M 区域_NN 中_LC ③_NN 是_VC 世界_NN 著名_JJ 大渔场_NN 
+图示_VA 四_CD 个_M 区域_NN 中_LC ④_NN 主要_AD 受_VV 密度流_term 影响_NN 
+图示_VA 四_CD 个_M 区域_NN 中_LC ④_NN 主要_AD 受_VV 密度流_term 影响_NN 
+适宜_VV 多数_CD 作物_NN 生长_NN 的_DEG 理想_NN 的_DEG 土壤_NN 空气_NN 和_CC 水分_NN 比例_NN 变化_NN 应_VV 在_P ①_NN —_PU ②_NN 之间_LC 
+适宜_VV 多数_CD 作物_NN 生长_NN 的_DEG 理想_NN 的_DEG 土壤_NN 空气_NN 和_CC 水分_NN 比例_NN 变化_NN 应_VV 在_P ①_NN —_PU ②_NN 之间_LC 
+适宜_VV 多数_CD 作物_NN 生长_NN 的_DEG 理想_NN 的_DEG 土壤_NN 空气_NN 和_CC 水分_NN 比例_NN 变化_NN 应_VV 在_P ①_NN —_PU ④_NN 之间_LC 
+适宜_VV 多数_CD 作物_NN 生长_NN 的_DEG 理想_NN 的_DEG 土壤_NN 空气_NN 和_CC 水分_NN 比例_NN 变化_NN 应_VV 在_P ①_NN —_PU ④_NN 之间_LC 
+适宜_VV 多数_CD 作物_NN 生长_NN 的_DEG 理想_NN 的_DEG 土壤_NN 空气_NN 和_CC 水分_NN 比例_NN 变化_NN 应_VV 在_P ②_NN —_PU ③_NN 之间_LC 
+适宜_VV 多数_CD 作物_NN 生长_NN 的_DEG 理想_NN 的_DEG 土壤_NN 空气_NN 和_CC 水分_NN 比例_NN 变化_NN 应_VV 在_P ②_NN —_PU ③_NN 之间_LC 
+适宜_VV 多数_CD 作物_NN 生长_NN 的_DEG 理想_NN 的_DEG 土壤_NN 空气_NN 和_CC 水分_NN 比例_NN 变化_NN 应_VV 在_P ③_NN —_PU ④_NN 之间_LC 
+适宜_VV 多数_CD 作物_NN 生长_NN 的_DEG 理想_NN 的_DEG 土壤_NN 空气_NN 和_CC 水分_NN 比例_NN 变化_NN 应_VV 在_P ③_NN —_PU ④_NN 之间_LC 
+利用_VV 遥感技术_term 监测_VV 土壤_NN 水分_NN 含量_NN 变化_NN 。_PU 主要_JJ 依据_NN 土壤_NN 温度_NN 
+利用_VV 遥感_term 技术_term 监测_VV 土壤_NN 水分_NN 含量_NN 变化_NN 。_PU 主要_JJ 依据_NN 土壤_NN 温度_NN 
+利用_VV 遥感技术_term 监测_VV 土壤_NN 水分_NN 含量_NN 变化_NN 。_PU 主要_JJ 依据_NN 土壤_NN 孔隙_VV 
+利用_VV 遥感_term 技术_term 监测_VV 土壤_NN 水分_NN 含量_NN 变化_NN 。_PU 主要_JJ 依据_NN 土壤_NN 孔隙_VV 
+利用_VV 遥感技术_term 监测_VV 土壤_NN 水分_NN 含量_NN 变化_NN 。_PU 主要_JJ 依据_NN 土壤_NN 肥力_NN 
+利用_VV 遥感_term 技术_term 监测_VV 土壤_NN 水分_NN 含量_NN 变化_NN 。_PU 主要_JJ 依据_NN 土壤_NN 肥力_NN 
+利用_VV 遥感技术_term 监测_VV 土壤_NN 水分_NN 含量_NN 变化_NN 。_PU 主要_JJ 依据_NN 土壤_NN 空气_NN 
+利用_VV 遥感_term 技术_term 监测_VV 土壤_NN 水分_NN 含量_NN 变化_NN 。_PU 主要_JJ 依据_NN 土壤_NN 空气_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 东北平原_loc 开荒_VV 、_PU 焚烧_NN 秸秆_NN ，_PU 加速_VV 有机质_NR 分解_VV 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 东北_loc 平原_loc 开荒_VV 、_PU 焚烧_NN 秸秆_NN ，_PU 加速_VV 有机质_NR 分解_VV 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 东北平原_loc 开荒_VV 、_PU 焚烧_NN 秸秆_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 东北_loc 平原_loc 开荒_VV 、_PU 焚烧_NN 秸秆_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 东北平原_loc 加速_VV 有机质_NR 分解_VV 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 东北_loc 平原_loc 加速_VV 有机质_NR 分解_VV 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 黄土高原_loc 保塬_NN 、_PU 护坡_NN 、_PU 固沟_NN ，_PU 防治_VV 水土流失_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 黄土_loc 高原_loc 保塬_NN 、_PU 护坡_NN 、_PU 固沟_NN ，_PU 防治_VV 水土流失_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 黄土高原_loc 保塬_NN 、_PU 护坡_NN 、_PU 固沟_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 黄土_loc 高原_loc 保塬_NN 、_PU 护坡_NN 、_PU 固沟_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 黄土高原_loc 防治_VV 水土_NN 流失_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 黄土_loc 高原_loc 防治_VV 水土_NN 流失_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 黄淮海平原_loc 实施_VV 排灌_NN ，_PU 调控_NN 土壤_NN 盐分_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 黄淮海_loc 平原_loc 实施_VV 排灌_NN ，_PU 调控_NN 土壤_NN 盐分_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 黄淮海平原_loc 实施_VV 排灌_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 黄淮海_loc 平原_loc 实施_VV 排灌_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 黄淮海平原_loc 调控_NN 土壤_NN 盐分_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 黄淮海_loc 平原_loc 调控_NN 土壤_NN 盐分_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 江南丘陵_loc 施用_VV 石灰_NN ，_PU 中和_NR 土壤_NN 酸度_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 江南_loc 丘陵_loc 施用_VV 石灰_NN ，_PU 中和_NR 土壤_NN 酸度_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 江南丘陵_loc 施用_VV 石灰_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 江南_loc 丘陵_loc 施用_VV 石灰_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 江南丘陵_loc 中和_NR 土壤_NN 酸度_NN 
+不_AD 够_VA 合理_VA 的_DEC 治理_NN 土壤_NN 退化_VV 的_DEC 措施_NN 是_VC 江南_loc 丘陵_loc 中和_NR 土壤_NN 酸度_NN 
+决定_VV 中国_loc 自然地理环境_term 差异_NN 的_DEG 基本_JJ 因素_NN 是_VC 植被_term 和_CC 气候_term 
+决定_VV 中国_loc 自然_term 地理_term 环境_term 差异_NN 的_DEG 基本_JJ 因素_NN 是_VC 植被_term 和_CC 气候_term 
+决定_VV 中国_loc 自然地理环境_term 差异_NN 的_DEG 基本_JJ 因素_NN 是_VC 气候_term 和_CC 地貌_term 
+决定_VV 中国_loc 自然_term 地理_term 环境_term 差异_NN 的_DEG 基本_JJ 因素_NN 是_VC 气候_term 和_CC 地貌_term 
+决定_VV 中国_loc 自然地理环境_term 差异_NN 的_DEG 基本_JJ 因素_NN 是_VC 地貌_term 和_CC 水文_term 
+决定_VV 中国_loc 自然_term 地理_term 环境_term 差异_NN 的_DEG 基本_JJ 因素_NN 是_VC 地貌_term 和_CC 水文_term 
+决定_VV 中国_loc 自然地理环境_term 差异_NN 的_DEG 基本_JJ 因素_NN 是_VC 土壤_NN 和_CC 植被_term 
+决定_VV 中国_loc 自然_term 地理_term 环境_term 差异_NN 的_DEG 基本_JJ 因素_NN 是_VC 土壤_NN 和_CC 植被_term 
+同_P 等级_NN 铁路_NN 平均_AD 每_DT 千米_M 工程量_NN 和_CC 造价_NN 最_AD 高_VA 的_DEC 是_VC 哈尔滨_loc —_PU 沈阳_loc 段_NN 
+同_P 等级_NN 铁路_NN 平均_AD 每_DT 千米_M 工程量_NN 和_CC 造价_NN 最_AD 高_VA 的_DEC 是_VC 哈尔滨_loc —_PU 沈阳_loc 段_NN 
+同_P 等级_NN 铁路_NN 平均_AD 每_DT 千米_M 工程量_NN 和_CC 造价_NN 最_AD 高_VA 的_DEC 是_VC 太原_loc —_PU 石家庄_loc 段_NN 
+同_P 等级_NN 铁路_NN 平均_AD 每_DT 千米_M 工程量_NN 和_CC 造价_NN 最_AD 高_VA 的_DEC 是_VC 太原_loc —_PU 石家庄_loc 段_NN 
+同_P 等级_NN 铁路_NN 平均_AD 每_DT 千米_M 工程量_NN 和_CC 造价_NN 最_AD 高_VA 的_DEC 是_VC 郑州_loc —_PU 徐州_loc 段_NN 
+同_P 等级_NN 铁路_NN 平均_AD 每_DT 千米_M 工程量_NN 和_CC 造价_NN 最_AD 高_VA 的_DEC 是_VC 郑州_loc —_PU 徐州_loc 段_NN 
+同_P 等级_NN 铁路_NN 平均_AD 每_DT 千米_M 工程量_NN 和_CC 造价_NN 最_AD 高_VA 的_DEC 是_VC 广州_loc —_PU 深圳_loc 段_NN 
+同_P 等级_NN 铁路_NN 平均_AD 每_DT 千米_M 工程量_NN 和_CC 造价_NN 最_AD 高_VA 的_DEC 是_VC 广州_loc —_PU 深圳_loc 段_NN 
+近_AD 20年_time 来_M ，_PU 人口_NN 流出量_NN 最_AD 大_JJ 省_NN 的_DEG 省会_NN 是_VC 太原_loc 
+近_AD 20年_time 来_M ，_PU 人口_NN 流出量_NN 最_AD 大_JJ 省_NN 的_DEG 省会_NN 是_VC 太原_loc 
+近_AD 20年_time 来_M ，_PU 人口_NN 流出量_NN 最_AD 大_JJ 省_NN 的_DEG 省会_NN 是_VC 兰州_loc 
+近_AD 20年_time 来_M ，_PU 人口_NN 流出量_NN 最_AD 大_JJ 省_NN 的_DEG 省会_NN 是_VC 兰州_loc 
+近_AD 20年_time 来_M ，_PU 人口_NN 流出量_NN 最_AD 大_JJ 省_NN 的_DEG 省会_NN 是_VC 成都_loc 
+近_AD 20年_time 来_M ，_PU 人口_NN 流出量_NN 最_AD 大_JJ 省_NN 的_DEG 省会_NN 是_VC 成都_loc 
+近_AD 20年_time 来_M ，_PU 人口_NN 流出量_NN 最_AD 大_JJ 省_NN 的_DEG 省会_NN 是_VC 广州_loc 
+近_AD 20年_time 来_M ，_PU 人口_NN 流出量_NN 最_AD 大_JJ 省_NN 的_DEG 省会_NN 是_VC 广州_loc 
+图_NN 中_LC 城市_NN 青岛_loc 比_P 杭州_loc 白昼_NN 长_VA 
+图_NN 中_LC 城市_NN 青岛_loc 比_P 杭州_loc 白昼_NN 长_VA 
+图_NN 中_LC 城市_NN 北京_loc 比_P 深圳_loc 日出_VV 早_AD 
+图_NN 中_LC 城市_NN 北京_loc 比_P 深圳_loc 日出_VV 早_AD 
+图_NN 中_LC 城市_NN 南京_loc 比_P 长沙_loc 日落_VV 晚_NN 
+图_NN 中_LC 城市_NN 南京_loc 比_P 长沙_loc 日落_VV 晚_NN 
+图_NN 中_LC 城市_NN 兰州_loc 比_P 上海_loc 正午太阳高度_term 小_JJ 
+图_NN 中_LC 城市_NN 兰州_loc 比_P 上海_loc 正午_term 太阳_term 高度_term 小_JJ 

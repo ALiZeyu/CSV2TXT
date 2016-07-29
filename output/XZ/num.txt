@@ -1,0 +1,84 @@
+Ⅳ_CD
+200_CD mg/kg_M
+80%_CD
+5万_CD
+165°W_CD
+第二_OD 阶段_NN
+1500_CD 毫米_M 以上_LC
+50.3%_CD
+120°E_CD
+第16_OD 届_CD
+25°S_CD
+160°E_CD
+Ⅰ_CD
+800_CD —_PU 1600_CD 毫米_M
+4.6℃_CD
+18℃_CD
+0_CD —_PU 15_CD 岁_M
+24%_CD
+第一_OD 阶段_NN
+36_CD 千米_M
+4000_CD 米_M
+6_CD 个_M
+5.3℃_CD
+1_CD 次_M
+58%_CD
+140°E_CD
+129533万_CD
+170°W_CD
+600_CD 千米_M
+19%_CD
+170°E_CD
+J2_CD
+7级_CD
+2000_CD 毫米_M 以上_LC
+200_CD —_PU 400_CD 毫米_M
+5000_CD 米_M 以上_LC
+135°E_CD
+百万_CD
+500万_CD
+2_CD
+1000_CD —_PU 1200亿_CD 元_M
+175°E_CD
+60_CD 岁_M 及_CC 以上_LC
+100万_CD
+Ⅱ_CD
+33_CD
+90°E_CD
+4_CD 次_M
+4843_CD 米_M
+28°30′N_CD
+55亿_CD 元_M
+J1_CD
+40°N_CD
+2_CD 次_M
+150°E_CD
+0℃_CD
+50%_CD
+80°42′W_CD
+500_CD 千米_M
+30_CD 千米_M
+2000_CD 千米_M
+30°S_CD
+40°S_CD
+6.2℃_CD
+10_CD ～_PU 30_CD 千米_M
+第一_OD 个_M
+Ⅲ_CD
+第一_OD 辆_M
+3_CD 次_M
+90°_CD
+3840_CD 米_M
+134735万_CD
+四_CD 个_M
+1.5_CD
+2843_CD 米_M
+3.4℃_CD
+230万_CD
+60°N_CD
+55°E_CD
+60°E_CD
+56.8%_CD
+18℃_CD
+400_CD —_PU 800_CD 毫米_M
+0.5_CD

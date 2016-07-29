@@ -1,0 +1,53 @@
+时间,地点,术语,数量词,（粗粒度）分词,（细粒度）分词,词性
+,6,,,三 个 观测点 中 ① 位于 大西洋,三 个 观测点 中 ① 位于 大西洋,CD M NN LC NN VV loc
+,,6,,三 个 观测点 中 ② 的 纬度 位置 最 低,三 个 观测点 中 ② 的 纬度 位置 最 低,CD M NN LC NN DEG term NN AD VA
+,,9,,三 个 观测点 中 ③ 的 海底 地形 是 大陆架,三 个 观测点 中 ③ 的 海底 地形 是 大陆架,CD M NN LC NN DEG NN NN VC term
+,,,4,三 个 观测点 中 0－1km 之间 ， ① 的 水温 变化 比 ② 大,三 个 观测点 中 0 － 1 km 之间 ， ① 的 水温 变化 比 ② 大,CD M NN LC num LC PU NN DEG NN NN P NN VA
+,,0 10,11,日界线 附近 ， 易 形成 台风 海区 的 北界 可达 北纬 35°,日界线 附近 ， 易 形成 台风 海区 的 北界 可达 北纬 35°,term NN PU AD VV NN NN DEG NN VV term num
+,,0 10,11,日界线 附近 ， 易 形成 台风 海区 的 北界 可达 北纬 25°,日界线 附近 ， 易 形成 台风 海区 的 北界 可达 北纬 25°,term NN PU AD VV NN NN DEG NN VV term num
+,,0 10,11,日界线 附近 ， 易 形成 台风 海区 的 北界 可达 北纬 20°,日界线 附近 ， 易 形成 台风 海区 的 北界 可达 北纬 20°,term NN PU AD VV NN NN DEG NN VV term num
+,,0 10,11,日界线 附近 ， 易 形成 台风 海区 的 北界 可达 北纬 15°,日界线 附近 ， 易 形成 台风 海区 的 北界 可达 北纬 15°,term NN PU AD VV NN NN DEG NN VV term num
+,1,3 5,,影响 美国 的 飓风 （ 台风 ） 多 形成 于 ①,影响 美国 的 飓风 （ 台风 ） 多 形成 于 ①,VV loc DEC term PU term PU AD VV P NN
+,1,3 5,,影响 美国 的 飓风 （ 台风 ） 多 形成 于 ②,影响 美国 的 飓风 （ 台风 ） 多 形成 于 ②,VV loc DEC term PU term PU AD VV P NN
+,1,3 5,,影响 美国 的 飓风 （ 台风 ） 多 形成 于 ③,影响 美国 的 飓风 （ 台风 ） 多 形成 于 ③,VV loc DEC term PU term PU AD VV P NN
+,1,3 5,,影响 美国 的 飓风 （ 台风 ） 多 形成 于 ④,影响 美国 的 飓风 （ 台风 ） 多 形成 于 ④,VV loc DEC term PU term PU AD VV P NN
+,,8,,图示 四 个 区域 中 ① 主要 受 风海流 影响,图示 四 个 区域 中 ① 主要 受 风海流 影响,VV CD M NN LC NN AD VV term NN
+,,8,,图示 四 个 区域 中 ② 主要 受 寒流 影响,图示 四 个 区域 中 ② 主要 受 寒流 影响,VA CD M NN LC NN AD VV term NN
+,,,,图示 四 个 区域 中 ③ 是 世界 著名 大渔场,图示 四 个 区域 中 ③ 是 世界 著名 大渔场,VA CD M NN LC NN VC NN JJ NN
+,,8,,图示 四 个 区域 中 ④ 主要 受 密度流 影响,图示 四 个 区域 中 ④ 主要 受 密度流 影响,VA CD M NN LC NN AD VV term NN
+,,,,适宜 多数 作物 生长 的 理想 的 土壤 空气 和 水分 比例 变化 应 在 ① — ② 之间,适宜 多数 作物 生长 的 理想 的 土壤 空气 和 水分 比例 变化 应 在 ① — ② 之间,VV CD NN NN DEG NN DEG NN NN CC NN NN NN VV P NN PU NN LC
+,,,,适宜 多数 作物 生长 的 理想 的 土壤 空气 和 水分 比例 变化 应 在 ① — ④ 之间,适宜 多数 作物 生长 的 理想 的 土壤 空气 和 水分 比例 变化 应 在 ① — ④ 之间,VV CD NN NN DEG NN DEG NN NN CC NN NN NN VV P NN PU NN LC
+,,,,适宜 多数 作物 生长 的 理想 的 土壤 空气 和 水分 比例 变化 应 在 ② — ③ 之间,适宜 多数 作物 生长 的 理想 的 土壤 空气 和 水分 比例 变化 应 在 ② — ③ 之间,VV CD NN NN DEG NN DEG NN NN CC NN NN NN VV P NN PU NN LC
+,,,,适宜 多数 作物 生长 的 理想 的 土壤 空气 和 水分 比例 变化 应 在 ③ — ④ 之间,适宜 多数 作物 生长 的 理想 的 土壤 空气 和 水分 比例 变化 应 在 ③ — ④ 之间,VV CD NN NN DEG NN DEG NN NN CC NN NN NN VV P NN PU NN LC
+,,1,,利用 遥感技术 监测 土壤 水分 含量 变化 。 主要 依据 土壤 温度,利用 遥感 技术 监测 土壤 水分 含量 变化 。 主要 依据 土壤 温度,VV term VV NN NN NN NN PU JJ NN NN NN
+,,1,,利用 遥感技术 监测 土壤 水分 含量 变化 。 主要 依据 土壤 孔隙,利用 遥感 技术 监测 土壤 水分 含量 变化 。 主要 依据 土壤 孔隙,VV term VV NN NN NN NN PU JJ NN NN VV
+,,1,,利用 遥感技术 监测 土壤 水分 含量 变化 。 主要 依据 土壤 肥力,利用 遥感 技术 监测 土壤 水分 含量 变化 。 主要 依据 土壤 肥力,VV term VV NN NN NN NN PU JJ NN NN NN
+,,1,,利用 遥感技术 监测 土壤 水分 含量 变化 。 主要 依据 土壤 空气,利用 遥感 技术 监测 土壤 水分 含量 变化 。 主要 依据 土壤 空气,VV term VV NN NN NN NN PU JJ NN NN NN
+,10,,,不 够 合理 的 治理 土壤 退化 的 措施 是 东北平原 开荒 、 焚烧 秸秆 ， 加速 有机质 分解,不 够 合理 的 治理 土壤 退化 的 措施 是 东北 平原 开荒 、 焚烧 秸秆 ， 加速 有机质 分解,AD VA VA DEC NN NN VV DEC NN VC loc VV PU NN NN PU VV NR VV
+,10,,,不 够 合理 的 治理 土壤 退化 的 措施 是 东北平原 开荒 、 焚烧 秸秆,不 够 合理 的 治理 土壤 退化 的 措施 是 东北 平原 开荒 、 焚烧 秸秆,AD VA VA DEC NN NN VV DEC NN VC loc VV PU NN NN
+,10,,,不 够 合理 的 治理 土壤 退化 的 措施 是 东北平原 加速 有机质 分解,不 够 合理 的 治理 土壤 退化 的 措施 是 东北 平原 加速 有机质 分解,AD VA VA DEC NN NN VV DEC NN VC loc VV NR VV
+,10,,,不 够 合理 的 治理 土壤 退化 的 措施 是 黄土高原 保塬 、 护坡 、 固沟 ， 防治 水土流失,不 够 合理 的 治理 土壤 退化 的 措施 是 黄土 高原 保塬 、 护坡 、 固沟 ， 防治 水土流失,AD VA VA DEC NN NN VV DEC NN VC loc NN PU NN PU NN PU VV NN
+,10,,,不 够 合理 的 治理 土壤 退化 的 措施 是 黄土高原 保塬 、 护坡 、 固沟,不 够 合理 的 治理 土壤 退化 的 措施 是 黄土 高原 保塬 、 护坡 、 固沟,AD VA VA DEC NN NN VV DEC NN VC loc NN PU NN PU NN
+,10,,,不 够 合理 的 治理 土壤 退化 的 措施 是 黄土高原 防治 水土 流失,不 够 合理 的 治理 土壤 退化 的 措施 是 黄土 高原 防治 水土 流失,AD VA VA DEC NN NN VV DEC NN VC loc VV NN NN
+,10,,,不 够 合理 的 治理 土壤 退化 的 措施 是 黄淮海平原 实施 排灌 ， 调控 土壤 盐分,不 够 合理 的 治理 土壤 退化 的 措施 是 黄淮海 平原 实施 排灌 ， 调控 土壤 盐分,AD VA VA DEC NN NN VV DEC NN VC loc VV NN PU NN NN NN
+,10,,,不 够 合理 的 治理 土壤 退化 的 措施 是 黄淮海平原 实施 排灌,不 够 合理 的 治理 土壤 退化 的 措施 是 黄淮海 平原 实施 排灌,AD VA VA DEC NN NN VV DEC NN VC loc VV NN
+,10,,,不 够 合理 的 治理 土壤 退化 的 措施 是 黄淮海平原 调控 土壤 盐分,不 够 合理 的 治理 土壤 退化 的 措施 是 黄淮海 平原 调控 土壤 盐分,AD VA VA DEC NN NN VV DEC NN VC loc NN NN NN
+,10,,,不 够 合理 的 治理 土壤 退化 的 措施 是 江南丘陵 施用 石灰 ， 中和 土壤 酸度,不 够 合理 的 治理 土壤 退化 的 措施 是 江南 丘陵 施用 石灰 ， 中和 土壤 酸度,AD VA VA DEC NN NN VV DEC NN VC loc VV NN PU NR NN NN
+,10,,,不 够 合理 的 治理 土壤 退化 的 措施 是 江南丘陵 施用 石灰,不 够 合理 的 治理 土壤 退化 的 措施 是 江南 丘陵 施用 石灰,AD VA VA DEC NN NN VV DEC NN VC loc VV NN
+,10,,,不 够 合理 的 治理 土壤 退化 的 措施 是 江南丘陵 中和 土壤 酸度,不 够 合理 的 治理 土壤 退化 的 措施 是 江南 丘陵 中和 土壤 酸度,AD VA VA DEC NN NN VV DEC NN VC loc NR NN NN
+,1,2 8 10,,决定 中国 自然地理环境 差异 的 基本 因素 是 植被 和 气候,决定 中国 自然 地理 环境 差异 的 基本 因素 是 植被 和 气候,VV loc term NN DEG JJ NN VC term CC term
+,1,2 8 10,,决定 中国 自然地理环境 差异 的 基本 因素 是 气候 和 地貌,决定 中国 自然 地理 环境 差异 的 基本 因素 是 气候 和 地貌,VV loc term NN DEG JJ NN VC term CC term
+,1,2 8 10,,决定 中国 自然地理环境 差异 的 基本 因素 是 地貌 和 水文,决定 中国 自然 地理 环境 差异 的 基本 因素 是 地貌 和 水文,VV loc term NN DEG JJ NN VC term CC term
+,1,2 10,,决定 中国 自然地理环境 差异 的 基本 因素 是 土壤 和 植被,决定 中国 自然 地理 环境 差异 的 基本 因素 是 土壤 和 植被,VV loc term NN DEG JJ NN VC NN CC term
+,13 15,,,同 等级 铁路 平均 每 千米 工程量 和 造价 最 高 的 是 哈尔滨 — 沈阳 段,同 等级 铁路 平均 每 千米 工程量 和 造价 最 高 的 是 哈尔滨 — 沈阳 段,P NN NN AD DT M NN CC NN AD VA DEC VC loc PU loc NN
+,13 15,,,同 等级 铁路 平均 每 千米 工程量 和 造价 最 高 的 是 太原 — 石家庄 段,同 等级 铁路 平均 每 千米 工程量 和 造价 最 高 的 是 太原 — 石家庄 段,P NN NN AD DT M NN CC NN AD VA DEC VC loc PU loc NN
+,13 15,,,同 等级 铁路 平均 每 千米 工程量 和 造价 最 高 的 是 郑州 — 徐州 段,同 等级 铁路 平均 每 千米 工程量 和 造价 最 高 的 是 郑州 — 徐州 段,P NN NN AD DT M NN CC NN AD VA DEC VC loc PU loc NN
+,13 15,,,同 等级 铁路 平均 每 千米 工程量 和 造价 最 高 的 是 广州 — 深圳 段,同 等级 铁路 平均 每 千米 工程量 和 造价 最 高 的 是 广州 — 深圳 段,P NN NN AD DT M NN CC NN AD VA DEC VC loc PU loc NN
+1,12,,,近 20年 来 ， 人口 流出量 最 大 省 的 省会 是 太原,近 20年 来 ， 人口 流出量 最 大 省 的 省会 是 太原,AD time M PU NN NN AD JJ NN DEG NN VC loc
+1,12,,,近 20年 来 ， 人口 流出量 最 大 省 的 省会 是 兰州,近 20年 来 ， 人口 流出量 最 大 省 的 省会 是 兰州,AD time M PU NN NN AD JJ NN DEG NN VC loc
+1,12,,,近 20年 来 ， 人口 流出量 最 大 省 的 省会 是 成都,近 20年 来 ， 人口 流出量 最 大 省 的 省会 是 成都,AD time M PU NN NN AD JJ NN DEG NN VC loc
+1,12,,,近 20年 来 ， 人口 流出量 最 大 省 的 省会 是 广州,近 20年 来 ， 人口 流出量 最 大 省 的 省会 是 广州,AD time M PU NN NN AD JJ NN DEG NN VC loc
+,3 5,,,图 中 城市 青岛 比 杭州 白昼 长,图 中 城市 青岛 比 杭州 白昼 长,NN LC NN loc P loc NN VA
+,3 5,,,图 中 城市 北京 比 深圳 日出 早,图 中 城市 北京 比 深圳 日出 早,NN LC NN loc P loc VV AD
+,3 5,,,图 中 城市 南京 比 长沙 日落 晚,图 中 城市 南京 比 长沙 日落 晚,NN LC NN loc P loc VV NN
+,3 5,6,,图 中 城市 兰州 比 上海 正午太阳高度 小,图 中 城市 兰州 比 上海 正午 太阳 高度 小,NN LC NN loc P loc term JJ

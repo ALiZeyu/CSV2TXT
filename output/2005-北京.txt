@@ -1,0 +1,88 @@
+造成_VV 该_DT 沙尘_NN 天气_NN 的_DEG 天气_NN 系统_NN 是_VC 气旋_term 、_PU 冷锋_term 
+造成_VV 该_DT 沙尘_NN 天气_NN 的_DEG 天气_NN 系统_NN 是_VC 气旋_term 、_PU 冷锋_term 
+造成_VV 该_DT 沙尘_NN 天气_NN 的_DEG 天气_NN 系统_NN 是_VC 气旋_term 、_PU 暖锋_term 
+造成_VV 该_DT 沙尘_NN 天气_NN 的_DEG 天气_NN 系统_NN 是_VC 气旋_term 、_PU 暖锋_term 
+造成_VV 该_DT 沙尘_NN 天气_NN 的_DEG 天气_NN 系统_NN 是_VC 反气旋_term 、_PU 暖锋_term 
+造成_VV 该_DT 沙尘_NN 天气_NN 的_DEG 天气_NN 系统_NN 是_VC 反气旋_term 、_PU 暖锋_term 
+造成_VV 该_DT 沙尘_NN 天气_NN 的_DEG 天气_NN 系统_NN 是_VC 反气旋_term 、_PU 冷锋_term 
+造成_VV 该_DT 沙尘_NN 天气_NN 的_DEG 天气_NN 系统_NN 是_VC 反气旋_term 、_PU 冷锋_term 
+该_DT 沙尘_NN 天气_NN 先后_AD 经过_VV 呼和浩特_loc 、_PU 北京_loc 、_PU 石家庄_loc ，_PU 它们_PN 依次_AD 是_VC 图_NN 中_LC 的_DEG ①_NN ②_NN ③_NN 
+该_DT 沙尘_NN 天气_NN 先后_AD 经过_VV 呼和浩特_loc 、_PU 北京_loc 、_PU 石家庄_loc ，_PU 它们_PN 依次_AD 是_VC 图_NN 中_LC 的_DEG ①_NN ②_NN ③_NN 
+该_DT 沙尘_NN 天气_NN 先后_AD 经过_VV 呼和浩特_loc 、_PU 北京_loc 、_PU 石家庄_loc ，_PU 它们_PN 依次_AD 是_VC 图_NN 中_LC 的_DEG ②_NN ①_NN ③_NN 
+该_DT 沙尘_NN 天气_NN 先后_AD 经过_VV 呼和浩特_loc 、_PU 北京_loc 、_PU 石家庄_loc ，_PU 它们_PN 依次_AD 是_VC 图_NN 中_LC 的_DEG ②_NN ①_NN ③_NN 
+该_DT 沙尘_NN 天气_NN 先后_AD 经过_VV 呼和浩特_loc 、_PU 北京_loc 、_PU 石家庄_loc ，_PU 它们_PN 依次_AD 是_VC 图_NN 中_LC 的_DEG ③_NN ②_NN ①_NN 
+该_DT 沙尘_NN 天气_NN 先后_AD 经过_VV 呼和浩特_loc 、_PU 北京_loc 、_PU 石家庄_loc ，_PU 它们_PN 依次_AD 是_VC 图_NN 中_LC 的_DEG ③_NN ②_NN ①_NN 
+该_DT 沙尘_NN 天气_NN 先后_AD 经过_VV 呼和浩特_loc 、_PU 北京_loc 、_PU 石家庄_loc ，_PU 它们_PN 依次_AD 是_VC 图_NN 中_LC 的_DEG ②_NN ③_NN ①_NN 
+该_DT 沙尘_NN 天气_NN 先后_AD 经过_VV 呼和浩特_loc 、_PU 北京_loc 、_PU 石家庄_loc ，_PU 它们_PN 依次_AD 是_VC 图_NN 中_LC 的_DEG ②_NN ③_NN ①_NN 
+登顶_NN 队员_NN 在_P 北京时间_term 13时_time 前_LC 撤离_VV ，_PU 主要_AD 是_VC 为了_P 避开_VV 大量_CD 冰雪_NN 融化_VV 
+登顶_NN 队员_NN 在_P 北京_term 时间_term 13时_time 前_LC 撤离_VV ，_PU 主要_AD 是_VC 为了_P 避开_VV 大量_CD 冰雪_NN 融化_VV 
+登顶_NN 队员_NN 在_P 北京时间_term 13时_time 前_LC 撤离_VV ，_PU 主要_AD 是_VC 为了_P 避开_VV 泥石流_term 爆发_VV 
+登顶_NN 队员_NN 在_P 北京_term 时间_term 13时_time 前_LC 撤离_VV ，_PU 主要_AD 是_VC 为了_P 避开_VV 泥石流_term 爆发_VV 
+登顶_NN 队员_NN 在_P 北京时间_term 13时_time 前_LC 撤离_VV ，_PU 主要_AD 是_VC 为了_P 避开_VV 强对流天气_term 
+登顶_NN 队员_NN 在_P 北京_term 时间_term 13时_time 前_LC 撤离_VV ，_PU 主要_AD 是_VC 为了_P 避开_VV 强_term 对流_term 天气_term 
+登顶_NN 队员_NN 在_P 北京时间_term 13时_time 前_LC 撤离_VV ，_PU 主要_AD 是_VC 为了_P 避开_VV 强_VA 紫外线_NN 辐射_VV 
+登顶_NN 队员_NN 在_P 北京_term 时间_term 13时_time 前_LC 撤离_VV ，_PU 主要_AD 是_VC 为了_P 避开_VV 强_VA 紫外线_NN 辐射_VV 
+珠穆朗玛峰_loc 峰顶_NN 比_P 同_DT 纬度_term 海平面_NN 白昼_NN 略_AD 长_VA 
+珠穆朗玛峰_loc 峰顶_NN 比_P 同_DT 纬度_term 海平面_NN 白昼_NN 略_AD 长_VA 
+珠穆朗玛峰_loc 峰顶_NN 比_P 同_DT 纬度_term 海平面_NN 黑夜_NN 略_AD 长_VA 
+珠穆朗玛峰_loc 峰顶_NN 比_P 同_DT 纬度_term 海平面_NN 黑夜_NN 略_AD 长_VA 
+珠穆朗玛峰_loc 峰顶_NN 比_P 同_DT 纬度_term 海平面_NN 自转线速度_term 略_AD 小_VA 
+珠穆朗玛峰_loc 峰顶_NN 比_P 同_DT 纬度_term 海平面_NN 自转_term 线速度_term 略_AD 小_VA 
+珠穆朗玛峰_loc 峰顶_NN 比_P 同_DT 纬度_term 海平面_NN 自转角速度_term 略_AD 大_VA 
+珠穆朗玛峰_loc 峰顶_NN 比_P 同_DT 纬度_term 海平面_NN 自转_term 角速度_term 略_AD 大_VA 
+导致_VV 珠穆朗玛峰_loc 海拔_NN 高度_NN 变化_VV 的_DEC 是_VC 地面_NN 沉降_VV 
+导致_VV 珠穆朗玛峰_loc 海拔_NN 高度_NN 变化_VV 的_DEC 是_VC 地面_NN 沉降_VV 
+导致_VV 珠穆朗玛峰_loc 海拔_NN 高度_NN 变化_VV 的_DEC 是_VC 地壳运动_term 
+导致_VV 珠穆朗玛峰_loc 海拔_NN 高度_NN 变化_VV 的_DEC 是_VC 地壳_term 运动_term 
+导致_VV 珠穆朗玛峰_loc 海拔_NN 高度_NN 变化_VV 的_DEC 是_VC 变质作用_term 
+导致_VV 珠穆朗玛峰_loc 海拔_NN 高度_NN 变化_VV 的_DEC 是_VC 变质_term 作用_term 
+导致_VV 珠穆朗玛峰_loc 海拔_NN 高度_NN 变化_VV 的_DEC 是_VC 海平面_NN 升降_VV 
+导致_VV 珠穆朗玛峰_loc 海拔_NN 高度_NN 变化_VV 的_DEC 是_VC 海平面_NN 升降_VV 
+登顶_NN 队员_NN 从_P 积雪冰川带_term 下山_VV ，_PU 依次_AD 经过_VV 的_DEC 垂直自然带_term 是_VC 高山草原带_term —_PU 高山草甸带_term —_PU 高山针叶林带_term 
+登顶_NN 队员_NN 从_P 积雪_term 冰川带_term 下山_VV ，_PU 依次_AD 经过_VV 的_DEC 垂直_term 自然带_term 是_VC 高山_term 草原带_term —_PU 高山_term 草甸带_term —_PU 高山_term 针叶林带_term 
+登顶_NN 队员_NN 从_P 积雪冰川带_term 下山_VV ，_PU 依次_AD 经过_VV 的_DEC 垂直自然带_term 是_VC 高山草甸带_term —_PU 高寒荒漠带_term —_PU 高山草原带_term 
+登顶_NN 队员_NN 从_P 积雪_term 冰川带_term 下山_VV ，_PU 依次_AD 经过_VV 的_DEC 垂直_term 自然带_term 是_VC 高山_term 草甸带_term —_PU 高寒_term 荒漠带_term —_PU 高山_term 草原带_term 
+登顶_NN 队员_NN 从_P 积雪冰川带_term 下山_VV ，_PU 依次_AD 经过_VV 的_DEC 垂直自然带_term 是_VC 高寒荒漠带_term —_PU 高山草原带_term —_PU 高山针叶林带_term 
+登顶_NN 队员_NN 从_P 积雪_term 冰川带_term 下山_VV ，_PU 依次_AD 经过_VV 的_DEC 垂直_term 自然带_term 是_VC 高寒_term 荒漠带_term —_PU 高山_term 草原带_term —_PU 高山_term 针叶林带_term 
+登顶_NN 队员_NN 从_P 积雪冰川带_term 下山_VV ，_PU 依次_AD 经过_VV 的_DEC 垂直自然带_term 是_VC 高寒荒漠带_term —_PU 高山草甸带_term —_PU 高山草原带_term 
+登顶_NN 队员_NN 从_P 积雪_term 冰川带_term 下山_VV ，_PU 依次_AD 经过_VV 的_DEC 垂直_term 自然带_term 是_VC 高寒_term 荒漠带_term —_PU 高山_term 草甸带_term —_PU 高山_term 草原带_term 
+从_P P点_loc 出发_VV ，_PU 车速_NN 最_AD 快_VA 的_DEC 去向_NN 是_VC 东_NN 
+从_P P点_loc 出发_VV ，_PU 车速_NN 最_AD 快_VA 的_DEC 去向_NN 是_VC 东_NN 
+从_P P点_loc 出发_VV ，_PU 车速_NN 最_AD 快_VA 的_DEC 去向_NN 是_VC 南_NN 
+从_P P点_loc 出发_VV ，_PU 车速_NN 最_AD 快_VA 的_DEC 去向_NN 是_VC 南_NN 
+从_P P点_loc 出发_VV ，_PU 车速_NN 最_AD 快_VA 的_DEC 去向_NN 是_VC 西_NN 
+从_P P点_loc 出发_VV ，_PU 车速_NN 最_AD 快_VA 的_DEC 去向_NN 是_VC 西_NN 
+从_P P点_loc 出发_VV ，_PU 车速_NN 最_AD 快_VA 的_DEC 去向_NN 是_VC 北_NN 
+从_P P点_loc 出发_VV ，_PU 车速_NN 最_AD 快_VA 的_DEC 去向_NN 是_VC 北_NN 
+与_P 图中_NN 甲_NN 、_PU 乙_NN 、_PU 丙_NN 、_PU 丁_NR 四_CD 类_M 城市_NN 功能区_NN 依次_AD 对应_VV 的_DEC 是_VC 商业区_NN 、_PU 工业区_NN 、_PU 住宅区_NN 、_PU 绿地_NN 
+与_P 图中_NN 甲_NN 、_PU 乙_NN 、_PU 丙_NN 、_PU 丁_NR 四_CD 类_M 城市_NN 功能区_NN 依次_AD 对应_VV 的_DEC 是_VC 商业区_NN 、_PU 工业区_NN 、_PU 住宅区_NN 、_PU 绿地_NN 
+与_P 图中_NN 甲_NN 、_PU 乙_NN 、_PU 丙_NN 、_PU 丁_NR 四_CD 类_M 城市_NN 功能区_NN 依次_AD 对应_VV 的_DEC 是_VC 商业区_NN 、_PU 住宅区_NN 、_PU 绿地_NN 、_PU 工业区_NN 
+与_P 图中_NN 甲_NN 、_PU 乙_NN 、_PU 丙_NN 、_PU 丁_NR 四_CD 类_M 城市_NN 功能区_NN 依次_AD 对应_VV 的_DEC 是_VC 商业区_NN 、_PU 住宅区_NN 、_PU 绿地_NN 、_PU 工业区_NN 
+与_P 图中_NN 甲_NN 、_PU 乙_NN 、_PU 丙_NN 、_PU 丁_NR 四_CD 类_M 城市_NN 功能区_NN 依次_AD 对应_VV 的_DEC 是_VC 工业区_NN 、_PU 商业区_NN 、_PU 住宅区_NN 、_PU 绿地_NN 
+与_P 图中_NN 甲_NN 、_PU 乙_NN 、_PU 丙_NN 、_PU 丁_NR 四_CD 类_M 城市_NN 功能区_NN 依次_AD 对应_VV 的_DEC 是_VC 工业区_NN 、_PU 商业区_NN 、_PU 住宅区_NN 、_PU 绿地_NN 
+与_P 图中_NN 甲_NN 、_PU 乙_NN 、_PU 丙_NN 、_PU 丁_NR 四_CD 类_M 城市_NN 功能区_NN 依次_AD 对应_VV 的_DEC 是_VC 工业区_NN 、_PU 住宅区_NN 、_PU 绿地_NN 、_PU 商业区_NN 
+与_P 图中_NN 甲_NN 、_PU 乙_NN 、_PU 丙_NN 、_PU 丁_NR 四_CD 类_M 城市_NN 功能区_NN 依次_AD 对应_VV 的_DEC 是_VC 工业区_NN 、_PU 住宅区_NN 、_PU 绿地_NN 、_PU 商业区_NN 
+对_P 该_DT 城市_NN 环境_NN 质量_NN 影响_NN 较_AD 大_VA 的_DEC 是_VC 钢铁厂_NN 
+对_P 该_DT 城市_NN 环境_NN 质量_NN 影响_NN 较_AD 大_VA 的_DEC 是_VC 钢铁厂_NN 
+对_P 该_DT 城市_NN 环境_NN 质量_NN 影响_NN 较_AD 大_VA 的_DEC 是_VC 印染厂_NN 
+对_P 该_DT 城市_NN 环境_NN 质量_NN 影响_NN 较_AD 大_VA 的_DEC 是_VC 印染厂_NN 
+对_P 该_DT 城市_NN 环境_NN 质量_NN 影响_NN 较_AD 大_VA 的_DEC 是_VC 化肥厂_NN 
+对_P 该_DT 城市_NN 环境_NN 质量_NN 影响_NN 较_AD 大_VA 的_DEC 是_VC 化肥厂_NN 
+对_P 该_DT 城市_NN 环境_NN 质量_NN 影响_NN 较_AD 大_VA 的_DEC 是_VC 服装厂_NN 
+对_P 该_DT 城市_NN 环境_NN 质量_NN 影响_NN 较_AD 大_VA 的_DEC 是_VC 服装厂_NN 
+与_P 乙_NN 、_PU 丙_NN 、_PU 丁_NN 3_CD 个_M 省市_NN 对应_VV 的_DEC 依次_AD 是_VC 苏_loc 、_PU 鲁_loc 、_PU 粤_loc 
+与_P 乙_NN 、_PU 丙_NN 、_PU 丁_NN 3_CD 个_M 省市_NN 对应_VV 的_DEC 依次_AD 是_VC 苏_loc 、_PU 鲁_loc 、_PU 粤_loc 
+与_P 乙_NN 、_PU 丙_NN 、_PU 丁_NN 3_CD 个_M 省市_NN 对应_VV 的_DEC 依次_AD 是_VC 京_loc 、_PU 吉_loc 、_PU 苏_loc 
+与_P 乙_NN 、_PU 丙_NN 、_PU 丁_NN 3_CD 个_M 省市_NN 对应_VV 的_DEC 依次_AD 是_VC 京_loc 、_PU 吉_loc 、_PU 苏_loc 
+与_P 乙_NN 、_PU 丙_NN 、_PU 丁_NN 3_CD 个_M 省市_NN 对应_VV 的_DEC 依次_AD 是_VC 吉_loc 、_PU 苏_loc 、_PU 鲁_loc 
+与_P 乙_NN 、_PU 丙_NN 、_PU 丁_NN 3_CD 个_M 省市_NN 对应_VV 的_DEC 依次_AD 是_VC 吉_loc 、_PU 苏_loc 、_PU 鲁_loc 
+与_P 乙_NN 、_PU 丙_NN 、_PU 丁_NN 3_CD 个_M 省市_NN 对应_VV 的_DEC 依次_AD 是_VC 粤_loc 、_PU 京_loc 、_PU 吉_loc 
+与_P 乙_NN 、_PU 丙_NN 、_PU 丁_NN 3_CD 个_M 省市_NN 对应_VV 的_DEC 依次_AD 是_VC 粤_loc 、_PU 京_loc 、_PU 吉_loc 
+与_P 全国_NN 相比_VV ，_PU 人均_JJ 耕地_NN 和_CC 人均_JJ 粮食_NN 的_DEG 关系_NN 有_VE 特殊性_NN ，_PU 其_PN 主要_JJ 原因_NN 是_VC 人口_NN 数量_NN 增长_NN 较_AD 快_VA 
+与_P 全国_NN 相比_VV ，_PU 人均_JJ 耕地_NN 和_CC 人均_JJ 粮食_NN 的_DEG 关系_NN 有_VE 特殊性_NN ，_PU 其_PN 主要_JJ 原因_NN 是_VC 人口_NN 数量_NN 增长_NN 较_AD 快_VA 
+与_P 全国_NN 相比_VV ，_PU 人均_JJ 耕地_NN 和_CC 人均_JJ 粮食_NN 的_DEG 关系_NN 有_VE 特殊性_NN ，_PU 其_PN 主要_JJ 原因_NN 是_VC 城市化_NN 水平_NN 不断_AD 提高_VV 
+与_P 全国_NN 相比_VV ，_PU 人均_JJ 耕地_NN 和_CC 人均_JJ 粮食_NN 的_DEG 关系_NN 有_VE 特殊性_NN ，_PU 其_PN 主要_JJ 原因_NN 是_VC 城市化_NN 水平_NN 不断_AD 提高_VV 
+与_P 全国_NN 相比_VV ，_PU 人均_JJ 耕地_NN 和_CC 人均_JJ 粮食_NN 的_DEG 关系_NN 有_VE 特殊性_NN ，_PU 其_PN 主要_JJ 原因_NN 是_VC 耕地_NN 面积_NN 逐年_AD 减少_VV 
+与_P 全国_NN 相比_VV ，_PU 人均_JJ 耕地_NN 和_CC 人均_JJ 粮食_NN 的_DEG 关系_NN 有_VE 特殊性_NN ，_PU 其_PN 主要_JJ 原因_NN 是_VC 耕地_NN 面积_NN 逐年_AD 减少_VV 
+与_P 全国_NN 相比_VV ，_PU 人均_JJ 耕地_NN 和_CC 人均_JJ 粮食_NN 的_DEG 关系_NN 有_VE 特殊性_NN ，_PU 其_PN 主要_JJ 原因_NN 是_VC 经济_NN 作物_NN 播种_NN 面积_NN 增加_VV 
+与_P 全国_NN 相比_VV ，_PU 人均_JJ 耕地_NN 和_CC 人均_JJ 粮食_NN 的_DEG 关系_NN 有_VE 特殊性_NN ，_PU 其_PN 主要_JJ 原因_NN 是_VC 经济_NN 作物_NN 播种_NN 面积_NN 增加_VV 

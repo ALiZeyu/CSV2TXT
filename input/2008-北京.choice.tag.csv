@@ -1,0 +1,52 @@
+时间,地点,术语,数量词,（粗粒度）分词,（细粒度）分词,词性
+0,,,,目前 ， 人类 已 知 月球 上 的 能源 有 生物能 、 风能,目前 ， 人类 已 知 月球 上 的 能源 有 生物能 、 风能,time PU NN AD VV NN LC DEG NN VE NN PU NN
+0,,,,目前 ， 人类 已 知 月球 上 的 能源 有 核能 、 潮汐能,目前 ， 人类 已 知 月球 上 的 能源 有 核能 、 潮汐能,time PU NN AD VV NN LC DEG NN VE NN PU NN
+0,,,,目前 ， 人类 已 知 月球 上 的 能源 有 潮汐能 、 太阳能,目前 ， 人类 已 知 月球 上 的 能源 有 潮汐能 、 太阳能,time PU NN AD VV NN LC DEG NN VE NN PU NN
+0,,,,目前 ， 人类 已 知 月球 上 的 能源 有 太阳能 、 核能,目前 ， 人类 已 知 月球 上 的 能源 有 太阳能 、 核能,time PU NN AD VV NN LC DEG NN VE NN PU NN
+,7,,,一般 情况 下 ， 图1 中 表示 北京地区 电视 收视率 变化 的 曲线 是 ①,一般 情况 下 ， 图1 中 表示 北京 地区 电视 收视率 变化 的 曲线 是 ①,JJ NN LC PU NN LC VV loc NN NN NN DEG NN VC NN
+,7,,,一般 情况 下 ， 图1 中 表示 北京地区 电视 收视率 变化 的 曲线 是 ②,一般 情况 下 ， 图1 中 表示 北京 地区 电视 收视率 变化 的 曲线 是 ②,JJ NN LC PU NN LC VV loc NN NN NN DEG NN VC NN
+,7,,,一般 情况 下 ， 图1 中 表示 北京地区 电视 收视率 变化 的 曲线 是 ③,一般 情况 下 ， 图1 中 表示 北京 地区 电视 收视率 变化 的 曲线 是 ③,JJ NN LC PU NN LC VV loc NN NN NN DEG NN VC NN
+,7,,,一般 情况 下 ， 图1 中 表示 北京地区 电视 收视率 变化 的 曲线 是 ④,一般 情况 下 ， 图1 中 表示 北京 地区 电视 收视率 变化 的 曲线 是 ④,JJ NN LC PU NN LC VV loc NN NN NN DEG NN VC NN
+,,5,,如果 该 图 为 在 大气环流 模式 ， S线 代表 地球 表面 ， 则 E处 气温 比 H处 高,如果 该 图 为 在 大气 环流 模式 ， S线 代表 地球 表面 ， 则 E处 气温 比 H处 高,CS DT NN VC P term NN PU NN VV NN NN PU AD NN NN P NN VA
+,,5,,如果 该 图 为 在 大气环流 模式 ， S线 代表 地球 表面 ， 则 F处 气压 比 G处 低,如果 该 图 为 在 大气 环流 模式 ， S线 代表 地球 表面 ， 则 F处 气压 比 G处 低,CS DT NN VC P term NN PU NN VV NN NN PU AD NN NN P NN VA
+,,5,,如果 该 图 为 在 大气环流 模式 ， S线 代表 地球 表面 ， 则 气流 ② 自 西 向 东 运动,如果 该 图 为 在 大气 环流 模式 ， S线 代表 地球 表面 ， 则 气流 ② 自 西 向 东 运动,CS DT NN VC P term NN PU NN VV NN NN PU AD NN NN P NN P NN NN
+,,5,19,如果 该 图 为 在 大气环流 模式 ， S线 代表 地球 表面 ， 则 E处 的 高度 可 达 120千米,如果 该 图 为 在 大气 环流 模式 ， S线 代表 地球 表面 ， 则 E处 的 高度 可 达 120 千米,CS DT NN VC P term NN PU NN VV NN NN PU AD NN DEG NN VV VV num
+,,4,,如果 该 图 为 海陆间水循环 模式 ， S线 代表 地球 表面 ， 则 环节 ① 参与 地表 淡水 资源 的 补给,如果 该 图 为 海陆 间 水 循环 模式 ， S线 代表 地球 表面 ， 则 环节 ① 参与 地表 淡水 资源 的 补给,CS DT NN VC term NN PU NN VV NN NN PU AD NN NN VV NN NN NN DEG NN
+,,4,,如果 该 图 为 海陆间水循环 模式 ， S线 代表 地球 表面 ， 则 环节 ② 是 陆地 自然带 形成 的 基础,如果 该 图 为 海陆 间 水 循环 模式 ， S线 代表 地球 表面 ， 则 环节 ② 是 陆地 自然带 形成 的 基础,CS DT NN VC term NN PU NN VV NN NN PU AD NN NN VC NN NN VV DEC NN
+,,4,,如果 该 图 为 海陆间水循环 模式 ， S线 代表 地球 表面 ， 则 环节 ③ 使 大洋 表面 海水 的 盐度 降低,如果 该 图 为 海陆 间 水 循环 模式 ， S线 代表 地球 表面 ， 则 环节 ③ 使 大洋 表面 海水 的 盐度 降低,CS DT NN VC term NN PU NN VV NN NN PU AD NN NN VV NN NN NN DEG NN VV
+,,4,,如果 该 图 为 海陆间水循环 模式 ， S线 代表 地球 表面 ， 则 环节 ④ 的 运动 距离 与 下垫面 无关,如果 该 图 为 海陆 间 水 循环 模式 ， S线 代表 地球 表面 ， 则 环节 ④ 的 运动 距离 与 下垫面 无关,CS DT NN VC term NN PU NN VV NN NN PU AD NN NN DEG NN NN CC NN VV
+,,5 8 13 16 20,,如果 该 图 为 世界 洋流 模式 的 南半球 部分 ， S线 代表 纬线 ， 则 洋流 ① 对 沿岸 气候 有 降温 、 减湿 作用,如果 该 图 为 世界 洋流 模式 的 南半球 部分 ， S线 代表 纬线 ， 则 洋流 ① 对 沿岸 气候 有 降温 、 减湿 作用,CS DT NN VC NN term NN DEG term NN PU NN VV term PU AD term NN P NN term VE VV PU VV NN
+,,5 8 13 16 19,,如果 该 图 为 世界 洋流 模式 的 南半球 部分 ， S线 代表 纬线 ， 则 洋流 ② 为 西风漂流,如果 该 图 为 世界 洋流 模式 的 南半球 部分 ， S线 代表 纬线 ， 则 洋流 ② 为 西风 漂流,CS DT NN VC NN term NN DEG term NN PU NN VV term PU AD term NN VC term
+,,5 8 13 16 20,,如果 该 图 为 世界 洋流 模式 的 南半球 部分 ， S线 代表 纬线 ， 则 洋流 ③ 对 沿岸 气候 有 增温 、 增湿 作用,如果 该 图 为 世界 洋流 模式 的 南半球 部分 ， S线 代表 纬线 ， 则 洋流 ③ 对 沿岸 气候 有 增温 、 增湿 作用,CS DT NN VC NN term NN DEG term NN PU NN VV term PU AD term NN P NN term VE VV PU VV NN
+,,5 8 13 16 19,,如果 该 图 为 世界 洋流 模式 的 南半球 部分 ， S线 代表 纬线 ， 则 洋流 ④ 为 赤道逆流,如果 该 图 为 世界 洋流 模式 的 南半球 部分 ， S线 代表 纬线 ， 则 洋流 ④ 为 赤道 逆流,CS DT NN VC NN term NN DEG term NN PU NN VV term PU AD term NN VC term
+,,7,,该 作物 种植期 的 早晚 取决 于 气候 条件,该 作物 种植期 的 早晚 取决 于 气候 条件,DT NN NN DEG NN VV P term NN
+,,7,,该 作物 灌浆期 的 早晚 取决 于 成土母质,该 作物 灌浆期 的 早晚 取决 于 成土 母质,DT NN NN DEG NN VV P term
+,,,,该 作物 收割期 的 早晚 取决 于 农业 政策,该 作物 收割期 的 早晚 取决 于 农业 政策,DT NN NN DEG NN VV P NN NN
+7,,,2,该 作物 一个 生产 周期 至少 为 8个月,该 作物 一 个 生产 周期 至少 为 8 个 月,DT NN num NN NN AD VC time
+,,7 8,,该 作物 处于 开花期 时 ， 正值 赤道 正午太阳高度 最 大,该 作物 处于 开花期 时 ， 正值 赤道 正午 太阳 高度 最 大,DT NN VV NN LC PU VV term term AD VA
+,7,,,该 作物 处于 开花期 时 ， 正值 地中海沿岸 炎热 干燥,该 作物 处于 开花期 时 ， 正值 地中海 沿岸 炎热 干燥,DT NN VV NN LC PU VV loc VA VA
+,7,,,该 作物 处于 开花期 时 ， 正值 中国东北平原 昼 长 夜 短,该 作物 处于 开花期 时 ， 正值 中国 东北 平原 昼 长 夜 短,DT NN VV NN LC PU VV loc NN VA NN VA
+,7,,,该 作物 处于 开花期 时 ， 正值 潘帕斯草原 草木 茂盛,该 作物 处于 开花期 时 ， 正值 潘帕斯 草原 草木 茂盛,DT NN VV NN LC PU VV loc NN VA
+,,,,图 中 ① ② ③ ④ 所示 城市 空间 最 合理 的 作用 方式 分别 为 电影院 、 厂房 、 住宅 、 银行,图 中 ① ② ③ ④ 所示 城市 空间 最 合理 的 作用 方式 分别 为 电影院 、 厂房 、 住宅 、 银行,NN LC NN NN NN NN VV NN NN AD VA DEC NN NN AD VC NN PU NN PU NN PU NN
+,,,,图 中 ① ② ③ ④ 所示 城市 空间 最 合理 的 作用 方式 分别 为 零售店 、 电影院 、 石房 、 办公室,图 中 ① ② ③ ④ 所示 城市 空间 最 合理 的 作用 方式 分别 为 零售店 、 电影院 、 石房 、 办公室,NN LC NN NN NN NN VV NN NN AD VA DEC NN NN AD VC NN PU NN PU NN PU NN
+,,,,图 中 ① ② ③ ④ 所示 城市 空间 最 合理 的 作用 方式 分别 为 办公室 、 零售店 、 住宅 、 厂房,图 中 ① ② ③ ④ 所示 城市 空间 最 合理 的 作用 方式 分别 为 办公室 、 零售店 、 住宅 、 厂房,NN LC NN NN NN NN VV NN NN AD VA DEC NN NN AD VC NN PU NN PU NN PU NN
+,,,,图 中 ① ② ③ ④ 所示 城市 空间 最 合理 的 作用 方式 分别 为 批发 市场 、 办公室 、 住宅 、 零售店,图 中 ① ② ③ ④ 所示 城市 空间 最 合理 的 作用 方式 分别 为 批发 市场 、 办公室 、 住宅 、 零售店,NN LC NN NN NN NN VV NN NN AD VA DEC NN NN AD VC NN NN PU NN PU NN PU NN
+,,6 12 16 18 20,,与 图示 地区 山体 岩石 、 地貌 类型 及 其 形成 的 外力作用 对应 的 是 石灰岩 、 球状风化地貌 、 风力作用,与 图示 地区 山体 岩石 、 地貌 类型 及 其 形成 的 外力 作用 对应 的 是 石灰岩 、 球状 风化 地貌 、 风力 作用,P VV NN NN NN PU term NN CC PN VV DEC term VV DEC VC term PU term PU term
+,,6 12 16 18 20,,与 图示 地区 山体 岩石 、 地貌 类型 及 其 形成 的 外力作用 对应 的 是 花岗岩 、 流水堆积地貌 、 流水作用,与 图示 地区 山体 岩石 、 地貌 类型 及 其 形成 的 外力 作用 对应 的 是 花岗岩 、 流水 堆积 地貌 、 流水 作用,P VV NN NN NN PU term NN CC PN VV DEC term VV DEC VC term PU term PU term
+,,6 12 16 18 20,,与 图示 地区 山体 岩石 、 地貌 类型 及 其 形成 的 外力作用 对应 的 是 大理岩 、 喀斯特地貌 、 风力作用,与 图示 地区 山体 岩石 、 地貌 类型 及 其 形成 的 外力 作用 对应 的 是 大理岩 、 喀斯特 地貌 、 风力 作用,P VV NN NN NN PU term NN CC PN VV DEC term VV DEC VC term PU term PU term
+,,6 12 16 18 20,,与 图示 地区 山体 岩石 、 地貌 类型 及 其 形成 的 外力作用 对应 的 是 石灰岩 、 喀斯特地貌 、 流水作用,与 图示 地区 山体 岩石 、 地貌 类型 及 其 形成 的 外力 作用 对应 的 是 石灰岩 、 喀斯特 地貌 、 流水 作用,P VV NN NN NN PU term NN CC PN VV DEC term VV DEC VC term PU term PU term
+,,14,,该 地区 成为 著名 旅游地 的 优势 在于 地处 热带 ， 风景 优美 ， 环境承载量 大,该 地区 成为 著名 旅游地 的 优势 在于 地处 热带 ， 风景 优美 ， 环境 承载量 大,DT NN VV JJ NN DEG NN VV VV NN PU NN VA PU term JJ
+,,9,,该 地区 成为 著名 旅游地 的 优势 在于 地处 热带,该 地区 成为 著名 旅游地 的 优势 在于 地处 热带,DT NN VV JJ NN DEG NN VV VV term
+,,,,该 地区 成为 著名 旅游地 的 优势 在于 风景 优美,该 地区 成为 著名 旅游地 的 优势 在于 风景 优美,DT NN VV JJ NN DEG NN VV NN VA
+,,8,,该 地区 成为 著名 旅游地 的 优势 在于 环境承载量 大,该 地区 成为 著名 旅游地 的 优势 在于 环境 承载量 大,DT NN VV JJ NN DEG NN VV term JJ
+,,,,该 地区 成为 著名 旅游地 的 优势 在于 景观 具有 春 翡 夏 翠 秋 金 冬 银 的 季节 特点,该 地区 成为 著名 旅游地 的 优势 在于 景观 具有 春 翡 夏 翠 秋 金 冬 银 的 季节 特点,DT NN VV JJ NN DEG NN VV NN VV NN VA NN VA NN VA NN VA DEG NN NN
+,,,,该 地区 成为 著名 旅游地 的 优势 在于 地质 地貌 景观 独特 ， 具有 较 高 的 游览 价值,该 地区 成为 著名 旅游地 的 优势 在于 地质 地貌 景观 独特 ， 具有 较 高 的 游览 价值,DT NN VV JJ NN DEG NN VV NN NN NN VA PU VV AD VA DEC NN NN
+,,8 9,,该 地区 成为 著名 旅游地 的 优势 在于 地质 地貌 景观 独特,该 地区 成为 著名 旅游地 的 优势 在于 地质 地貌 景观 独特,DT NN VV JJ NN DEG NN VV term term NN VA
+,,,,该 地区 成为 著名 旅游地 的 优势 在于 具有 较 高 的 游览 价值,该 地区 成为 著名 旅游地 的 优势 在于 具有 较 高 的 游览 价值,DT NN VV JJ NN DEG NN VV VV AD VA DEC NN NN
+,,,,该 地区 成为 著名 旅游地 的 优势 在于 水陆 交通 通达性 好 ， 旅游地 吸引半径 大,该 地区 成为 著名 旅游地 的 优势 在于 水陆 交通 通达性 好 ， 旅游地 吸引半径 大,DT NN VV JJ NN DEG NN VV NN NN NN VA PU NN NN JJ
+,,,,该 地区 成为 著名 旅游地 的 优势 在于 水陆 交通 通达性 好,该 地区 成为 著名 旅游地 的 优势 在于 水陆 交通 通达性 好,DT NN VV JJ NN DEG NN VV NN NN NN VA
+,,,,该 地区 成为 著名 旅游地 的 优势 在于 旅游地 吸引半径 大,该 地区 成为 著名 旅游地 的 优势 在于 旅游地 吸引半径 大,DT NN VV JJ NN DEG NN VV NN NN VA
+,8,3,,与 图示 地区 农业地域类型 相同 的 地区 是 西欧平原,与 图示 地区 农业 地域 类型 相同 的 地区 是 西欧 平原,P VV NN term VA DEC NN VC loc
+,8,3,,与 图示 地区 农业地域类型 相同 的 地区 是 湄公河三角洲,与 图示 地区 农业 地域 类型 相同 的 地区 是 湄公河 三角洲,P VV NN term VA DEC NN VC loc
+,8,3,,与 图示 地区 农业地域类型 相同 的 地区 是 五大湖沿岸,与 图示 地区 农业 地域 类型 相同 的 地区 是 五大湖 沿岸,P VV NN term VA DEC NN VC loc
+,8,3,,与 图示 地区 农业地域类型 相同 的 地区 是 墨累-达令盆地,与 图示 地区 农业 地域 类型 相同 的 地区 是 墨累 - 达令 盆地,P VV NN term VA DEC NN VC loc

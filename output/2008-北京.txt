@@ -1,0 +1,102 @@
+目前_time ，_PU 人类_NN 已_AD 知_VV 月球_NN 上_LC 的_DEG 能源_NN 有_VE 生物能_NN 、_PU 风能_NN 
+目前_time ，_PU 人类_NN 已_AD 知_VV 月球_NN 上_LC 的_DEG 能源_NN 有_VE 生物能_NN 、_PU 风能_NN 
+目前_time ，_PU 人类_NN 已_AD 知_VV 月球_NN 上_LC 的_DEG 能源_NN 有_VE 核能_NN 、_PU 潮汐能_NN 
+目前_time ，_PU 人类_NN 已_AD 知_VV 月球_NN 上_LC 的_DEG 能源_NN 有_VE 核能_NN 、_PU 潮汐能_NN 
+目前_time ，_PU 人类_NN 已_AD 知_VV 月球_NN 上_LC 的_DEG 能源_NN 有_VE 潮汐能_NN 、_PU 太阳能_NN 
+目前_time ，_PU 人类_NN 已_AD 知_VV 月球_NN 上_LC 的_DEG 能源_NN 有_VE 潮汐能_NN 、_PU 太阳能_NN 
+目前_time ，_PU 人类_NN 已_AD 知_VV 月球_NN 上_LC 的_DEG 能源_NN 有_VE 太阳能_NN 、_PU 核能_NN 
+目前_time ，_PU 人类_NN 已_AD 知_VV 月球_NN 上_LC 的_DEG 能源_NN 有_VE 太阳能_NN 、_PU 核能_NN 
+一般_JJ 情况_NN 下_LC ，_PU 图1_NN 中_LC 表示_VV 北京地区_loc 电视_NN 收视率_NN 变化_NN 的_DEG 曲线_NN 是_VC ①_NN 
+一般_JJ 情况_NN 下_LC ，_PU 图1_NN 中_LC 表示_VV 北京_loc 地区_loc 电视_NN 收视率_NN 变化_NN 的_DEG 曲线_NN 是_VC ①_NN 
+一般_JJ 情况_NN 下_LC ，_PU 图1_NN 中_LC 表示_VV 北京地区_loc 电视_NN 收视率_NN 变化_NN 的_DEG 曲线_NN 是_VC ②_NN 
+一般_JJ 情况_NN 下_LC ，_PU 图1_NN 中_LC 表示_VV 北京_loc 地区_loc 电视_NN 收视率_NN 变化_NN 的_DEG 曲线_NN 是_VC ②_NN 
+一般_JJ 情况_NN 下_LC ，_PU 图1_NN 中_LC 表示_VV 北京地区_loc 电视_NN 收视率_NN 变化_NN 的_DEG 曲线_NN 是_VC ③_NN 
+一般_JJ 情况_NN 下_LC ，_PU 图1_NN 中_LC 表示_VV 北京_loc 地区_loc 电视_NN 收视率_NN 变化_NN 的_DEG 曲线_NN 是_VC ③_NN 
+一般_JJ 情况_NN 下_LC ，_PU 图1_NN 中_LC 表示_VV 北京地区_loc 电视_NN 收视率_NN 变化_NN 的_DEG 曲线_NN 是_VC ④_NN 
+一般_JJ 情况_NN 下_LC ，_PU 图1_NN 中_LC 表示_VV 北京_loc 地区_loc 电视_NN 收视率_NN 变化_NN 的_DEG 曲线_NN 是_VC ④_NN 
+如果_CS 该_DT 图_NN 为_VC 在_P 大气环流_term 模式_NN ，_PU S线_NN 代表_VV 地球_NN 表面_NN ，_PU 则_AD E处_NN 气温_NN 比_P H处_NN 高_VA 
+如果_CS 该_DT 图_NN 为_VC 在_P 大气_term 环流_term 模式_NN ，_PU S线_NN 代表_VV 地球_NN 表面_NN ，_PU 则_AD E处_NN 气温_NN 比_P H处_NN 高_VA 
+如果_CS 该_DT 图_NN 为_VC 在_P 大气环流_term 模式_NN ，_PU S线_NN 代表_VV 地球_NN 表面_NN ，_PU 则_AD F处_NN 气压_NN 比_P G处_NN 低_VA 
+如果_CS 该_DT 图_NN 为_VC 在_P 大气_term 环流_term 模式_NN ，_PU S线_NN 代表_VV 地球_NN 表面_NN ，_PU 则_AD F处_NN 气压_NN 比_P G处_NN 低_VA 
+如果_CS 该_DT 图_NN 为_VC 在_P 大气环流_term 模式_NN ，_PU S线_NN 代表_VV 地球_NN 表面_NN ，_PU 则_AD 气流_NN ②_NN 自_P 西_NN 向_P 东_NN 运动_NN 
+如果_CS 该_DT 图_NN 为_VC 在_P 大气_term 环流_term 模式_NN ，_PU S线_NN 代表_VV 地球_NN 表面_NN ，_PU 则_AD 气流_NN ②_NN 自_P 西_NN 向_P 东_NN 运动_NN 
+如果_CS 该_DT 图_NN 为_VC 在_P 大气环流_term 模式_NN ，_PU S线_NN 代表_VV 地球_NN 表面_NN ，_PU 则_AD E处_NN 的_DEG 高度_NN 可_VV 达_VV 120千米_num 
+如果_CS 该_DT 图_NN 为_VC 在_P 大气_term 环流_term 模式_NN ，_PU S线_NN 代表_VV 地球_NN 表面_NN ，_PU 则_AD E处_NN 的_DEG 高度_NN 可_VV 达_VV 120_num 千米_num 
+如果_CS 该_DT 图_NN 为_VC 海陆间水循环_term 模式_NN ，_PU S线_NN 代表_VV 地球_NN 表面_NN ，_PU 则_AD 环节_NN ①_NN 参与_VV 地表_NN 淡水_NN 资源_NN 的_DEG 补给_NN 
+如果_CS 该_DT 图_NN 为_VC 海陆_term 间_term 水_term 循环_term 模式_NN ，_PU S线_NN 代表_VV 地球_NN 表面_NN ，_PU 则_AD 环节_NN ①_NN 参与_VV 地表_NN 淡水_NN 资源_NN 的_DEG 补给_NN 
+如果_CS 该_DT 图_NN 为_VC 海陆间水循环_term 模式_NN ，_PU S线_NN 代表_VV 地球_NN 表面_NN ，_PU 则_AD 环节_NN ②_NN 是_VC 陆地_NN 自然带_NN 形成_VV 的_DEC 基础_NN 
+如果_CS 该_DT 图_NN 为_VC 海陆_term 间_term 水_term 循环_term 模式_NN ，_PU S线_NN 代表_VV 地球_NN 表面_NN ，_PU 则_AD 环节_NN ②_NN 是_VC 陆地_NN 自然带_NN 形成_VV 的_DEC 基础_NN 
+如果_CS 该_DT 图_NN 为_VC 海陆间水循环_term 模式_NN ，_PU S线_NN 代表_VV 地球_NN 表面_NN ，_PU 则_AD 环节_NN ③_NN 使_VV 大洋_NN 表面_NN 海水_NN 的_DEG 盐度_NN 降低_VV 
+如果_CS 该_DT 图_NN 为_VC 海陆_term 间_term 水_term 循环_term 模式_NN ，_PU S线_NN 代表_VV 地球_NN 表面_NN ，_PU 则_AD 环节_NN ③_NN 使_VV 大洋_NN 表面_NN 海水_NN 的_DEG 盐度_NN 降低_VV 
+如果_CS 该_DT 图_NN 为_VC 海陆间水循环_term 模式_NN ，_PU S线_NN 代表_VV 地球_NN 表面_NN ，_PU 则_AD 环节_NN ④_NN 的_DEG 运动_NN 距离_NN 与_CC 下垫面_NN 无关_VV 
+如果_CS 该_DT 图_NN 为_VC 海陆_term 间_term 水_term 循环_term 模式_NN ，_PU S线_NN 代表_VV 地球_NN 表面_NN ，_PU 则_AD 环节_NN ④_NN 的_DEG 运动_NN 距离_NN 与_CC 下垫面_NN 无关_VV 
+如果_CS 该_DT 图_NN 为_VC 世界_NN 洋流_term 模式_NN 的_DEG 南半球_term 部分_NN ，_PU S线_NN 代表_VV 纬线_term ，_PU 则_AD 洋流_term ①_NN 对_P 沿岸_NN 气候_term 有_VE 降温_VV 、_PU 减湿_VV 作用_NN 
+如果_CS 该_DT 图_NN 为_VC 世界_NN 洋流_term 模式_NN 的_DEG 南半球_term 部分_NN ，_PU S线_NN 代表_VV 纬线_term ，_PU 则_AD 洋流_term ①_NN 对_P 沿岸_NN 气候_term 有_VE 降温_VV 、_PU 减湿_VV 作用_NN 
+如果_CS 该_DT 图_NN 为_VC 世界_NN 洋流_term 模式_NN 的_DEG 南半球_term 部分_NN ，_PU S线_NN 代表_VV 纬线_term ，_PU 则_AD 洋流_term ②_NN 为_VC 西风漂流_term 
+如果_CS 该_DT 图_NN 为_VC 世界_NN 洋流_term 模式_NN 的_DEG 南半球_term 部分_NN ，_PU S线_NN 代表_VV 纬线_term ，_PU 则_AD 洋流_term ②_NN 为_VC 西风_term 漂流_term 
+如果_CS 该_DT 图_NN 为_VC 世界_NN 洋流_term 模式_NN 的_DEG 南半球_term 部分_NN ，_PU S线_NN 代表_VV 纬线_term ，_PU 则_AD 洋流_term ③_NN 对_P 沿岸_NN 气候_term 有_VE 增温_VV 、_PU 增湿_VV 作用_NN 
+如果_CS 该_DT 图_NN 为_VC 世界_NN 洋流_term 模式_NN 的_DEG 南半球_term 部分_NN ，_PU S线_NN 代表_VV 纬线_term ，_PU 则_AD 洋流_term ③_NN 对_P 沿岸_NN 气候_term 有_VE 增温_VV 、_PU 增湿_VV 作用_NN 
+如果_CS 该_DT 图_NN 为_VC 世界_NN 洋流_term 模式_NN 的_DEG 南半球_term 部分_NN ，_PU S线_NN 代表_VV 纬线_term ，_PU 则_AD 洋流_term ④_NN 为_VC 赤道逆流_term 
+如果_CS 该_DT 图_NN 为_VC 世界_NN 洋流_term 模式_NN 的_DEG 南半球_term 部分_NN ，_PU S线_NN 代表_VV 纬线_term ，_PU 则_AD 洋流_term ④_NN 为_VC 赤道_term 逆流_term 
+该_DT 作物_NN 种植期_NN 的_DEG 早晚_NN 取决_VV 于_P 气候_term 条件_NN 
+该_DT 作物_NN 种植期_NN 的_DEG 早晚_NN 取决_VV 于_P 气候_term 条件_NN 
+该_DT 作物_NN 灌浆期_NN 的_DEG 早晚_NN 取决_VV 于_P 成土母质_term 
+该_DT 作物_NN 灌浆期_NN 的_DEG 早晚_NN 取决_VV 于_P 成土_term 母质_term 
+该_DT 作物_NN 收割期_NN 的_DEG 早晚_NN 取决_VV 于_P 农业_NN 政策_NN 
+该_DT 作物_NN 收割期_NN 的_DEG 早晚_NN 取决_VV 于_P 农业_NN 政策_NN 
+该_DT 作物_NN 一个_num 生产_NN 周期_NN 至少_AD 为_VC 8个月_time 
+该_DT 作物_NN 一_num 个_num 生产_NN 周期_NN 至少_AD 为_VC 8_time 个_time 月_time 
+该_DT 作物_NN 处于_VV 开花期_NN 时_LC ，_PU 正值_VV 赤道_term 正午太阳高度_term 最_AD 大_VA 
+该_DT 作物_NN 处于_VV 开花期_NN 时_LC ，_PU 正值_VV 赤道_term 正午_term 太阳_term 高度_term 最_AD 大_VA 
+该_DT 作物_NN 处于_VV 开花期_NN 时_LC ，_PU 正值_VV 地中海沿岸_loc 炎热_VA 干燥_VA 
+该_DT 作物_NN 处于_VV 开花期_NN 时_LC ，_PU 正值_VV 地中海_loc 沿岸_loc 炎热_VA 干燥_VA 
+该_DT 作物_NN 处于_VV 开花期_NN 时_LC ，_PU 正值_VV 中国东北平原_loc 昼_NN 长_VA 夜_NN 短_VA 
+该_DT 作物_NN 处于_VV 开花期_NN 时_LC ，_PU 正值_VV 中国_loc 东北_loc 平原_loc 昼_NN 长_VA 夜_NN 短_VA 
+该_DT 作物_NN 处于_VV 开花期_NN 时_LC ，_PU 正值_VV 潘帕斯草原_loc 草木_NN 茂盛_VA 
+该_DT 作物_NN 处于_VV 开花期_NN 时_LC ，_PU 正值_VV 潘帕斯_loc 草原_loc 草木_NN 茂盛_VA 
+图_NN 中_LC ①_NN ②_NN ③_NN ④_NN 所示_VV 城市_NN 空间_NN 最_AD 合理_VA 的_DEC 作用_NN 方式_NN 分别_AD 为_VC 电影院_NN 、_PU 厂房_NN 、_PU 住宅_NN 、_PU 银行_NN 
+图_NN 中_LC ①_NN ②_NN ③_NN ④_NN 所示_VV 城市_NN 空间_NN 最_AD 合理_VA 的_DEC 作用_NN 方式_NN 分别_AD 为_VC 电影院_NN 、_PU 厂房_NN 、_PU 住宅_NN 、_PU 银行_NN 
+图_NN 中_LC ①_NN ②_NN ③_NN ④_NN 所示_VV 城市_NN 空间_NN 最_AD 合理_VA 的_DEC 作用_NN 方式_NN 分别_AD 为_VC 零售店_NN 、_PU 电影院_NN 、_PU 石房_NN 、_PU 办公室_NN 
+图_NN 中_LC ①_NN ②_NN ③_NN ④_NN 所示_VV 城市_NN 空间_NN 最_AD 合理_VA 的_DEC 作用_NN 方式_NN 分别_AD 为_VC 零售店_NN 、_PU 电影院_NN 、_PU 石房_NN 、_PU 办公室_NN 
+图_NN 中_LC ①_NN ②_NN ③_NN ④_NN 所示_VV 城市_NN 空间_NN 最_AD 合理_VA 的_DEC 作用_NN 方式_NN 分别_AD 为_VC 办公室_NN 、_PU 零售店_NN 、_PU 住宅_NN 、_PU 厂房_NN 
+图_NN 中_LC ①_NN ②_NN ③_NN ④_NN 所示_VV 城市_NN 空间_NN 最_AD 合理_VA 的_DEC 作用_NN 方式_NN 分别_AD 为_VC 办公室_NN 、_PU 零售店_NN 、_PU 住宅_NN 、_PU 厂房_NN 
+图_NN 中_LC ①_NN ②_NN ③_NN ④_NN 所示_VV 城市_NN 空间_NN 最_AD 合理_VA 的_DEC 作用_NN 方式_NN 分别_AD 为_VC 批发_NN 市场_NN 、_PU 办公室_NN 、_PU 住宅_NN 、_PU 零售店_NN 
+图_NN 中_LC ①_NN ②_NN ③_NN ④_NN 所示_VV 城市_NN 空间_NN 最_AD 合理_VA 的_DEC 作用_NN 方式_NN 分别_AD 为_VC 批发_NN 市场_NN 、_PU 办公室_NN 、_PU 住宅_NN 、_PU 零售店_NN 
+与_P 图示_VV 地区_NN 山体_NN 岩石_NN 、_PU 地貌_term 类型_NN 及_CC 其_PN 形成_VV 的_DEC 外力作用_term 对应_VV 的_DEC 是_VC 石灰岩_term 、_PU 球状风化地貌_term 、_PU 风力作用_term 
+与_P 图示_VV 地区_NN 山体_NN 岩石_NN 、_PU 地貌_term 类型_NN 及_CC 其_PN 形成_VV 的_DEC 外力_term 作用_term 对应_VV 的_DEC 是_VC 石灰岩_term 、_PU 球状_term 风化_term 地貌_term 、_PU 风力_term 作用_term 
+与_P 图示_VV 地区_NN 山体_NN 岩石_NN 、_PU 地貌_term 类型_NN 及_CC 其_PN 形成_VV 的_DEC 外力作用_term 对应_VV 的_DEC 是_VC 花岗岩_term 、_PU 流水堆积地貌_term 、_PU 流水作用_term 
+与_P 图示_VV 地区_NN 山体_NN 岩石_NN 、_PU 地貌_term 类型_NN 及_CC 其_PN 形成_VV 的_DEC 外力_term 作用_term 对应_VV 的_DEC 是_VC 花岗岩_term 、_PU 流水_term 堆积_term 地貌_term 、_PU 流水_term 作用_term 
+与_P 图示_VV 地区_NN 山体_NN 岩石_NN 、_PU 地貌_term 类型_NN 及_CC 其_PN 形成_VV 的_DEC 外力作用_term 对应_VV 的_DEC 是_VC 大理岩_term 、_PU 喀斯特地貌_term 、_PU 风力作用_term 
+与_P 图示_VV 地区_NN 山体_NN 岩石_NN 、_PU 地貌_term 类型_NN 及_CC 其_PN 形成_VV 的_DEC 外力_term 作用_term 对应_VV 的_DEC 是_VC 大理岩_term 、_PU 喀斯特_term 地貌_term 、_PU 风力_term 作用_term 
+与_P 图示_VV 地区_NN 山体_NN 岩石_NN 、_PU 地貌_term 类型_NN 及_CC 其_PN 形成_VV 的_DEC 外力作用_term 对应_VV 的_DEC 是_VC 石灰岩_term 、_PU 喀斯特地貌_term 、_PU 流水作用_term 
+与_P 图示_VV 地区_NN 山体_NN 岩石_NN 、_PU 地貌_term 类型_NN 及_CC 其_PN 形成_VV 的_DEC 外力_term 作用_term 对应_VV 的_DEC 是_VC 石灰岩_term 、_PU 喀斯特_term 地貌_term 、_PU 流水_term 作用_term 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 地处_VV 热带_NN ，_PU 风景_NN 优美_VA ，_PU 环境承载量_term 大_JJ 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 地处_VV 热带_NN ，_PU 风景_NN 优美_VA ，_PU 环境_term 承载量_term 大_JJ 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 地处_VV 热带_term 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 地处_VV 热带_term 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 风景_NN 优美_VA 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 风景_NN 优美_VA 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 环境承载量_term 大_JJ 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 环境_term 承载量_term 大_JJ 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 景观_NN 具有_VV 春_NN 翡_VA 夏_NN 翠_VA 秋_NN 金_VA 冬_NN 银_VA 的_DEG 季节_NN 特点_NN 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 景观_NN 具有_VV 春_NN 翡_VA 夏_NN 翠_VA 秋_NN 金_VA 冬_NN 银_VA 的_DEG 季节_NN 特点_NN 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 地质_NN 地貌_NN 景观_NN 独特_VA ，_PU 具有_VV 较_AD 高_VA 的_DEC 游览_NN 价值_NN 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 地质_NN 地貌_NN 景观_NN 独特_VA ，_PU 具有_VV 较_AD 高_VA 的_DEC 游览_NN 价值_NN 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 地质_term 地貌_term 景观_NN 独特_VA 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 地质_term 地貌_term 景观_NN 独特_VA 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 具有_VV 较_AD 高_VA 的_DEC 游览_NN 价值_NN 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 具有_VV 较_AD 高_VA 的_DEC 游览_NN 价值_NN 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 水陆_NN 交通_NN 通达性_NN 好_VA ，_PU 旅游地_NN 吸引半径_NN 大_JJ 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 水陆_NN 交通_NN 通达性_NN 好_VA ，_PU 旅游地_NN 吸引半径_NN 大_JJ 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 水陆_NN 交通_NN 通达性_NN 好_VA 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 水陆_NN 交通_NN 通达性_NN 好_VA 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 旅游地_NN 吸引半径_NN 大_VA 
+该_DT 地区_NN 成为_VV 著名_JJ 旅游地_NN 的_DEG 优势_NN 在于_VV 旅游地_NN 吸引半径_NN 大_VA 
+与_P 图示_VV 地区_NN 农业地域类型_term 相同_VA 的_DEC 地区_NN 是_VC 西欧平原_loc 
+与_P 图示_VV 地区_NN 农业_term 地域_term 类型_term 相同_VA 的_DEC 地区_NN 是_VC 西欧_loc 平原_loc 
+与_P 图示_VV 地区_NN 农业地域类型_term 相同_VA 的_DEC 地区_NN 是_VC 湄公河三角洲_loc 
+与_P 图示_VV 地区_NN 农业_term 地域_term 类型_term 相同_VA 的_DEC 地区_NN 是_VC 湄公河_loc 三角洲_loc 
+与_P 图示_VV 地区_NN 农业地域类型_term 相同_VA 的_DEC 地区_NN 是_VC 五大湖沿岸_loc 
+与_P 图示_VV 地区_NN 农业_term 地域_term 类型_term 相同_VA 的_DEC 地区_NN 是_VC 五大湖_loc 沿岸_loc 
+与_P 图示_VV 地区_NN 农业地域类型_term 相同_VA 的_DEC 地区_NN 是_VC 墨累-达令盆地_loc 
+与_P 图示_VV 地区_NN 农业_term 地域_term 类型_term 相同_VA 的_DEC 地区_NN 是_VC 墨累_loc -_loc 达令_loc 盆地_loc 

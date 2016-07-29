@@ -1,0 +1,112 @@
+Ⅰ区_loc 太阳年辐射总量_term 比_P Ⅳ区_loc 高_VA ，_PU 主要_AD 因为_P Ⅰ区_loc 夏季_time 大气逆辐射_term 强_VA 
+Ⅰ区_loc 太阳_term 年_term 辐射_term 总量_term 比_P Ⅳ区_loc 高_VA ，_PU 主要_AD 因为_P Ⅰ区_loc 夏季_time 大气_term 逆_term 辐射_term 强_VA 
+Ⅰ区_loc 太阳年辐射总量_term 比_P Ⅳ区_loc 高_VA ，_PU 主要_AD 因为_P Ⅰ区_loc 年_NN 平均_JJ 气温_NN 比较_AD 高_VA 
+Ⅰ区_loc 太阳_term 年_term 辐射_term 总量_term 比_P Ⅳ区_loc 高_VA ，_PU 主要_AD 因为_P Ⅰ区_loc 年_NN 平均_JJ 气温_NN 比较_AD 高_VA 
+Ⅰ区_loc 太阳年辐射总量_term 比_P Ⅳ区_loc 高_VA ，_PU 主要_AD 因为_P Ⅰ区_loc 正午太阳高度角_term 大_VA 
+Ⅰ区_loc 太阳_term 年_term 辐射_term 总量_term 比_P Ⅳ区_loc 高_VA ，_PU 主要_AD 因为_P Ⅰ区_loc 正午_term 太阳_term 高度角_term 大_VA 
+Ⅰ区_loc 太阳年辐射总量_term 比_P Ⅳ区_loc 高_VA ，_PU 主要_AD 因为_P Ⅰ区_loc 天气_NN 晴朗_VA 且_CC 海拔_NN 高_VA 
+Ⅰ区_loc 太阳_term 年_term 辐射_term 总量_term 比_P Ⅳ区_loc 高_VA ，_PU 主要_AD 因为_P Ⅰ区_loc 天气_NN 晴朗_VA 且_CC 海拔_NN 高_VA 
+随_P 年份_NN 的_DEG 推移_VV ，_PU 臭氧_NN 总量_NN 最大值_NN 所在_VV 位置_NN 南移_VV 
+随_P 年份_NN 的_DEG 推移_VV ，_PU 臭氧_NN 总量_NN 最大值_NN 所在_VV 位置_NN 南移_VV 
+随_P 年份_NN 的_DEG 推移_VV ，_PU 臭氧_NN 总量_NN 随_P 纬度_term 的_DEG 增高_VV 而_MSP 递减_VV 
+随_P 年份_NN 的_DEG 推移_VV ，_PU 臭氧_NN 总量_NN 随_P 纬度_term 的_DEG 增高_VV 而_MSP 递减_VV 
+随_P 年份_NN 的_DEG 推移_VV ，_PU 臭氧_NN 总量_NN 在_P 高纬地区_loc 递减_VV 明显_VA 
+随_P 年份_NN 的_DEG 推移_VV ，_PU 臭氧_NN 总量_NN 在_P 高纬_loc 地区_loc 递减_VV 明显_VA 
+随_P 年份_NN 的_DEG 推移_VV ，_PU 臭氧_NN 总量_NN 随_P 大气_NN CO2_NR 浓度_NN 而_MSP 增_VV 
+随_P 年份_NN 的_DEG 推移_VV ，_PU 臭氧_NN 总量_NN 随_P 大气_NN CO2_NR 浓度_NN 而_MSP 增_VV 
+臭氧_NN 总量_NN 减少_VV 直接_AD 导致_VV 太阳_NN 紫外线_NN 辐射_NN 减小_VV 
+臭氧_NN 总量_NN 减少_VV 直接_AD 导致_VV 太阳_NN 紫外线_NN 辐射_NN 减小_VV 
+臭氧_NN 总量_NN 减少_VV 直接_AD 导致_VV 平流层_term 气温_NN 降低_VV 
+臭氧_NN 总量_NN 减少_VV 直接_AD 导致_VV 平流层_term 气温_NN 降低_VV 
+臭氧_NN 总量_NN 减少_VV 直接_AD 导致_VV 酸雨区_term 面积_NN 缩小_VV 
+臭氧_NN 总量_NN 减少_VV 直接_AD 导致_VV 酸雨区_term 面积_NN 缩小_VV 
+臭氧_NN 总量_NN 减少_VV 直接_AD 导致_VV 地面辐射强度_term 减弱_VV 
+臭氧_NN 总量_NN 减少_VV 直接_AD 导致_VV 地面_term 辐射_term 强度_term 减弱_VV 
+图_NN 中_LC 山地_NN 年降水量_term 随_P 海拔_NN 升高_VV 而_MSP 递减_VV 
+图_NN 中_LC 山地_NN 年_term 降水量_term 随_P 海拔_NN 升高_VV 而_MSP 递减_VV 
+图_NN 中_LC 山地_NN 年降水量_term 与_CC 山地_NN 气温_NN 垂直_JJ 变化_NN 一致_NN 
+图_NN 中_LC 山地_NN 年_term 降水量_term 与_CC 山地_NN 气温_NN 垂直_JJ 变化_NN 一致_NN 
+图_NN 中_LC 山地_NN 年降水量_term 最大值_NN 所_MSP 在_P 海拔_NN 高度_NN 不同_VA 
+图_NN 中_LC 山地_NN 年_term 降水量_term 最大值_NN 所_MSP 在_P 海拔_NN 高度_NN 不同_VA 
+图_NN 中_LC 山地_NN 年降水量_term 垂直_JJ 变化_NN 最_AD 大_VA 的_DEC 是_VC 山地_NN ①_NN 
+图_NN 中_LC 山地_NN 年_term 降水量_term 垂直_JJ 变化_NN 最_AD 大_VA 的_DEC 是_VC 山地_NN ①_NN 
+山麓_NN 景观_NN 分别_AD 为_VC 温带荒漠_term 和_CC 亚热带常绿阔叶林_term 的_DEG 是_VC ①_NN 和_CC ②_NN 
+山麓_NN 景观_NN 分别_AD 为_VC 温带_term 荒漠_term 和_CC 亚热带_term 常绿_term 阔叶林_term 的_DEG 是_VC ①_NN 和_CC ②_NN 
+山麓_NN 景观_NN 分别_AD 为_VC 温带荒漠_term 和_CC 亚热带常绿阔叶林_term 的_DEG 是_VC ①_NN 和_CC ③_NN 
+山麓_NN 景观_NN 分别_AD 为_VC 温带_term 荒漠_term 和_CC 亚热带_term 常绿_term 阔叶林_term 的_DEG 是_VC ①_NN 和_CC ③_NN 
+山麓_NN 景观_NN 分别_AD 为_VC 温带荒漠_term 和_CC 亚热带常绿阔叶林_term 的_DEG 是_VC ②_NN 和_CC ④_NN 
+山麓_NN 景观_NN 分别_AD 为_VC 温带_term 荒漠_term 和_CC 亚热带_term 常绿_term 阔叶林_term 的_DEG 是_VC ②_NN 和_CC ④_NN 
+山麓_NN 景观_NN 分别_AD 为_VC 温带荒漠_term 和_CC 亚热带常绿阔叶林_term 的_DEG 是_VC ③_NN 和_CC ④_NN 
+山麓_NN 景观_NN 分别_AD 为_VC 温带_term 荒漠_term 和_CC 亚热带_term 常绿_term 阔叶林_term 的_DEG 是_VC ③_NN 和_CC ④_NN 
+该_DT 海域_NN 沿岸_NN 存在_VV 上升流_term ，_PU 为_VC 热带雨林气候_term 
+该_DT 海域_NN 沿岸_NN 存在_VV 上升流_term ，_PU 为_VC 热带_term 雨林_term 气候_term 
+该_DT 海域_NN 沿岸_NN 存在_VV 上升流_term 
+该_DT 海域_NN 沿岸_NN 存在_VV 上升流_term 
+该_DT 海域_NN 沿岸_NN 为_VC 热带雨林气候_term 
+该_DT 海域_NN 沿岸_NN 为_VC 热带_term 雨林_term 气候_term 
+该_DT 海域_NN 沿岸_NN 有_VE 暖流_term 经过_VV ，_PU 为_VC 热带草原气候_term 
+该_DT 海域_NN 沿岸_NN 有_VE 暖流_term 经过_VV ，_PU 为_VC 热带_term 草原_term 气候_term 
+该_DT 海域_NN 沿岸_NN 有_VE 暖流_term 经过_VV 
+该_DT 海域_NN 沿岸_NN 有_VE 暖流_term 经过_VV 
+该_DT 海域_NN 沿岸_NN 为_VC 热带草原气候_term 
+该_DT 海域_NN 沿岸_NN 为_VC 热带_term 草原_term 气候_term 
+该_DT 海域_NN 沿岸_NN 有_VE 寒流_term 经过_VV ，_PU 为_VC 热带沙漠气候_term 
+该_DT 海域_NN 沿岸_NN 有_VE 寒流_term 经过_VV ，_PU 为_VC 热带_term 沙漠_term 气候_term 
+该_DT 海域_NN 沿岸_NN 有_VE 寒流_term 经过_VV 
+该_DT 海域_NN 沿岸_NN 有_VE 寒流_term 经过_VV 
+该_DT 海域_NN 沿岸_NN 为_VC 热带沙漠气候_term 
+该_DT 海域_NN 沿岸_NN 为_VC 热带_term 沙漠_term 气候_term 
+该_DT 海域_NN 沿岸_NN 盛行_VV 东南风_term ，_PU 为_VC 热带季风气候_term 
+该_DT 海域_NN 沿岸_NN 盛行_VV 东南风_term ，_PU 为_VC 热带_term 季风_term 气候_term 
+该_DT 海域_NN 沿岸_NN 盛行_VV 东南风_term 
+该_DT 海域_NN 沿岸_NN 盛行_VV 东南风_term 
+该_DT 海域_NN 沿岸_NN 为_VC 热带季风气候_term 
+该_DT 海域_NN 沿岸_NN 为_VC 热带_term 季风_term 气候_term 
+图_NN 中_LC 乙处_NN 为_VC 河流_NN 冲积扇_term 
+图_NN 中_LC 乙处_NN 为_VC 河流_NN 冲积扇_term 
+图_NN 中_LC 丙处_NN 侵蚀_term 比_P 对岸_NN 强_VA 
+图_NN 中_LC 丙处_NN 侵蚀_term 比_P 对岸_NN 强_VA 
+图_NN 中_LC 丁处_NN 矿床_NN 为_VC 天然气_NN 
+图_NN 中_LC 丁处_NN 矿床_NN 为_VC 天然气_NN 
+图_NN 中_LC 戊处_NN 位于_VV 背斜谷_term 内_LC 
+图_NN 中_LC 戊处_NN 位于_VV 背斜谷_term 内_LC 
+岛内_NN 最_AD 大_JJ 零售_NN 商业点_NN 位于_VV 甲村_loc ，_PU 主要_AD 形成_VV 原因_NN 是_VC 该_DT 村_NN 地形_NN 平坦_VA ，_PU 交通_NN 便利_VA 
+岛内_NN 最_AD 大_JJ 零售_NN 商业_NN 点位于_VV 甲村_loc ，_PU 主要_AD 形成_VV 原因_NN 是_VC 该_DT 村_NN 地形_NN 平坦_VA ，_PU 交通_NN 便利_VA 
+岛内_NN 最_AD 大_JJ 零售_NN 商业点_NN 位于_VV 甲村_loc ，_PU 主要_AD 形成_VV 原因_NN 是_VC 该_DT 村_NN 地形_NN 平坦_VA 
+岛内_NN 最_AD 大_JJ 零售_NN 商业点_NN 位于_VV 甲村_loc ，_PU 主要_AD 形成_VV 原因_NN 是_VC 该_DT 村_NN 地形_NN 平坦_VA 
+岛内_NN 最_AD 大_JJ 零售_NN 商业点_NN 位于_VV 甲村_loc ，_PU 主要_AD 形成_VV 原因_NN 是_VC 该_DT 村_NN 交通_NN 便利_VA 
+岛内_NN 最_AD 大_JJ 零售_NN 商业点_NN 位于_VV 甲村_loc ，_PU 主要_AD 形成_VV 原因_NN 是_VC 该_DT 村_NN 交通_NN 便利_VA 
+岛内_NN 最_AD 大_JJ 零售_NN 商业点_NN 位于_VV 甲村_loc ，_PU 主要_AD 形成_VV 原因_NN 是_VC 该_DT 村_NN 商业_NN 从业_JJ 人口_NN 多_VA 
+岛内_NN 最_AD 大_JJ 零售_NN 商业点_NN 位于_VV 甲村_loc ，_PU 主要_AD 形成_VV 原因_NN 是_VC 该_DT 村_NN 商业_NN 从业_JJ 人口_NN 多_VA 
+岛内_NN 最_AD 大_JJ 零售_NN 商业点_NN 位于_VV 甲村_loc ，_PU 主要_AD 形成_VV 原因_NN 是_VC 该_DT 村_NN 商业_NN 组织_NN 形式_NN 复杂_VA 
+岛内_NN 最_AD 大_JJ 零售_NN 商业点_NN 位于_VV 甲村_loc ，_PU 主要_AD 形成_VV 原因_NN 是_VC 该_DT 村_NN 商业_NN 组织_NN 形式_NN 复杂_VA 
+岛内_NN 最_AD 大_JJ 零售_NN 商业点_NN 位于_VV 甲村_loc ，_PU 主要_AD 形成_VV 原因_NN 是_VC 该_DT 村_NN 人口_NN 数量_NN 大_VA 
+岛内_NN 最_AD 大_JJ 零售_NN 商业点_NN 位于_VV 甲村_loc ，_PU 主要_AD 形成_VV 原因_NN 是_VC 该_DT 村_NN 人口_NN 数量_NN 大_VA 
+在_P 海岛_NN 开发_VV 的_DEC 过程_NN 中_LC ，_PU 该_loc 岛_NN 人口_NN 容量_NN 最_AD 主要_AD 受_VV 耕地_NN 资源_NN 、_PU 矿产_NN 资源_NN 限制_NN 
+在_P 海岛_NN 开发_VV 的_DEC 过程_NN 中_LC ，_PU 该_loc 岛_NN 人口_NN 容量_NN 最_AD 主要_AD 受_VV 耕地_NN 资源_NN 、_PU 矿产_NN 资源_NN 限制_NN 
+在_P 海岛_NN 开发_VV 的_DEC 过程_NN 中_LC ，_PU 该_DT 岛_NN 适宜_VV 大_JJ 面积_NN 种植_VV 水稻_NN 、_PU 甜菜_NN 、_PU 香蕉_NN 和_CC 橡胶_NN 
+在_P 海岛_NN 开发_VV 的_DEC 过程_NN 中_LC ，_PU 该_DT 岛_NN 适宜_VV 大_JJ 面积_NN 种植_VV 水稻_NN 、_PU 甜菜_NN 、_PU 香蕉_NN 和_CC 橡胶_NN 
+在_P 海岛_NN 开发_VV 的_DEC 过程_NN 中_LC ，_PU 该_DT 岛_NN 河流_NN 入海口_NN 处_NN 地势_NN 开阔_VA ，_PU 适宜_VV 建设_VV 深水港_NN 
+在_P 海岛_NN 开发_VV 的_DEC 过程_NN 中_LC ，_PU 该_DT 岛_NN 河流_NN 入海口_NN 处_NN 地势_NN 开阔_VA ，_PU 适宜_VV 建设_VV 深水港_NN 
+在_P 海岛_NN 开发_VV 的_DEC 过程_NN 中_LC ，_PU 该_DT 岛_NN 河流_NN 入海口_NN 处_NN 地势_NN 开阔_VA 
+在_P 海岛_NN 开发_VV 的_DEC 过程_NN 中_LC ，_PU 该_DT 岛_NN 河流_NN 入海口_NN 处_NN 地势_NN 开阔_VA 
+在_P 海岛_NN 开发_VV 的_DEC 过程_NN 中_LC ，_PU 该_DT 岛_NN 适宜_VV 建设_VV 深水港_NN 
+在_P 海岛_NN 开发_VV 的_DEC 过程_NN 中_LC ，_PU 该_DT 岛_NN 适宜_VV 建设_VV 深水港_NN 
+在_P 海岛_NN 开发_VV 的_DEC 过程_NN 中_LC ，_PU 该_DT 岛_NN 需要_VV 防范_VV 强风_NN 、_PU 暴雨_NN 、_PU 风暴潮_term 等_ETC 自然_NN 灾害_NN 
+在_P 海岛_NN 开发_VV 的_DEC 过程_NN 中_LC ，_PU 该_DT 岛_NN 需要_VV 防范_VV 强风_NN 、_PU 暴雨_NN 、_PU 风暴潮_term 等_ETC 自然_NN 灾害_NN 
+接受_VV 湖北_NR 输出_NN 货运量_NN 最_AD 多_VA 的_DEC 省份_NN （_PU 直辖市_NN ）_PU 位于_VV 湖北以南_loc 
+接受_VV 湖北_NR 输出_NN 货运量_NN 最_AD 多_VA 的_DEC 省份_NN （_PU 直辖市_NN ）_PU 位于_VV 湖北_loc 以南_loc 
+接受_VV 湖北_NR 输出_NN 货运量_NN 最_AD 多_VA 的_DEC 省份_NN （_PU 直辖市_NN ）_PU 位于_VV 湖北以北_loc 
+接受_VV 湖北_NR 输出_NN 货运量_NN 最_AD 多_VA 的_DEC 省份_NN （_PU 直辖市_NN ）_PU 位于_VV 湖北_loc 以北_loc 
+接受_VV 湖北_NR 输出_NN 货运量_NN 最_AD 多_VA 的_DEC 省份_NN （_PU 直辖市_NN ）_PU 位于_VV 湖北以东_loc 
+接受_VV 湖北_NR 输出_NN 货运量_NN 最_AD 多_VA 的_DEC 省份_NN （_PU 直辖市_NN ）_PU 位于_VV 湖北_loc 以东_loc 
+接受_VV 湖北_NR 输出_NN 货运量_NN 最_AD 多_VA 的_DEC 省份_NN （_PU 直辖市_NN ）_PU 位于_VV 湖北以西_loc 
+接受_VV 湖北_NR 输出_NN 货运量_NN 最_AD 多_VA 的_DEC 省份_NN （_PU 直辖市_NN ）_PU 位于_VV 湖北_loc 以西_loc 
+承担_VV 由_P 邻省_NN （_PU 直辖市_NN ）_PU 输入_VV 湖北_loc 的_DEG 货运量_NN 最_AD 大_VA 的_DEC 铁路线_NN 是_VC 京沪线_loc 、_PU 京广线_loc 
+承担_VV 由_P 邻省_NN （_PU 直辖市_NN ）_PU 输入_VV 湖北_loc 的_DEG 货运量_NN 最_AD 大_VA 的_DEC 铁路线_NN 是_VC 京沪线_loc 、_PU 京广线_loc 
+承担_VV 由_P 邻省_NN （_PU 直辖市_NN ）_PU 输入_VV 湖北_loc 的_DEG 货运量_NN 最_AD 大_VA 的_DEC 铁路线_NN 是_VC 京广线_loc 、_PU 焦枝线_loc 
+承担_VV 由_P 邻省_NN （_PU 直辖市_NN ）_PU 输入_VV 湖北_loc 的_DEG 货运量_NN 最_AD 大_VA 的_DEC 铁路线_NN 是_VC 京广线_loc 、_PU 焦枝线_loc 
+承担_VV 由_P 邻省_NN （_PU 直辖市_NN ）_PU 输入_VV 湖北_loc 的_DEG 货运量_NN 最_AD 大_VA 的_DEC 铁路线_NN 是_VC 京九线_loc 、_PU 枝柳线_loc 
+承担_VV 由_P 邻省_NN （_PU 直辖市_NN ）_PU 输入_VV 湖北_loc 的_DEG 货运量_NN 最_AD 大_VA 的_DEC 铁路线_NN 是_VC 京九线_loc 、_PU 枝柳线_loc 
+承担_VV 由_P 邻省_NN （_PU 直辖市_NN ）_PU 输入_VV 湖北_loc 的_DEG 货运量_NN 最_AD 大_VA 的_DEC 铁路线_NN 是_VC 陇海线_loc 、_PU 焦枝线_loc 
+承担_VV 由_P 邻省_NN （_PU 直辖市_NN ）_PU 输入_VV 湖北_loc 的_DEG 货运量_NN 最_AD 大_VA 的_DEC 铁路线_NN 是_VC 陇海线_loc 、_PU 焦枝线_loc 

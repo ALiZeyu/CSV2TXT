@@ -1,0 +1,45 @@
+时间,地点,术语,数量词,（粗粒度）分词,（细粒度）分词,词性
+10,6,8,,该 船员 拍摄 照片 时 ， P地 的 地方时 为 22时,该 船员 拍摄 照片 时 ， P地 的 地方时 为 22时,DT NN VV NN LC PU loc DEG term VC time
+10,6,8,,该 船员 拍摄 照片 时 ， P地 的 地方时 为 14时,该 船员 拍摄 照片 时 ， P地 的 地方时 为 14时,DT NN VV NN LC PU loc DEG term VC time
+10,6,8,,该 船员 拍摄 照片 时 ， P地 的 地方时 为 20时,该 船员 拍摄 照片 时 ， P地 的 地方时 为 20时,DT NN VV NN LC PU loc DEG term VC time
+10,6,8,,该 船员 拍摄 照片 时 ， P地 的 地方时 为 16时,该 船员 拍摄 照片 时 ， P地 的 地方时 为 16时,DT NN VV NN LC PU loc DEG term VC time
+3 10,5,,,拍摄 照片 的 当天 ， 漠河 的 夜长 约 为 16小时,拍摄 照片 的 当天 ， 漠河 的 夜长 约 为 16 小时,VV NN DEG time PU loc DEG NN AD VC time
+3 10,5,,,拍摄 照片 的 当天 ， 漠河 的 夜长 约 为 14小时,拍摄 照片 的 当天 ， 漠河 的 夜长 约 为 14 小时,VV NN DEG time PU loc DEG NN AD VC time
+3 10,5,,,拍摄 照片 的 当天 ， 漠河 的 夜长 约 为 10小时,拍摄 照片 的 当天 ， 漠河 的 夜长 约 为 10 小时,VV NN DEG time PU loc DEG NN AD VC time
+3 10,5,,,拍摄 照片 的 当天 ， 漠河 的 夜长 约 为 12小时,拍摄 照片 的 当天 ， 漠河 的 夜长 约 为 12 小时,VV NN DEG time PU loc DEG NN AD VC time
+,4,,,该 船 即将 进入 巴拿马运河,该 船 即将 进入 巴拿马 运河,DT NN AD VV loc
+,4,,,该 船 即将 进入 麦哲伦海峡,该 船 即将 进入 麦哲伦 海峡,DT NN AD VV loc
+,4,,,该 船 即将 进入 德雷克海峡,该 船 即将 进入 德雷克 海峡,DT NN AD VV loc
+,4,,,该 船 即将 进入 直布罗陀海峡,该 船 即将 进入 直布罗陀 海峡,DT NN AD VV loc
+0,8,,,此时 世界 各地 可能 出现 的 现象 是 美国中部 小麦 黄熟,此时 世界 各地 可能 出现 的 现象 是 美国 中部 小麦 黄熟,time NN NN VV VV DEC NN VC loc NN VA
+0,8,,,此时 世界 各地 可能 出现 的 现象 是 中国江淮流域 干热,此时 世界 各地 可能 出现 的 现象 是 中国 江淮 流域 干热,time NN NN VV VV DEC NN VC loc VA
+0,8,,,此时 世界 各地 可能 出现 的 现象 是 地中海北岸 连日 阴雨,此时 世界 各地 可能 出现 的 现象 是 地中海 北岸 连日 阴雨,time NN NN VV VV DEC NN VC loc NT NN
+0,8,10,,此时 世界 各地 可能 出现 的 现象 是 拉普拉塔河 正值 枯水期,此时 世界 各地 可能 出现 的 现象 是 拉普拉塔河 正值 枯水期,time NN NN VV VV DEC NN VC loc VV term
+,2,5 7,,图2 中 ①地 所处 的 自然带 是 热带雨林带,图2 中 ①地 所处 的 自然带 是 热带 雨林 带,NN LC loc VV DEC term VC term
+,2,5 7,,图2 中 ①地 所处 的 自然带 是 热带草原带,图2 中 ①地 所处 的 自然带 是 热带 草原 带,NN LC loc VV DEC term VC term
+,2,5 7,,图2 中 ①地 所处 的 自然带 是 热带沙漠带,图2 中 ①地 所处 的 自然带 是 热带 沙漠 带,NN LC loc VV DEC term VC term
+,2,5 7,,图2 中 ①地 所处 的 自然带 是 热带季雨林带,图2 中 ①地 所处 的 自然带 是 热带 季雨林 带,NN LC loc VV DEC term VC term
+,2 7,,,图2 中 ①②③三地 自然 条件 相 比较 ②地 降水 最 多,图2 中 ① ② ③ 三 地 自然 条件 相 比较 ②地 降水 最 多,NN LC loc NN NN AD VV loc VV AD VA
+,2 8,10,,图2 中 ①②③三地 自然 条件 相 比较 只有 ③地 的 植被 为 森林,图2 中 ① ② ③ 三 地 自然 条件 相 比较 只有 ③地 的 植被 为 森林,NN LC loc NN NN AD VV AD loc DEG term VC NN
+,2 7,,,图2 中 ①②③三地 自然 条件 相 比较 ①地 年均 温 最 低,图2 中 ① ② ③ 三 地 自然 条件 相 比较 ①地 年均 温 最 低,NN LC loc NN NN AD VV loc JJ NN AD VA
+,2 7,10,,图2 中 ①②③三地 自然 条件 相 比较 ②、③两地 均 受 暖流 影响,图2 中 ① ② ③ 三 地 自然 条件 相 比较 ② 、 ③ 两地 均 受 暖流 影响,NN LC loc NN NN AD VV loc AD VV term NN
+2,,,,在 此 期间 ， 能源 生产 与 消费 结构 的 变化 为 煤炭 消费量 的 比重 增加 最 多,在 此 期间 ， 能源 生产 与 消费 结构 的 变化 为 煤炭 消费量 的 比重 增加 最 多,P PN time PU NN NN CC NN NN DEG NN VC NN NN DEC NN VV AD VA
+2,,,,在 此 期间 ， 能源 生产 与 消费 结构 的 变化 为 天然气 生产量 的 比重 变幅 最 大,在 此 期间 ， 能源 生产 与 消费 结构 的 变化 为 天然气 生产量 的 比重 变幅 最 大,P PN time PU NN NN CC NN NN DEG NN VC NN NN DEC NN NN AD VA
+2 12,,,,在 此 期间 ， 能源 生产 与 消费 结构 的 变化 为 1995年 ， 煤炭 生产量 所 占 比重 低于 其 消费量 所 占 比重,在 此 期间 ， 能源 生产 与 消费 结构 的 变化 为 1995年 ， 煤炭 生产量 所 占 比重 低于 其 消费量 所 占 比重,P PN time PU NN NN CC NN NN DEG NN VC time PU NN NN MSP VV NN VV PN NN MSP VV NN
+2 12,,,,在 此 期间 ， 能源 生产 与 消费 结构 的 变化 为 1994年 ， 石油 生产量 和 消费量 所 占 比重 相近,在 此 期间 ， 能源 生产 与 消费 结构 的 变化 为 1994年 ， 石油 生产量 和 消费量 所 占 比重 相近,P PN time PU NN NN CC NN NN DEG NN VC time PU NN NN CC NN MSP VV NN VV
+0,,,4,2000年 消费量 超过 生产量 20％ 以上 的 能源 种类 有 煤炭 、 石油,2000年 消费量 超过 生产量 20％ 以上 的 能源 种类 有 煤炭 、 石油,time NN VV NN num LC DEG NN NN VE NN PU NN
+0,,,4,2000年 消费量 超过 生产量 20％ 以上 的 能源 种类 有 石油 、 水电,2000年 消费量 超过 生产量 20％ 以上 的 能源 种类 有 石油 、 水电,time NN VV NN num LC DEG NN NN VE NN PU NN
+0,,,4,2000年 消费量 超过 生产量 20％ 以上 的 能源 种类 有 水电 、 天然气,2000年 消费量 超过 生产量 20％ 以上 的 能源 种类 有 水电 、 天然气,time NN VV NN num LC DEG NN NN VE NN PU NN
+0,,,4,2000年 消费量 超过 生产量 20％ 以上 的 能源 种类 有 天然气 、 煤炭,2000年 消费量 超过 生产量 20％ 以上 的 能源 种类 有 天然气 、 煤炭,time NN VV NN num LC DEG NN NN VE NN PU NN
+1,,,,我国 目前 以 煤炭 消费 为主 的 状况 已经 改变,我国 目前 以 煤炭 消费 为主 的 状况 已经 改变,NR time P NN NN VV DEC NN AD VV
+1,,,,我国 目前 天然气 消费 呈 下降 趋势,我国 目前 天然气 消费 呈 下降 趋势,NR time NN NN VV VV NN
+1,,,,我国 目前 因 消费量 少于 生产量 ， 原油 可以 大量 出口,我国 目前 因 消费量 少于 生产量 ， 原油 可以 大量 出口,NR time P NN VV NN PU NN VV CD NN
+1,,,,我国 目前 水电 生产 呈 增加 的 趋势,我国 目前 水电 生产 呈 增加 的 趋势,NR time NN NN VV VV DEC NN
+,0,2,,长江三角洲地区 与 城市带 发育 不 相关 的 自然 因素 是 气候 温和 湿润,长江 三角洲 地区 与 城市带 发育 不 相关 的 自然 因素 是 气候 温和 湿润,loc CC term VV AD VA DEC NN NN VC NN VA VA
+,0,2,,长江三角洲地区 与 城市带 发育 不 相关 的 自然 因素 是 河网 密集,长江 三角洲 地区 与 城市带 发育 不 相关 的 自然 因素 是 河网 密集,loc CC term VV AD VA DEC NN NN VC NN VA
+,0,2,,长江三角洲地区 与 城市带 发育 不 相关 的 自然 因素 是 矿产 资源 丰富,长江 三角洲 地区 与 城市带 发育 不 相关 的 自然 因素 是 矿产 资源 丰富,loc CC term VV AD VA DEC NN NN VC NN NN VA
+,0,2,,长江三角洲地区 与 城市带 发育 不 相关 的 自然 因素 是 临 江 面 海 的 地理 位置,长江 三角洲 地区 与 城市带 发育 不 相关 的 自然 因素 是 临 江 面 海 的 地理 位置,loc CC term VV AD VA DEC NN NN VC VV NN VV NN DEC NN NN
+,,,,该 地区 经济 高速 增长 的 根本 原因 是 市场 机制 比较 成熟,该 地区 经济 高速 增长 的 根本 原因 是 市场 机制 比较 成熟,DT NN NN JJ NN DEG NN NN VC NN NN AD VA
+,,,,该 地区 经济 高速 增长 的 根本 原因 是 特色 经济 形成 规模,该 地区 经济 高速 增长 的 根本 原因 是 特色 经济 形成 规模,DT NN NN JJ NN DEG NN NN VC NN NN VV NN
+,,,,该 地区 经济 高速 增长 的 根本 原因 是 积极 参与 国际 竞争,该 地区 经济 高速 增长 的 根本 原因 是 积极 参与 国际 竞争,DT NN NN JJ NN DEG NN NN VC AD VV NN NN
+,,9,,该 地区 经济 高速 增长 的 根本 原因 是 第一产业 发展 迅速,该 地区 经济 高速 增长 的 根本 原因 是 第一 产业 发展 迅速,DT NN NN JJ NN DEG NN NN VC term NN VA

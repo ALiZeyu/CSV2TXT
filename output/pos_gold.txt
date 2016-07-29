@@ -1,0 +1,88 @@
+该_DT 船员_NN 拍摄_VV 照片_NN 时_LC ，_PU P地_NN 的_DEG 地方时_NN 为_VC 22时_NT
+该_DT 船员_NN 拍摄_VV 照片_NN 时_LC ，_PU P地_NN 的_DEG 地方时_NN 为_VC 14时_NT
+该_DT 船员_NN 拍摄_VV 照片_NN 时_LC ，_PU P地_NN 的_DEG 地方时_NN 为_VC 20时_NT
+该_DT 船员_NN 拍摄_VV 照片_NN 时_LC ，_PU P地_NN 的_DEG 地方时_NN 为_VC 16时_NT
+拍摄_VV 照片_NN 的_DEG 当天_NT ，_PU 漠河_NR 的_DEG 夜长_NN 约_AD 为_VC 16_CD 小时_M
+拍摄_VV 照片_NN 的_DEG 当天_NT ，_PU 漠河_NR 的_DEG 夜长_NN 约_AD 为_VC 14_CD 小时_M
+拍摄_VV 照片_NN 的_DEG 当天_NT ，_PU 漠河_NR 的_DEG 夜长_NN 约_AD 为_VC 10_CD 小时_M
+拍摄_VV 照片_NN 的_DEG 当天_NT ，_PU 漠河_NR 的_DEG 夜长_NN 约_AD 为_VC 12_CD 小时_M
+该_DT 船_NN 即将_AD 进入_VV 巴拿马_NR 运河_NN
+该_DT 船_NN 即将_AD 进入_VV 麦哲伦_NR 海峡_NN
+该_DT 船_NN 即将_AD 进入_VV 德雷克_NR 海峡_NN
+该_DT 船_NN 即将_AD 进入_VV 直布罗陀_NR 海峡_NN
+此时_NT 世界_NN 各地_NN 可能_VV 出现_VV 的_DEC 现象_NN 是_VC 美国_NR 中部_NN 小麦_NN 黄熟_VA
+此时_NT 世界_NN 各地_NN 可能_VV 出现_VV 的_DEC 现象_NN 是_VC 中国_NR 江淮_NR 流域_NN 干热_VA
+此时_NT 世界_NN 各地_NN 可能_VV 出现_VV 的_DEC 现象_NN 是_VC 地中海_NR 北岸_NN 连日_NT 阴雨_NN
+此时_NT 世界_NN 各地_NN 可能_VV 出现_VV 的_DEC 现象_NN 是_VC 拉普拉塔河_NR 正值_VV 枯水期_NN
+图2_NN 中_LC ①地_NN 所处_VV 的_DEC 自然带_NN 是_VC 热带_NN 雨林_NN 带_NN
+图2_NN 中_LC ①地_NN 所处_VV 的_DEC 自然带_NN 是_VC 热带_NN 草原_NN 带_NN
+图2_NN 中_LC ①地_NN 所处_VV 的_DEC 自然带_NN 是_VC 热带_NN 沙漠_NN 带_NN
+图2_NN 中_LC ①地_NN 所处_VV 的_DEC 自然带_NN 是_VC 热带_NN 季雨林_NN 带_NN
+图2_NN 中_LC ①_NN ②_NN ③_NN 三_CD 地_NN 自然_NN 条件_NN 相_AD 比较_VV ②地_NN 降水_VV 最_AD 多_VA
+图2_NN 中_LC ①_NN ②_NN ③_NN 三_CD 地_NN 自然_NN 条件_NN 相_AD 比较_VV 只有_AD ③地_NN 的_DEG 植被_NN 为_VC 森林_NN
+图2_NN 中_LC ①_NN ②_NN ③_NN 三_CD 地_NN 自然_NN 条件_NN 相_AD 比较_VV ①地_NN 年均_JJ 温_NN 最_AD 低_VA
+图2_NN 中_LC ①_NN ②_NN ③_NN 三_CD 地_NN 自然_NN 条件_NN 相_AD 比较_VV ②_NN 、_PU ③_NN 两_CD 地_NN 均_AD 受_VV 暖流_NN 影响_NN
+在_P 此_PN 期间_NN ，_PU 能源_NN 生产_NN 与_CC 消费_NN 结构_NN 的_DEG 变化_NN 为_VC 煤炭_NN 消费量_NN 的_DEC 比重_NN 增加_VV 最_AD 多_VA
+在_P 此_PN 期间_NN ，_PU 能源_NN 生产_NN 与_CC 消费_NN 结构_NN 的_DEG 变化_NN 为_VC 天然气_NN 生产量_NN 的_DEC 比重_NN 变幅_NN 最_AD 大_VA
+在_P 此_PN 期间_NN ，_PU 能源_NN 生产_NN 与_CC 消费_NN 结构_NN 的_DEG 变化_NN 为_VC 1995年_NT ，_PU 煤炭_NN 生产量_NN 所_MSP 占_VV 比重_NN 低于_VV 其_PN 消费量_NN 所_MSP 占_VV 比重_NN
+在_P 此_PN 期间_NN ，_PU 能源_NN 生产_NN 与_CC 消费_NN 结构_NN 的_DEG 变化_NN 为_VC 1994年_NT ，_PU 石油_NN 生产量_NN 和_CC 消费量_NN 所_MSP 占_VV 比重_NN 相近_VV
+2000年_NT 消费量_NN 超过_VV 生产量_NN 20％_CD 以上_LC 的_DEG 能源_NN 种类_NN 有_VE 煤炭_NN 、_PU 石油_NN
+2000年_NT 消费量_NN 超过_VV 生产量_NN 20％_CD 以上_LC 的_DEG 能源_NN 种类_NN 有_VE 石油_NN 、_PU 水电_NN
+2000年_NT 消费量_NN 超过_VV 生产量_NN 20％_CD 以上_LC 的_DEG 能源_NN 种类_NN 有_VE 水电_NN 、_PU 天然气_NN
+2000年_NT 消费量_NN 超过_VV 生产量_NN 20％_CD 以上_LC 的_DEG 能源_NN 种类_NN 有_VE 天然气_NN 、_PU 煤炭_NN
+我国_NR 目前_NT 以_P 煤炭_NN 消费_NN 为主_VV 的_DEC 状况_NN 已经_AD 改变_VV
+我国_NR 目前_NT 天然气_NN 消费_NN 呈_VV 下降_VV 趋势_NN
+我国_NR 目前_NT 因_P 消费量_NN 少于_VV 生产量_NN ，_PU 原油_NN 可以_VV 大量_CD 出口_NN
+我国_NR 目前_NT 水电_NN 生产_NN 呈_VV 增加_VV 的_DEC 趋势_NN
+长江_NR 三角洲_NN 地区_NN 与_CC 城市带_NN 发育_VV 不_AD 相关_VA 的_DEC 自然_NN 因素_NN 是_VC 气候_NN 温和_VA 湿润_VA
+长江_NR 三角洲_NN 地区_NN 与_CC 城市带_NN 发育_VV 不_AD 相关_VA 的_DEC 自然_NN 因素_NN 是_VC 河网_NN 密集_VA
+长江_NR 三角洲_NN 地区_NN 与_CC 城市带_NN 发育_VV 不_AD 相关_VA 的_DEC 自然_NN 因素_NN 是_VC 矿产_NN 资源_NN 丰富_VA
+长江_NR 三角洲_NN 地区_NN 与_CC 城市带_NN 发育_VV 不_AD 相关_VA 的_DEC 自然_NN 因素_NN 是_VC 临_VV 江_NN 面_VV 海_NN 的_DEC 地理_NN 位置_NN
+该_DT 地区_NN 经济_NN 高速_JJ 增长_NN 的_DEG 根本_NN 原因_NN 是_VC 市场_NN 机制_NN 比较_AD 成熟_VA
+该_DT 地区_NN 经济_NN 高速_JJ 增长_NN 的_DEG 根本_NN 原因_NN 是_VC 特色_NN 经济_NN 形成_VV 规模_NN
+该_DT 地区_NN 经济_NN 高速_JJ 增长_NN 的_DEG 根本_NN 原因_NN 是_VC 积极_AD 参与_VV 国际_NN 竞争_NN
+该_DT 地区_NN 经济_NN 高速_JJ 增长_NN 的_DEG 根本_NN 原因_NN 是_VC 第一_OD 产业_NN 发展_NN 迅速_VA
+造成_VV 该_DT 沙尘_NN 天气_NN 的_DEG 天气_NN 系统_NN 是_VC 气旋_NN 、_PU 冷锋_NN
+造成_VV 该_DT 沙尘_NN 天气_NN 的_DEG 天气_NN 系统_NN 是_VC 气旋_NN 、_PU 暖锋_NN
+造成_VV 该_DT 沙尘_NN 天气_NN 的_DEG 天气_NN 系统_NN 是_VC 反气旋_NN 、_PU 暖锋_NN
+造成_VV 该_DT 沙尘_NN 天气_NN 的_DEG 天气_NN 系统_NN 是_VC 反气旋_NN 、_PU 冷锋_NN
+该_DT 沙尘_NN 天气_NN 先后_AD 经过_VV 呼和浩特_NR 、_PU 北京_NR 、_PU 石家庄_NR ，_PU 它们_PN 依次_AD 是_VC 图_NN 中_LC 的_DEG ①_NN ②_NN ③_NN
+该_DT 沙尘_NN 天气_NN 先后_AD 经过_VV 呼和浩特_NR 、_PU 北京_NR 、_PU 石家庄_NR ，_PU 它们_PN 依次_AD 是_VC 图_NN 中_LC 的_DEG ②_NN ①_NN ③_NN
+该_DT 沙尘_NN 天气_NN 先后_AD 经过_VV 呼和浩特_NR 、_PU 北京_NR 、_PU 石家庄_NR ，_PU 它们_PN 依次_AD 是_VC 图_NN 中_LC 的_DEG ③_NN ②_NN ①_NN
+该_DT 沙尘_NN 天气_NN 先后_AD 经过_VV 呼和浩特_NR 、_PU 北京_NR 、_PU 石家庄_NR ，_PU 它们_PN 依次_AD 是_VC 图_NN 中_LC 的_DEG ②_NN ③_NN ①_NN
+登顶_NN 队员_NN 在_P 北京_NR 时间_NN 13时_NT 前_LC 撤离_VV ，_PU 主要_AD 是_VC 为了_P 避开_VV 大量_CD 冰雪_NN 融化_VV
+登顶_NN 队员_NN 在_P 北京_NR 时间_NN 13时_NT 前_LC 撤离_VV ，_PU 主要_AD 是_VC 为了_P 避开_VV 泥石流_NN 爆发_VV
+登顶_NN 队员_NN 在_P 北京_NR 时间_NN 13时_NT 前_LC 撤离_VV ，_PU 主要_AD 是_VC 为了_P 避开_VV 强_JJ 对流_NN 天气_NN
+登顶_NN 队员_NN 在_P 北京_NR 时间_NN 13时_NT 前_LC 撤离_VV ，_PU 主要_AD 是_VC 为了_P 避开_VV 强_VA 紫外线_NN 辐射_VV
+珠穆朗玛峰_NR 峰顶_NN 比_P 同_DT 纬度_NN 海平面_NN 白昼_NN 略_AD 长_VA
+珠穆朗玛峰_NR 峰顶_NN 比_P 同_DT 纬度_NN 海平面_NN 黑夜_NN 略_AD 长_VA
+珠穆朗玛峰_NR 峰顶_NN 比_P 同_DT 纬度_NN 海平面_NN 自转_NN 线速度_NN 略_AD 小_VA
+珠穆朗玛峰_NR 峰顶_NN 比_P 同_DT 纬度_NN 海平面_NN 自转_NN 角速度_NN 略_AD 大_VA
+导致_VV 珠穆朗玛峰_NR 海拔_NN 高度_NN 变化_VV 的_DEC 是_VC 地面_NN 沉降_VV
+导致_VV 珠穆朗玛峰_NR 海拔_NN 高度_NN 变化_VV 的_DEC 是_VC 地壳_NN 运动_NN
+导致_VV 珠穆朗玛峰_NR 海拔_NN 高度_NN 变化_VV 的_DEC 是_VC 变质_NN 作用_NN
+导致_VV 珠穆朗玛峰_NR 海拔_NN 高度_NN 变化_VV 的_DEC 是_VC 海平面_NN 升降_VV
+登顶_NN 队员_NN 从_P 积雪_NN 冰川带_NN 下山_VV ，_PU 依次_AD 经过_VV 的_DEC 垂直_JJ 自然带_NN 是_VC 高山_NN 草原带_NN —_PU 高山_NN 草甸带_NN —_PU 高山_NN 针叶林带_NN
+登顶_NN 队员_NN 从_P 积雪_NN 冰川带_NN 下山_VV ，_PU 依次_AD 经过_VV 的_DEC 垂直_JJ 自然带_NN 是_VC 高山_NN 草甸带_NN —_PU 高寒_JJ 荒漠带_NN —_PU 高山_NN 草原带_NN
+登顶_NN 队员_NN 从_P 积雪_NN 冰川带_NN 下山_VV ，_PU 依次_AD 经过_VV 的_DEC 垂直_JJ 自然带_NN 是_VC 高寒_JJ 荒漠带_NN —_PU 高山_NN 草原带_NN —_PU 高山_NN 针叶林带_NN
+登顶_NN 队员_NN 从_P 积雪_NN 冰川带_NN 下山_VV ，_PU 依次_AD 经过_VV 的_DEC 垂直_JJ 自然带_NN 是_VC 高寒_JJ 荒漠带_NN —_PU 高山_NN 草甸带_NN —_PU 高山_NN 草原带_NN
+从_P P点_NN 出发_VV ，_PU 车速_NN 最_AD 快_VA 的_DEC 去向_NN 是_VC 东_NN
+从_P P点_NN 出发_VV ，_PU 车速_NN 最_AD 快_VA 的_DEC 去向_NN 是_VC 南_NN
+从_P P点_NN 出发_VV ，_PU 车速_NN 最_AD 快_VA 的_DEC 去向_NN 是_VC 西_NN
+从_P P点_NN 出发_VV ，_PU 车速_NN 最_AD 快_VA 的_DEC 去向_NN 是_VC 北_NN
+与_P 图中_NN 甲_NN 、_PU 乙_NN 、_PU 丙_NN 、_PU 丁_NR 四_CD 类_M 城市_NN 功能区_NN 依次_AD 对应_VV 的_DEC 是_VC 商业区_NN 、_PU 工业区_NN 、_PU 住宅区_NN 、_PU 绿地_NN
+与_P 图中_NN 甲_NN 、_PU 乙_NN 、_PU 丙_NN 、_PU 丁_NR 四_CD 类_M 城市_NN 功能区_NN 依次_AD 对应_VV 的_DEC 是_VC 商业区_NN 、_PU 住宅区_NN 、_PU 绿地_NN 、_PU 工业区_NN
+与_P 图中_NN 甲_NN 、_PU 乙_NN 、_PU 丙_NN 、_PU 丁_NR 四_CD 类_M 城市_NN 功能区_NN 依次_AD 对应_VV 的_DEC 是_VC 工业区_NN 、_PU 商业区_NN 、_PU 住宅区_NN 、_PU 绿地_NN
+与_P 图中_NN 甲_NN 、_PU 乙_NN 、_PU 丙_NN 、_PU 丁_NR 四_CD 类_M 城市_NN 功能区_NN 依次_AD 对应_VV 的_DEC 是_VC 工业区_NN 、_PU 住宅区_NN 、_PU 绿地_NN 、_PU 商业区_NN
+对_P 该_DT 城市_NN 环境_NN 质量_NN 影响_NN 较_AD 大_VA 的_DEC 是_VC 钢铁厂_NN
+对_P 该_DT 城市_NN 环境_NN 质量_NN 影响_NN 较_AD 大_VA 的_DEC 是_VC 印染厂_NN
+对_P 该_DT 城市_NN 环境_NN 质量_NN 影响_NN 较_AD 大_VA 的_DEC 是_VC 化肥厂_NN
+对_P 该_DT 城市_NN 环境_NN 质量_NN 影响_NN 较_AD 大_VA 的_DEC 是_VC 服装厂_NN
+与_P 乙_NN 、_PU 丙_NN 、_PU 丁_NN 3_CD 个_M 省市_NN 对应_VV 的_DEC 依次_AD 是_VC 苏_NR 、_PU 鲁_NR 、_PU 粤_NR
+与_P 乙_NN 、_PU 丙_NN 、_PU 丁_NN 3_CD 个_M 省市_NN 对应_VV 的_DEC 依次_AD 是_VC 京_NR 、_PU 吉_NR 、_PU 苏_NR
+与_P 乙_NN 、_PU 丙_NN 、_PU 丁_NN 3_CD 个_M 省市_NN 对应_VV 的_DEC 依次_AD 是_VC 吉_NR 、_PU 苏_NR 、_PU 鲁_NR
+与_P 乙_NN 、_PU 丙_NN 、_PU 丁_NN 3_CD 个_M 省市_NN 对应_VV 的_DEC 依次_AD 是_VC 粤_NR 、_PU 京_NR 、_PU 吉_NR
+与_P 全国_NN 相比_VV ，_PU 人均_JJ 耕地_NN 和_CC 人均_JJ 粮食_NN 的_DEG 关系_NN 有_VE 特殊性_NN ，_PU 其_PN 主要_JJ 原因_NN 是_VC 人口_NN 数量_NN 增长_NN 较_AD 快_VA
+与_P 全国_NN 相比_VV ，_PU 人均_JJ 耕地_NN 和_CC 人均_JJ 粮食_NN 的_DEG 关系_NN 有_VE 特殊性_NN ，_PU 其_PN 主要_JJ 原因_NN 是_VC 城市化_NN 水平_NN 不断_AD 提高_VV
+与_P 全国_NN 相比_VV ，_PU 人均_JJ 耕地_NN 和_CC 人均_JJ 粮食_NN 的_DEG 关系_NN 有_VE 特殊性_NN ，_PU 其_PN 主要_JJ 原因_NN 是_VC 耕地_NN 面积_NN 逐年_AD 减少_VV
+与_P 全国_NN 相比_VV ，_PU 人均_JJ 耕地_NN 和_CC 人均_JJ 粮食_NN 的_DEG 关系_NN 有_VE 特殊性_NN ，_PU 其_PN 主要_JJ 原因_NN 是_VC 经济_NN 作物_NN 播种_NN 面积_NN 增加_VV

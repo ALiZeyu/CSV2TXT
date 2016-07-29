@@ -1,0 +1,817 @@
+﻿夏季_NN
+16时_NT
+1日_NT 21时_NT 48分_NT
+冬季_NN
+2011年_NT 末_LC
+10月_NT
+6_CD 点_NN 前_LC
+12_CD 小时_NN 左右_LC
+2000年_NT
+2013年_NT
+2010年_NT
+25日_NT 0:30_NT
+10_CD 、_PU 11月_NT
+震_NN 后_LC
+2000_CD —_PU 2010年_NT
+10：00_NT —_PU 12：00_NT
+2月_NT 7日_NT
+24日_NT 11:30_NT
+22：00_NT —_PU 次日_NT 4：00_NT
+15_CD 小时_NN 左右_LC
+11月_NT 12日_NT 14时_NT
+3_CD 、_PU 4月_NT
+7_CD 、_PU 8月份_NT
+12_CD 、_PU 1月_NT
+6月_NT 到_P 8月_NT 期间_LC
+1999年_NT
+2006年_NT
+1985年_NT 以来_LC
+冬春季_NT
+小雪_NT
+2010年_NT 11月_NT 12日_NT 20时_NT
+10年_NT
+从_P 10月_NT 21日_NT 9:00_NT 到_P 10月_NT 22日_NT 21:00_NT
+2009年_NT
+6：00_NT —_PU 8：00_NT
+7月_NT
+2034年_NT
+25日_NT 16:30_NT
+2001_CD —_PU 2007年_NT
+20世纪_NT 50_CD -_PU 70_CD 年代_NN
+近年_NT
+当日_NT
+11月_NT 11日_NT 14时_NT
+近_AD 十_CD 年_M
+8月_NT 6日_NT 零时_NT 31分_NT
+此时_NT
+20_CD 天_M
+三_CD 个_M 月_NN 内_LC
+1985_CD —_PU 2000年_NT
+秋季_NN
+立冬_NT
+1日_NT 5时_NT 40分_NT
+10月_NT 至_P 3月_NT
+1975_CD —_PU 1985年_NT
+一_CD 年_M
+1月_NT
+8月_NT 7日_NT 2时_NT 31分_NT
+2010年_NT 10月_NT 1日_NT 18时_NT 59分_NT 57秒_NT
+2日_NT 5时_NT 48分_NT
+1月份_NT
+21_CD 世纪_M
+春季_NN
+2008年_NT
+2011年_NT
+下午_NT
+7月份_NT
+2日_NT 21时_NT 40分_NT
+12：00_NT —_PU 16：00_NT
+4月_NT
+放假_NN 期间_LC
+25日_NT 6:30_NT
+11月_NT 11日_NT 0时_NT
+1970_CD —_PU 2000年_NT 2000年_NT —_PU 2000年_NT
+一_CD 天_M
+7_CD 、_PU 8月_NT
+2012年_NT 11月_NT 4日_NT 凌晨_NT
+1980_CD ～_PU 2000年_NT
+现代_NT
+8月_NT 5日_NT 13时_NT 31分_NT
+黄昏_NT
+8月_NT 7日_NT 13时_NT 31分_NT
+夏至日_NT
+夜间_NT
+傍晚_NT
+11月_NT 13日_NT 0时_NT
+目前_NT
+距今_VV 2300万_CD 年_M 前_LC
+夏秋季_NT
+秋_NT
+上午_NT
+6月_NT 至_P 9月_NT
+春_NT 、_PU 夏_NT 之交_LC
+冬_NT
+美洲_NN 板块_NN
+大气_NN 反射_NN 作用_NN
+风力_NN 堆积_NN 作用_NN
+地质_NN
+搬运_NN 作用_NN
+地壳_NN 抬升_NN
+新月形_NN 沙丘_NN
+纬度_NN
+中纬_NN 西风_NN 带_NN
+丝绸_NN 之_DEG 路_NN
+冷锋_NN
+侵蚀_NN 搬运_NN
+第二_OD 产业_NN
+雨季_NN
+寒潮_NN
+雨热_NN 同期_NN
+极夜_NN
+地面_NN 辐射_NN
+混合_NN 农业_NN
+GIS_NR
+偏北风_NN
+生物_NN 多样性_NN
+地质_NN 剖面图_NN
+数字_NN 地球_NN 技术_NN
+低压_NN
+海蚀_NN 地貌_NN
+高压_NN 变质_NN
+全球_NN 定位_NN 系统_NN
+东南_NN 信风_NN 带_NN
+季风_NN 水田_NN 农业_NN
+南温带_NN
+气流_NN
+热带_NN 草原_NN 带_NN
+海浪_NN 侵蚀_NN 作用_NN
+太阳_NN 直射点_NN
+山地_NN
+速度_NN
+热力_NN 环流_NN
+地壳_NN 运动_NN
+等压线_NN
+信风_NN 带_NN
+南半球_NN
+远日点_NN
+西南风_NN
+南_NN 回归线_NN
+西北_NN 季风_NN
+盆地_NN
+副_JJ 热带_NN 高压_JJ 带_NN
+结冰期_NN
+水土_NN 流失_NN
+非洲_NN 板块_NN
+沙尘暴_NN
+亚热带_NN
+年_JJ 太阳_NN 总_NN 辐射量_NN
+东北_NN 季风_NN
+赤道_NN
+雨岛_NN 效应_NN
+林带_NN
+地壳_NN 下沉_NN
+多雨期_NN
+农业_NN 地域_NN 类型_NN
+年_JJ 太阳_NN 辐射_NN 总量_NN
+副_JJ 热带_NN 高压_NN
+重熔_NN 作用_NN
+冰川_NN 地貌_NN
+公转_NN 轨道_NN
+堆积_NN 作用_NN
+地球_NN
+太阳_NN 辐射_NN
+冰雪带_NN
+内涝_NN
+大气_NN 三圈_NN 环流_NN
+背斜山_NN
+盛行_NN 西风_NN
+热带_NN 气旋_NN
+信风_NN
+温带_NN
+第三_OD 产业_NN
+热岛_NN
+区位_NN 因素_NN
+温带_NN 落叶_NN 阔叶林_NN
+地理_NN 信息_NN 技术_NN
+背风坡_NN
+下渗_NN 作用_NN
+沙漠化_NN
+海陆_NN 间_LC 循环_NN
+气压_NN
+雪线_NN
+冲积_NN 平原_NN
+外力_NN 作用_NN
+气候_NN 类型_NN
+中_JJ 、_PU 低_JJ 纬度_NN
+太阳系_NN
+寒流_NN
+热岛_NN 效应_NN
+年_JJ 降水量_NN
+农业_NN 地域_NN
+偏东风_NN
+大_JJ 牧场_NN 放牧业_NN
+火山_NN 地貌_NN
+流水_NN 搬运_NN 作用_NN
+第二_OD 级_M 阶梯_NN
+太平洋_NN 板块_NN
+背斜谷_NN
+蒸发_NN
+沼泽_NN
+低_JJ 纬度_NN
+重熔_NN 再生_NN 作用_NN
+向斜山_NN
+风蚀_NN 地貌_NN
+极圈_NN
+固结_NN 成岩_NN
+沙漠_NN
+GDP_NR
+风化_NN 剥蚀_NN
+滑坡_NN
+中纬_NN
+植被_NN
+水循环_NN
+西半球_NN
+沉积_NN 作用_NN
+北京_NR 时间_NN
+遥感_NN
+赤潮_NN
+数字_NN 地球_NN
+盐碱_NN 地_NN
+PM2.5_NR
+外力_NN 沉积_NN
+极昼_NN
+雷达_NN 技术_NN
+正午_NN 太阳_NN 高度_NN 角_NN
+准_JJ 静止锋_NN
+季风_NN 环流_NN
+地壳_NN
+北半球_NN
+岩浆_NN 侵入_NN
+水汽_NN 输送_NN
+东北风_NN
+区时_NN
+亚热带_NN 常绿_NN 硬叶林_NN
+极地_NN 东风_NN 带_NN
+火山灰_NN
+河流_NN 径流量_NN
+洋流_NN
+副_JJ 热带_NN 高_JJ 气压_NN
+水旱_NN
+自转_NN 角速度_NN
+北寒带_NN
+外流河_NN
+太阳_NN 高度_NN
+丹霞_NN 地貌_NN
+种植园_NN 农业_NN
+山地_NN 垂直_NN 带谱_NN
+凌汛_NN
+第一_OD 产业_NN
+暴雨_NN
+盐碱化_NN
+热带_NN 沙漠_NN 气候_NN
+亚寒带_NN 针叶林_NN 带_NN
+针叶林_NN 带_NN
+地热_NN 温泉_NN
+地壳_NN 物质_NN 循环_NN
+自转_NN 线速度_NN
+东南风_NN
+山地_NN 垂直_NN 地带性_NN
+内流河_NN
+裂隙_NN
+盛行风_NN
+热带_NN
+风沙_NN
+雨带_NN
+板块_NN
+高原_NN
+天气_NN 系统_NN
+东北_NN 信风_NN 带_NN
+低纬_NN
+平原_NN
+大理岩_NN
+地中海_NN 气候_NN
+热带_NN 雨林_NN 带_NN
+内力_NN 作用_NN
+印度洋_NN 板块_NN
+崩塌_NN
+全球_NN 气候_NN 变暖_NN
+商品_NN 谷物_NN 农业_NN
+沿岸_NN
+松花江_NN 流域_NN
+气温_NN 日较差_NN
+中_JJ 纬度_NN
+河_NN 外_NN 星系_NN
+气候_NN
+晨昏线_NN
+冷气团_NN
+地_NN 月_NN 系_NN
+低纬_NN 环流_NN
+遥感_NN 技术_NN
+高_JJ 纬度_NN
+气旋_NN
+湿润_JJ 区_NN
+变质岩_NN
+常绿_NN 硬叶林_NN
+北_NN 赤道_NN 暖流_NN
+人口_NN 自然_NN 增长率_NN
+近日点_NN
+沉积岩_NN
+东南_NN 季风_NN
+旱涝_NN
+环境_NN 承载力_NN
+地形_NN 剖面图_NN
+温带_NN 季风_NN 气候_NN
+春旱_NN
+向斜_NN
+GIS_NR 技术_NN
+飓风_NN
+润扬_NN 长江_NN 公路_NN 大桥_NN
+自然_NN 地理_NN 环境_NN
+日晒_NN
+落叶_NN 阔叶林_NN
+计算机_NN 技术_NN
+喀斯特_NN 地貌_NN
+海啸_NN
+冰川_NN 搬运_NN 作用_NN
+河流_NN 下切_NN
+草原_NN
+垂直_NN 地带性_NN
+地貌_NN
+冰川_NN
+变质_NN 作用_NN
+北极_NN 点_NN
+风带_NN
+热带_NN 雨林_NN
+GPS_NR
+RS_NR
+水稻_NN 种植业_NN
+工业_NN 地域_NN
+高纬_NN
+环流_NN
+地理_NN 信息_NN 系统_NN
+等值线_NN
+西北_NN 漂流_NN
+温带草原带_NN
+西北风_NN
+旱季_NN
+自然带_NN
+封冻期_NN
+赤道_NN 低压_NN 带_NN
+台风_NN
+半_NN 湿润_NN 区_NN
+东半球_NN
+纬线圈_NN
+径流量_NN
+岩浆岩_NN
+副_JJ 热带_NN 高气压_NN 带_NN
+人口_NN 出生率_NN
+地形_NN 剖面_NN
+地震_NN
+降水_NN
+风暴潮_NN
+丘陵_NN
+北温带_NN
+偏南风_NN
+地质_NN 作用_NN
+夏汛_NN
+卫星镇_NN
+石灰岩_NN
+大气_NN 逆_NN 辐射_NN
+温带_NN 海洋性_NN 气候_NN
+正午_NN 太阳_NN 高度_NN
+亚欧_NN 板块_NN
+三_CD 级_M 阶梯_NN
+高压_NN
+地下_NN 径流_NN
+太平洋_NN
+亚热带_NN 常绿_NN 阔叶林_NN
+侵蚀_NN 作用_NN
+极地_NN 东风_NN
+高温期_NN
+东北_NN 信风_NN
+泥石流_NN
+暖流_NN
+东南_NN 信风_NN
+地表_NN 径流_NN
+火山_NN
+冻土_NN
+旱灾_NN
+风化_NN
+热带_NN 季风_NN 气候_NN
+流水_NN 沉积_NN 作用_NN
+洪涝_NN
+流水_NN 侵蚀_NN
+汛期_NN
+花岗岩_NN
+荒漠_NN
+立体农业_NN
+暖锋_NN
+等温线_NN
+热液_NN 区_NN
+温带_NN 大陆性_NN 气候_NN
+湿地_NN
+外力_NN 侵蚀_NN 作用_NN
+Ⅳ_CD
+200_CD mg/kg_M
+80%_CD
+5万_CD
+165°W_CD
+第二_OD 阶段_NN
+1500_CD 毫米_M 以上_LC
+50.3%_CD
+120°E_CD
+第16_OD 届_CD
+25°S_CD
+160°E_CD
+Ⅰ_CD
+800_CD —_PU 1600_CD 毫米_M
+4.6℃_CD
+18℃_CD
+0_CD —_PU 15_CD 岁_M
+24%_CD
+第一_OD 阶段_NN
+36_CD 千米_M
+4000_CD 米_M
+6_CD 个_M
+5.3℃_CD
+1_CD 次_M
+58%_CD
+140°E_CD
+129533万_CD
+170°W_CD
+600_CD 千米_M
+19%_CD
+170°E_CD
+J2_CD
+7级_CD
+2000_CD 毫米_M 以上_LC
+200_CD —_PU 400_CD 毫米_M
+5000_CD 米_M 以上_LC
+135°E_CD
+百万_CD
+500万_CD
+2_CD
+1000_CD —_PU 1200亿_CD 元_M
+175°E_CD
+60_CD 岁_M 及_CC 以上_LC
+100万_CD
+Ⅱ_CD
+33_CD
+90°E_CD
+4_CD 次_M
+4843_CD 米_M
+28°30′N_CD
+55亿_CD 元_M
+J1_CD
+40°N_CD
+2_CD 次_M
+150°E_CD
+0℃_CD
+50%_CD
+80°42′W_CD
+500_CD 千米_M
+30_CD 千米_M
+2000_CD 千米_M
+30°S_CD
+40°S_CD
+6.2℃_CD
+10_CD ～_PU 30_CD 千米_M
+第一_OD 个_M
+Ⅲ_CD
+第一_OD 辆_M
+3_CD 次_M
+90°_CD
+3840_CD 米_M
+134735万_CD
+四_CD 个_M
+1.5_CD
+2843_CD 米_M
+3.4℃_CD
+230万_CD
+60°N_CD
+55°E_CD
+60°E_CD
+56.8%_CD
+18℃_CD
+400_CD —_PU 800_CD 毫米_M
+0.5_CD
+黑龙江_NR
+海河_NR 流域_NN
+太白山_NR 北麓_NN
+东京_NR
+长三角_NR 地区_NN
+南京_NR 栖霞山_NR
+辽_NR
+鞍山_NR 钢铁_NN 基地_NN
+欧_NR
+南非_NR
+四川_NR 盆地_NN
+武汉_NR
+黑龙江_NR 湿地_NN
+丙村_NR
+A_NN 、_PU C_NN 两_CD 地_NN
+南方_NR 地区_NN
+①_NN ②_NN ③_NN ④_NN 四_CD 地_NN
+③处_NR
+P处_NR
+三江_NR 平原_NN 湿地_NN
+库尔勒_NR
+港_NR 珠_NR 澳_NR 大桥_NN
+西部_NN 地区_NN
+宁_NR
+河北省_NR
+⑤地_NR
+天津市_NR
+京_NR 广_NR 铁路_NN
+马达加斯加_NR
+黄土高原_NN 地区_NN
+丙处_NR
+闽_NR
+中国_NR
+青藏_NR 高原_NN
+②_NN ③_NN 两_CD 地_NN
+青藏_NR 高原_NN 地区_NN
+太行_NR 大峡谷_NN
+丁村_NR
+北京_NR
+东南_NR 地区_NN
+①地_NR
+丹江口_NR
+清明上河图_NR
+内蒙古_NR
+浙_NR
+上海_NR 市区_NN
+吉林_NR
+圣若阿金_NR 地区_NN
+丙地_NR
+苏_NR
+玛曲_NR 湿地_NN
+渤海_NR 湾_NN
+扬州_NR
+乙地_NR
+长春_NR
+好望角_NR
+海口_NR
+横断山_NR
+新疆_NR 湿地_NN
+广东_NR
+我国_NR 东部_NN
+青_NR
+南部_NN 沿海_NN 地区_NN
+香港_NR
+江苏省_NR
+丁处_NR
+环京_NR
+云南_NR
+天山_NR 山脉_NN
+祁连_NR 山脉_NN
+川_NR 、_PU 渝_NR 地区_NN
+京_NR 港_NR 澳_NR 高速_JJ 公路_NN
+撒哈拉_NR 沙漠_NN
+南洋_NR
+越南_NR
+英国_NR 西部_NN
+东南_NR 省份_NN
+京_NR 沪_NR 高速_JJ 铁路_NN
+孟加拉国_NR
+甲_NN 、_PU 乙_NN 、_PU 丙_NN 、_PU 丁_NN 四_CD 地_NN
+A_NN 、_PU D_NN 两_CD 地_NN
+北京市_NR
+北方_NR 地区_NN
+西南_NR 省份_NN
+北京_NR 周边_NN
+澳_NR
+美国_NR 肯尼迪_NR 航天_NN 中心_NN
+印度河_NR
+西亚_NR 地区_NN
+深圳_NR
+沿海_NN 地区_NN
+南方_NR
+珠江_NR 三角洲_NN
+②_NN ④_NN 两_CD 地_NN
+班加罗尔_NR
+长江_NR 中下游_NR 平原_NN
+成渝_NR 地区_NN
+桂_NR
+珠江_NR 三角洲_NN 地区_NN
+甲地_NR
+日本_NR
+海南_NR
+河北_NR
+乌鲁木齐_NR
+喜马拉雅_NR 山脉_NN
+旧金山_NR
+冀_NR
+乌兰察布_NR
+太行山_NR
+河西走廊_NR
+塔里木河_NR 流域_NN
+阿勒泰_NR
+四川_NR
+西昌_NR
+丙_NN 、_PU 丁_NN 两_CD 地_NN
+印度_NR 大部分_CD 地区_NN
+乙处_NR
+澳大利亚_NR 东北部_NN
+江西_NR
+京_NR 九_NR 铁路_NN
+辽宁_NR
+华北_NR 地区_NN
+哈尔滨_NR
+松花江_NR
+浙江_NR
+东北_NR 平原_NN
+大西洋_NR
+黄山_NR
+丁地_NR
+滨海_NR 湿地_NN
+昆仑站_NR
+昆仑_NR 山脉_NN
+南宁_NR
+蓉欧_NR 快速_JJ 铁路_NN
+西藏_NR
+乙区_NR
+八里沟_NR
+新疆_NR 喀纳斯_NR
+南半球_NR
+天津_NR
+非洲_NR 西_NN 海岸_NN
+铁塔_NR 公园_NN
+宁启_NR 铁路_NN
+德班_NR
+晋_NR
+中_NR 巴_NR 铁路_NN
+河南_NR
+漠河_NR
+龙峪湾_NN
+南海_NR
+黄土_NR 高原_NN
+宁夏_NR 平原_NN
+③地_NR
+滇_NR
+西南_NR 地区_NN
+④处_NR
+赣_NR
+准噶尔_NR 盆地_NN
+陕_NR
+祁连山_NR
+南美洲_NR 大陆_NN
+广东_NR 石门谷_NR
+慕尼黑_NR
+老君山_NR
+珠三角_NR 地区_NN
+美国_NR 中部_NN 平原_NN
+阿克苏_NR
+嫩江_NR
+Q地_NR
+清江_NR 流域_NN
+黔_NR
+抱犊寨_NR
+德国_NR
+甲_NN 、_PU 乙_NN 两_CD 地_NN
+火星_NR
+新_NR
+秋沟_NR
+藏_NR
+吉林_NR 红叶谷_NR
+④地_NR
+缅_NR
+鲁_NR
+津_NR
+印度洋_NR
+西北_NR 地区_NN
+悉尼_NR
+长江_NR 流域_NN
+北美洲_NR
+乙河_NR
+沿海_NN 城市_NN
+河口_NR
+太白山_NR 北坡_NN
+伊宁_NR
+东非_NR 高原_NN
+②地_NR
+伦敦_NR
+山东_NR
+新疆_NR
+海南岛_NR 西部_NN
+丹江口_NR 地区_NN
+湖南省_NR
+②处_NR
+长三角_NR
+大庆_NR
+横断_NR 山区_NN
+珠江_NR 流域_NN
+成都_NR 平原_NN
+江南_NR
+南亚_NR 地区_NN
+青岛_NR
+地球_NR
+海南省_NR 中部_NN
+皖_NR
+北美洲_NR 大陆_NN
+新市镇_NR
+A_NN 、_PU B_NN 两处_NR
+沪_NR
+长江_NR
+西北_NR 省份_NN
+甲国_NR
+延吉_NR
+广西_NR
+上海_NR
+宁夏_NR
+印度尼西亚_NR
+西北部_NN 地区_NN
+筑波_NR
+湖北_NR
+日本_NR 北部_NN
+荷兰_NR
+台_NR
+广州_NR
+大巴山_NR
+红旗渠_NR
+东北_NR 地区_NN
+珠三角_NR
+禹王谷_NR
+甲处_NR
+兰州_NR
+石家庄_NR
+欧盟_NR
+万仙山_NR
+黑龙江省_NR
+①_NN ②_NN ③_NN 三_CD 地_NN
+喀什_NR
+齐王寨_NR
+西部_NN
+大相国寺_NR
+台湾岛_NR
+东南部_NN 地区_NN
+甲区_NR
+豫_NR
+西藏_NR 湿地_NN
+秦岭_NR
+雪峰山_NR
+①_NN ④_NN 两_CD 地_NN
+印度_NR 半岛_NR
+菲律宾_NR
+陕西省_NR
+昆明_NR
+云南省_NR
+③_NN ④_NN 两地_NR
+甲_NN 、_PU 丙_NN 、_PU 丁_NN 三_CD 地_NN
+非洲_NR 大陆_NN
+环渤海_NR 地区_NN
+殷墟_NR
+乙国_NR
+沈阳_NR
+贵阳_NR
+德国_NR 鲁尔_NR 工业区_NN
+西藏_NR 自治区_NN
+贵州省_NR
+甘_NR
+南亚_NR
+武清区_NR
+湖南_NR
+A地_NR
+东北_NR
+马氏_NR 庄园_NN
+A_NN 、_PU B_NN 两_CD 地_NN
+长春市_NR
+欧洲_NR 西部_NN 地区_NN
+甲地区_NR
+粤_NR
+上海市_NR
+澳大利亚_NR 大陆_NN
+M地_NR
+安第斯_NR 山地_NN
+北冰洋_NR
+玻利维亚_NR
+巴西_NR
+东部_NN 平原_NN
+B地_NR
+鸡冠洞_NR
+北京市_NR 西北部_NN
+湘_NR
+东部_NN 沿海_NN 地区_NN
+珠江_NR 三角洲_NN 工业_NN 基地_NN
+合恩角_NR
+马六甲_NR 海峡_NN
+帕斯_NR
+内蒙古_NR 乌兰察布_NR
+江苏_NR
+太平洋_NR
+京杭_NR 运河_NN
+大兴安岭_NR
+南美洲_NR
+湘_NR 、_PU 赣_NR 北部_NN
+瓦努阿图_NR
+澳大利亚_NR
+西安_NR
+京_NR
+太白山_NR
+唐古拉山_NR
+亚洲_NR 东部_NN
+亚洲_NR
+丙区_NR
+新加坡_NR
+南极_NR
+欧洲_NR
+冰岛_NR
+巫山_NR
+港_NR
+英国_NR
+华北_NR
+汉江_NR
+⑥地_NR
+太阳_NR
+俄罗斯_NR
+大洋洲_NR
+兖州_NR
+美国_NR
+大连_NR
+北冰洋_NR 海域_NN
+①_NN ③_NN 两_CD 地_NN
+印度_NR
+①处_NR
+东南亚_NR
+中_NR
+内陆_NN 城市_NN

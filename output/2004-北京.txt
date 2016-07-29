@@ -1,0 +1,88 @@
+2002年11月20日9时_time （_PU 北京时间_term ）_PU ，_PU 中国_loc 第19次_num 南极_loc 科学_NN 考察队_NN 乘_VV “_PU 雪龙号_NN ”_PU 自_P 上海_loc 出发_VV ，_PU 此时_NT 长城站_loc 所在地_NN 的_DEG 区时_term 为_VC 19日19时_time 
+2002年_time 11月_time 20日_time 9时_time （_PU 北京_term 时间_term ）_PU ，_PU 中国_loc 第_num 19_num 次_num 南极_loc 科学_NN 考察队_NN 乘_VV “_PU 雪龙号_NN ”_PU 自_P 上海_loc 出发_VV ，_PU 此时_NT 长城站_loc 所在地_NN 的_DEG 区时_term 为_VC 19日_time 19时_time 
+2002年11月20日9时_time （_PU 北京时间_term ）_PU ，_PU 中国_loc 第19次_num 南极_loc 科学_NN 考察队_NN 乘_VV “_PU 雪龙号_NN ”_PU 自_P 上海_loc 出发_VV ，_PU 此时_NT 长城站_loc 所在地_NN 的_DEG 区时_term 为_VC 20日5时_time 
+2002年_time 11月_time 20日_time 9时_time （_PU 北京_term 时间_term ）_PU ，_PU 中国_loc 第_num 19_num 次_num 南极_loc 科学_NN 考察队_NN 乘_VV “_PU 雪龙号_NN ”_PU 自_P 上海_loc 出发_VV ，_PU 此时_NT 长城站_loc 所在地_NN 的_DEG 区时_term 为_VC 20日_time 5时_time 
+2002年11月20日9时_time （_PU 北京时间_term ）_PU ，_PU 中国_loc 第19次_num 南极_loc 科学_NN 考察队_NN 乘_VV “_PU 雪龙号_NN ”_PU 自_P 上海_loc 出发_VV ，_PU 此时_NT 长城站_loc 所在地_NN 的_DEG 区时_term 为_VC 19日21时_time 
+2002年_time 11月_time 20日_time 9时_time （_PU 北京_term 时间_term ）_PU ，_PU 中国_loc 第_num 19_num 次_num 南极_loc 科学_NN 考察队_NN 乘_VV “_PU 雪龙号_NN ”_PU 自_P 上海_loc 出发_VV ，_PU 此时_NT 长城站_loc 所在地_NN 的_DEG 区时_term 为_VC 19日_time 21时_time 
+2002年11月20日9时_time （_PU 北京时间_term ）_PU ，_PU 中国_loc 第19次_num 南极_loc 科学_NN 考察队_NN 乘_VV “_PU 雪龙号_NN ”_PU 自_P 上海_loc 出发_VV ，_PU 此时_NT 长城站_loc 所在地_NN 的_DEG 区时_term 为_VC 20日21时_time 
+2002年_time 11月_time 20日_time 9时_time （_PU 北京_term 时间_term ）_PU ，_PU 中国_loc 第_num 19_num 次_num 南极_loc 科学_NN 考察队_NN 乘_VV “_PU 雪龙号_NN ”_PU 自_P 上海_loc 出发_VV ，_PU 此时_NT 长城站_loc 所在地_NN 的_DEG 区时_term 为_VC 20日_time 21时_time 
+中山站_loc 到_CC 南极点_loc 的_DEG 直线_NN 距离_NN 约_AD 为_VC 2070千米_num 
+中山站_loc 到_CC 南极点_loc 的_DEG 直线_NN 距离_NN 约_AD 为_VC 2070_num 千米_num 
+中山站_loc 到_CC 南极点_loc 的_DEG 直线_NN 距离_NN 约_AD 为_VC 2270千米_num 
+中山站_loc 到_CC 南极点_loc 的_DEG 直线_NN 距离_NN 约_AD 为_VC 2270_num 千米_num 
+中山站_loc 到_CC 南极点_loc 的_DEG 直线_NN 距离_NN 约_AD 为_VC 2570千米_num 
+中山站_loc 到_CC 南极点_loc 的_DEG 直线_NN 距离_NN 约_AD 为_VC 2570_num 千米_num 
+中山站_loc 到_CC 南极点_loc 的_DEG 直线_NN 距离_NN 约_AD 为_VC 2670千米_num 
+中山站_loc 到_CC 南极点_loc 的_DEG 直线_NN 距离_NN 约_AD 为_VC 2670_num 千米_num 
+与_P 中山站_loc 相比_VV ，_PU 长城站_loc 所在地_NN 白昼_NN 时间_NN 长_VA 
+与_P 中山站_loc 相比_VV ，_PU 长城站_loc 所在地_NN 白昼_NN 时间_NN 长_VA 
+与_P 中山站_loc 相比_VV ，_PU 长城站_loc 所在地_NN 自转_term 速度_NN 慢_VA 
+与_P 中山站_loc 相比_VV ，_PU 长城站_loc 所在地_NN 自转_term 速度_NN 慢_VA 
+与_P 中山站_loc 相比_VV ，_PU 长城站_loc 所在地_NN 自转_term 周期_NN 长_VA 
+与_P 中山站_loc 相比_VV ，_PU 长城站_loc 所在地_NN 自转_term 周期_NN 长_VA 
+与_P 中山站_loc 相比_VV ，_PU 长城站_loc 所在地_NN 正午太阳高度_term 大_VA 
+与_P 中山站_loc 相比_VV ，_PU 长城站_loc 所在地_NN 正午_term 太阳_term 高度_term 大_VA 
+中山站_loc 出现_VV 极昼_term 期间_NN ，_PU 下列_JJ 河流_NN 最_AD 有_VE 可能_NN 处于_VV 枯水期_term 的_DEC 是_VC 湄公河_loc 
+中山站_loc 出现_VV 极昼_term 期间_NN ，_PU 下列_JJ 河流_NN 最_AD 有_VE 可能_NN 处于_VV 枯水期_term 的_DEC 是_VC 湄公河_loc 
+中山站_loc 出现_VV 极昼_term 期间_NN ，_PU 下列_JJ 河流_NN 最_AD 有_VE 可能_NN 处于_VV 枯水期_term 的_DEC 是_VC 莱茵河_loc 
+中山站_loc 出现_VV 极昼_term 期间_NN ，_PU 下列_JJ 河流_NN 最_AD 有_VE 可能_NN 处于_VV 枯水期_term 的_DEC 是_VC 莱茵河_loc 
+中山站_loc 出现_VV 极昼_term 期间_NN ，_PU 下列_JJ 河流_NN 最_AD 有_VE 可能_NN 处于_VV 枯水期_term 的_DEC 是_VC 亚马孙河_loc 
+中山站_loc 出现_VV 极昼_term 期间_NN ，_PU 下列_JJ 河流_NN 最_AD 有_VE 可能_NN 处于_VV 枯水期_term 的_DEC 是_VC 亚马孙河_loc 
+中山站_loc 出现_VV 极昼_term 期间_NN ，_PU 下列_JJ 河流_NN 最_AD 有_VE 可能_NN 处于_VV 枯水期_term 的_DEC 是_VC 赞比西河_loc 
+中山站_loc 出现_VV 极昼_term 期间_NN ，_PU 下列_JJ 河流_NN 最_AD 有_VE 可能_NN 处于_VV 枯水期_term 的_DEC 是_VC 赞比西河_loc 
+大理石_NN 因_P 变质作用_term 而_MSP 形成_VV 
+大理石_NN 因_P 变质_term 作用_term 而_MSP 形成_VV 
+大理石_NN 按_P 成因_NN 属于_VV 岩浆岩_term 
+大理石_NN 按_P 成因_NN 属于_VV 岩浆岩_term 
+大理石_NN 因_P 外力作用_term 而_MSP 形成_VV 
+大理石_NN 因_P 外力_term 作用_term 而_MSP 形成_VV 
+大理石_NN 形成_VV 于_P 地壳_term 硅镁层_NR 
+大理石_NN 形成_VV 于_P 地壳_term 硅镁层_NR 
+该_DT 建筑_NN 位于_VV 图3_NN 中_LC 的_DEG ①_NN 
+该_DT 建筑_NN 位于_VV 图3_NN 中_LC 的_DEG ①_NN 
+该_DT 建筑_NN 位于_VV 图3_NN 中_LC 的_DEG ②_NN 
+该_DT 建筑_NN 位于_VV 图3_NN 中_LC 的_DEG ②_NN 
+该_DT 建筑_NN 位于_VV 图3_NN 中_LC 的_DEG ③_NN 
+该_DT 建筑_NN 位于_VV 图3_NN 中_LC 的_DEG ③_NN 
+该_DT 建筑_NN 位于_VV 图3_NN 中_LC 的_DEG ④_NN 
+该_DT 建筑_NN 位于_VV 图3_NN 中_LC 的_DEG ④_NN 
+图3_NN 中_LC ①、②、③、④四地_loc 自然_NN 条件_NN 相比_VV ①、②两地_loc 均_AD 为_VC 荒漠_NN 
+图3_NN 中_LC ①_loc 、_loc ②_loc 、_loc ③_loc 、_loc ④_loc 四地_loc 自然_NN 条件_NN 相比_VV ①_loc 、_loc ②_loc 两地_loc 均_AD 为_VC 荒漠_NN 
+图3_NN 中_LC ①、②、③、④四地_loc 自然_NN 条件_NN 相比_VV ②地_loc 年降水量_term 最少_AD 
+图3_NN 中_LC ①_loc 、_loc ②_loc 、_loc ③_loc 、_loc ④_loc 四地_loc 自然_NN 条件_NN 相比_VV ②地_loc 年降水量_term 最少_AD 
+图3_NN 中_LC ①、②、③、④四地_loc 自然_NN 条件_NN 相比_VV ③地_loc 有_VE 明显_VA 的_DEC 旱季_NN 和_CC 雨季_NN 
+图3_NN 中_LC ①_loc 、_loc ②_loc 、_loc ③_loc 、_loc ④_loc 四地_loc 自然_NN 条件_NN 相比_VV ③地_loc 有_VE 明显_VA 的_DEC 旱季_NN 和_CC 雨季_NN 
+图3_NN 中_LC ①、②、③、④四地_loc 自然_NN 条件_NN 相比_VV ④地_loc 比_P ①地_loc 气温_NN 年较差_NN 大_VA 
+图3_NN 中_LC ①_loc 、_loc ②_loc 、_loc ③_loc 、_loc ④_loc 四地_loc 自然_NN 条件_NN 相比_VV ④地_loc 比_P ①地_loc 气温_NN 年较差_NN 大_VA 
+12月份_time ，_PU 自_P 东_NN 向_P 西_NN 穿过_VV 直布罗陀海峡_loc 的_DEG 航船_NN 常_AD 遇到_VV 顺风_NN 顺水_NN 
+12月份_time ，_PU 自_P 东_NN 向_P 西_NN 穿过_VV 直布罗陀_loc 海峡_loc 的_DEG 航船_NN 常_AD 遇到_VV 顺风_NN 顺水_NN 
+12月份_time ，_PU 自_P 东_NN 向_P 西_NN 穿过_VV 直布罗陀海峡_loc 的_DEG 航船_NN 常_AD 遇到_VV 逆风_NN 顺水_NN 
+12月份_time ，_PU 自_P 东_NN 向_P 西_NN 穿过_VV 直布罗陀_loc 海峡_loc 的_DEG 航船_NN 常_AD 遇到_VV 逆风_NN 顺水_NN 
+12月份_time ，_PU 自_P 东_NN 向_P 西_NN 穿过_VV 直布罗陀海峡_loc 的_DEG 航船_NN 常_AD 遇到_VV 顺风_NN 逆水_NN 
+12月份_time ，_PU 自_P 东_NN 向_P 西_NN 穿过_VV 直布罗陀_loc 海峡_loc 的_DEG 航船_NN 常_AD 遇到_VV 顺风_NN 逆水_NN 
+12月份_time ，_PU 自_P 东_NN 向_P 西_NN 穿过_VV 直布罗陀海峡_loc 的_DEG 航船_NN 常_AD 遇到_VV 逆风_NN 逆水_NN 
+12月份_time ，_PU 自_P 东_NN 向_P 西_NN 穿过_VV 直布罗陀_loc 海峡_loc 的_DEG 航船_NN 常_AD 遇到_VV 逆风_NN 逆水_NN 
+下列_JJ 铁路线_NN 两端_NN 的_DEG 城市_NN 1月_time 平均_JJ 气温_NN 差别_NN 最_AD 小_VA 的_DEC 是_VC 京哈线_loc 
+下列_JJ 铁路线_NN 两端_NN 的_DEG 城市_NN 1月_time 平均_JJ 气温_NN 差别_NN 最_AD 小_VA 的_DEC 是_VC 京哈线_loc 
+下列_JJ 铁路线_NN 两端_NN 的_DEG 城市_NN 1月_time 平均_JJ 气温_NN 差别_NN 最_AD 小_VA 的_DEC 是_VC 焦柳线_loc 
+下列_JJ 铁路线_NN 两端_NN 的_DEG 城市_NN 1月_time 平均_JJ 气温_NN 差别_NN 最_AD 小_VA 的_DEC 是_VC 焦柳线_loc 
+下列_JJ 铁路线_NN 两端_NN 的_DEG 城市_NN 1月_time 平均_JJ 气温_NN 差别_NN 最_AD 小_VA 的_DEC 是_VC 浙赣线_loc 
+下列_JJ 铁路线_NN 两端_NN 的_DEG 城市_NN 1月_time 平均_JJ 气温_NN 差别_NN 最_AD 小_VA 的_DEC 是_VC 浙赣线_loc 
+下列_JJ 铁路线_NN 两端_NN 的_DEG 城市_NN 1月_time 平均_JJ 气温_NN 差别_NN 最_AD 小_VA 的_DEC 是_VC 青藏线_loc 
+下列_JJ 铁路线_NN 两端_NN 的_DEG 城市_NN 1月_time 平均_JJ 气温_NN 差别_NN 最_AD 小_VA 的_DEC 是_VC 青藏线_loc 
+合理_VA 的_DEC 棉纺织_NN 工业_NN 布局_NN 应_VV 位于_VV 图_NN 中_LC ①_NN 
+合理_VA 的_DEC 棉纺织_NN 工业_NN 布局_NN 应_VV 位于_VV 图_NN 中_LC ①_NN 
+合理_VA 的_DEC 棉纺织_NN 工业_NN 布局_NN 应_VV 位于_VV 图_NN 中_LC ②_NN 
+合理_VA 的_DEC 棉纺织_NN 工业_NN 布局_NN 应_VV 位于_VV 图_NN 中_LC ②_NN 
+合理_VA 的_DEC 棉纺织_NN 工业_NN 布局_NN 应_VV 位于_VV 图_NN 中_LC ③_NN 
+合理_VA 的_DEC 棉纺织_NN 工业_NN 布局_NN 应_VV 位于_VV 图_NN 中_LC ③_NN 
+合理_VA 的_DEC 棉纺织_NN 工业_NN 布局_NN 应_VV 位于_VV 图_NN 中_LC ④_NN 
+合理_VA 的_DEC 棉纺织_NN 工业_NN 布局_NN 应_VV 位于_VV 图_NN 中_LC ④_NN 
+下列_JJ 几组_NN 省区_NN （_PU 市_NN ）_PU 按_P ①_NN -_PU ②_NN -_PU ③_NN -_PU ④_NN 排列_VV 的_DEC 是_VC 山东_loc -_PU 四川_loc -_PU 西藏_loc -_PU 江苏_loc 
+下列_JJ 几组_NN 省区_NN （_PU 市_NN ）_PU 按_P ①_NN -_PU ②_NN -_PU ③_NN -_PU ④_NN 排列_VV 的_DEC 是_VC 山东_loc -_PU 四川_loc -_PU 西藏_loc -_PU 江苏_loc 
+下列_JJ 几组_NN 省区_NN （_PU 市_NN ）_PU 按_P ①_NN -_PU ②_NN -_PU ③_NN -_PU ④_NN 排列_VV 的_DEC 是_VC 河北_loc -_PU 新疆_loc -_PU 青海_loc -_PU 广东_loc 
+下列_JJ 几组_NN 省区_NN （_PU 市_NN ）_PU 按_P ①_NN -_PU ②_NN -_PU ③_NN -_PU ④_NN 排列_VV 的_DEC 是_VC 河北_loc -_PU 新疆_loc -_PU 青海_loc -_PU 广东_loc 
+下列_JJ 几组_NN 省区_NN （_PU 市_NN ）_PU 按_P ①_NN -_PU ②_NN -_PU ③_NN -_PU ④_NN 排列_VV 的_DEC 是_VC 浙江_loc -_PU 辽宁_loc -_PU 湖北_loc -_PU 北京_loc 
+下列_JJ 几组_NN 省区_NN （_PU 市_NN ）_PU 按_P ①_NN -_PU ②_NN -_PU ③_NN -_PU ④_NN 排列_VV 的_DEC 是_VC 浙江_loc -_PU 辽宁_loc -_PU 湖北_loc -_PU 北京_loc 
+下列_JJ 几组_NN 省区_NN （_PU 市_NN ）_PU 按_P ①_NN -_PU ②_NN -_PU ③_NN -_PU ④_NN 排列_VV 的_DEC 是_VC 安徽_loc -_PU 重庆_loc -_PU 湖南_loc -_PU 河南_loc 
+下列_JJ 几组_NN 省区_NN （_PU 市_NN ）_PU 按_P ①_NN -_PU ②_NN -_PU ③_NN -_PU ④_NN 排列_VV 的_DEC 是_VC 安徽_loc -_PU 重庆_loc -_PU 湖南_loc -_PU 河南_loc 

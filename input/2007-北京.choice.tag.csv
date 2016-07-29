@@ -1,0 +1,45 @@
+时间,地点,术语,数量词,（粗粒度）分词,（细粒度）分词,词性
+,0,3 5,,雅典 所处 的 自然带 是 亚热带常绿阔叶林带,雅典 所处 的 自然带 是 亚热带 常绿 阔叶林 带,loc VV DEC term VC term
+,0,3 5,,雅典 所处 的 自然带 是 亚热带常绿硬叶林带,雅典 所处 的 自然带 是 亚热带 常绿 硬叶林 带,loc VV DEC term VC term
+,0,3 5,,雅典 所处 的 自然带 是 温带落叶阔叶林带,雅典 所处 的 自然带 是 温带 落叶 阔叶林 带,loc VV DEC term VC term
+,0,3 5,,雅典 所处 的 自然带 是 温带混交林带,雅典 所处 的 自然带 是 温带 混交林 带,loc VV DEC term VC term
+,,8 11,,图 中 火炬 传递 的 城市 数 中 纬度 比 低 纬度 多,图 中 火炬 传递 的 城市 数 中 纬度 比 低 纬度 多,NN LC NN VV DEC NN NN JJ term P JJ term VA
+,,7 9,,图 中 火炬 传递 的 城市 数 北半球 比 南半球 少,图 中 火炬 传递 的 城市 数 北半球 比 南半球 少,NN LC NN VV DEC NN NN term P term VA
+,,7 9,,图 中 火炬 传递 的 城市 数 西半球 比 东半球 多,图 中 火炬 传递 的 城市 数 西半球 比 东半球 多,NN LC NN VV DEC NN NN term P term VA
+,7 9,,,图 中 火炬 传递 的 城市 数 南美洲 比 北美洲 少,图 中 火炬 传递 的 城市 数 南美洲 比 北美洲 少,NN LC NN VV DEC NN NN loc P loc VA
+,4,8,,当 火炬 传递 到 ①地 时 ， 当地 正午太阳高度 为 全年 最 大,当 火炬 传递 到 ①地 时 ， 当地 正午 太阳 高度 为 全年 最 大,P NN VV VV loc LC PU NN term VC NN AD VA
+,4,,,当 火炬 传递 到 ③地 时 ， 当地 黑夜 比 白昼 长,当 火炬 传递 到 ③地 时 ， 当地 黑夜 比 白昼 长,P NN VV VV loc LC PU NN NN P NN VA
+,4,,,当 火炬 传递 到 ④地 时 ， 当地 正值 多雨 季节,当 火炬 传递 到 ④地 时 ， 当地 正值 多雨 季节,P NN VV VV loc LC PU NN VV JJ NN
+,4,,,当 火炬 传递 到 ⑤地 时 ， 当地 正值 春暖 花开 季节,当 火炬 传递 到 ⑤地 时 ， 当地 正值 春暖 花开 季节,P NN VV VV loc LC PU NN VV JJ JJ NN
+1 5 12,6,0 8 10,,北京时间 2008年8月8日20时 奥运会 开幕 ， 此时 ②地 所在 时区 的 区时 为 7日4时,北京 时间 2008年 8月 8日 20时 奥运会 开幕 ， 此时 ②地 所在 时区 的 区时 为 7日 4时,term time NR VV PU time loc VV term DEG term VC time
+1 5 12,,0 8 10,,北京时间 2008年8月8日20时 奥运会 开幕 ， 此时 ②地 所在 时区 的 区时 为 7日12时,北京 时间 2008年 8月 8日 20时 奥运会 开幕 ， 此时 ②地 所在 时区 的 区时 为 7日 12时,term time NR VV PU time NN VV term DEG term VC time
+1 5 12,,0 8 10,,北京时间 2008年8月8日20时 奥运会 开幕 ， 此时 ②地 所在 时区 的 区时 为 8日4时,北京 时间 2008年 8月 8日 20时 奥运会 开幕 ， 此时 ②地 所在 时区 的 区时 为 8日 4时,term time NR VV PU time NN VV term DEG term VC time
+1 5 12,,0 8 10,,北京时间 2008年8月8日20时 奥运会 开幕 ， 此时 ②地 所在 时区 的 区时 为 9日12时,北京 时间 2008年 8月 8日 20时 奥运会 开幕 ， 此时 ②地 所在 时区 的 区时 为 9日 12时,term time NR VV PU time NN VV term DEG term VC time
+,,6,,良好 的 储油 构造 一般 是 盆地,良好 的 储油 构造 一般 是 盆地,VA DEC NN NN AD VC term
+,,6,,良好 的 储油 构造 一般 是 断层,良好 的 储油 构造 一般 是 断层,VA DEC NN NN AD VC term
+,,6,,良好 的 储油 构造 一般 是 向斜,良好 的 储油 构造 一般 是 向斜,VA DEC NN NN AD VC term
+,,6,,良好 的 储油 构造 一般 是 背斜,良好 的 储油 构造 一般 是 背斜,VA DEC NN NN AD VC term
+,,,,图 中 箭头 ① 表示 秸秆 、 沼渣 和 沼液 供给 养殖业,图 中 箭头 ① 表示 秸秆 、 沼渣 和 沼液 供给 养殖业,NN LC NN NN VV NN PU NN CC NN NN NN
+,,,,图 中 箭头 ② 表示 粮食 、 蔬菜 和 棉花 等 供给 农户,图 中 箭头 ② 表示 粮食 、 蔬菜 和 棉花 等 供给 农户,NN LC NN NN VV NN PU NN CC NN ETC NN NN
+,,,,图 中 箭头 ③ 表示 果品 、 肉 和 蛋 等 供给 食品 加工,图 中 箭头 ③ 表示 果品 、 肉 和 蛋 等 供给 食品 加工,NN LC NN NN VV NN PU NN CC NN ETC NN NN NN
+,,,,图 中 箭头 ④ 表示 饲料 、 花卉 和 油料 等 供给 市场,图 中 箭头 ④ 表示 饲料 、 花卉 和 油料 等 供给 市场,NN LC NN NN VV NN PU NN CC NN ETC NN NN
+,,6,,该 图 所示 的 农业 属于 原始农业,该 图 所示 的 农业 属于 原始 农业,DT NN VV DEC NN VV term
+,,6,,该 图 所示 的 农业 属于 自给农业,该 图 所示 的 农业 属于 自给 农业,DT NN VV DEC NN VV term
+,,6,,该 图 所示 的 农业 属于 粗放农业,该 图 所示 的 农业 属于 粗放 农业,DT NN VV DEC NN VV term
+,,6,,该 图 所示 的 农业 属于 混合农业,该 图 所示 的 农业 属于 混合 农业,DT NN VV DEC NN VV term
+,,,,图 中 表示 住宅区 的 商业区 的 曲线 分别 是 ① 和 ②,图 中 表示 住宅区 的 商业区 的 曲线 分别 是 ① 和 ②,NN LC VV NN DEG NN DEG NN AD VC NN CC NN
+,,,,图 中 表示 住宅区 的 商业区 的 曲线 分别 是 ① 和 ④,图 中 表示 住宅区 的 商业区 的 曲线 分别 是 ① 和 ④,NN LC VV NN DEG NN DEG NN AD VC NN CC NN
+,,,,图 中 表示 住宅区 的 商业区 的 曲线 分别 是 ② 和 ③,图 中 表示 住宅区 的 商业区 的 曲线 分别 是 ② 和 ③,NN LC VV NN DEG NN DEG NN AD VC NN CC NN
+,,,,图 中 表示 住宅区 的 商业区 的 曲线 分别 是 ③ 和 ④,图 中 表示 住宅区 的 商业区 的 曲线 分别 是 ③ 和 ④,NN LC VV NN DEG NN DEG NN AD VC NN CC NN
+,,0,,GIS技术 的 关键 装置 是 传感器,GIS 技术 的 关键 装置 是 传感器,term DEG NN NN VC NN
+,,0,,GIS技术 的 数据 模型 用 点 、 线 、 面 表达,GIS 技术 的 数据 模型 用 点 、 线 、 面 表达,term DEG NN NN VV NN PU NN PU NN VV
+,,0,,GIS技术 的 主要 功能 是 空间 定位,GIS 技术 的 主要 功能 是 空间 定位,term DEG JJ NN VC NN NN
+,,0,,GIS技术 的 数据库 由 若干 图层 组成,GIS 技术 的 数据库 由 若干 图层 组成,term DEG NN P CD NN VV
+,,,,图 中 城市 ① 位于 规划区,图 中 城市 ① 位于 规划区,NN LC NN NN VV NN
+,,,,图 中 城市 ② 位于 非矿区,图 中 城市 ② 位于 非矿区,NN LC NN NN VV NN
+,,,,图 中 城市 ③ 位于 现矿区,图 中 城市 ③ 位于 现矿区,NN LC NN NN VV NN
+,,,,图 中 城市 ④ 位于 原矿区,图 中 城市 ④ 位于 原矿区,NN LC NN NN VV NN
+,,,,图示 地区 采矿业 向 西 、 向 北 迁移 ， 主要 是 趋向 原料地,图示 地区 采矿业 向 西 、 向 北 迁移 ， 主要 是 趋向 原料地,VA NN NN P NN PU P NN VV PU AD VC VV NN
+,,,,图示 地区 采矿业 向 西 、 向 北 迁移 ， 主要 是 趋向 消费地,图示 地区 采矿业 向 西 、 向 北 迁移 ， 主要 是 趋向 消费地,VA NN NN P NN PU P NN VV PU AD VC VV NN
+,,,,图示 地区 采矿业 向 西 、 向 北 迁移 ， 主要 是 趋向 水资源,图示 地区 采矿业 向 西 、 向 北 迁移 ， 主要 是 趋向 水资源,VA NN NN P NN PU P NN VV PU AD VC VV NN
+,,,,图示 地区 采矿业 向 西 、 向 北 迁移 ， 主要 是 趋向 交通线,图示 地区 采矿业 向 西 、 向 北 迁移 ， 主要 是 趋向 交通线,VA NN NN P NN PU P NN VV PU AD VC VV NN

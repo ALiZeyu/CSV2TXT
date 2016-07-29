@@ -1,0 +1,93 @@
+夏季_NN
+16时_NT
+1日_NT 21时_NT 48分_NT
+冬季_NN
+2011年_NT 末_LC
+10月_NT
+6_CD 点_NN 前_LC
+12_CD 小时_NN 左右_LC
+2000年_NT
+2013年_NT
+2010年_NT
+25日_NT 0:30_NT
+10_CD 、_PU 11月_NT
+震_NN 后_LC
+2000_CD —_PU 2010年_NT
+10：00_NT —_PU 12：00_NT
+2月_NT 7日_NT
+24日_NT 11:30_NT
+22：00_NT —_PU 次日_NT 4：00_NT
+15_CD 小时_NN 左右_LC
+11月_NT 12日_NT 14时_NT
+3_CD 、_PU 4月_NT
+7_CD 、_PU 8月份_NT
+12_CD 、_PU 1月_NT
+6月_NT 到_P 8月_NT 期间_LC
+1999年_NT
+2006年_NT
+1985年_NT 以来_LC
+冬春季_NT
+小雪_NT
+2010年_NT 11月_NT 12日_NT 20时_NT
+10年_NT
+从_P 10月_NT 21日_NT 9:00_NT 到_P 10月_NT 22日_NT 21:00_NT
+2009年_NT
+6：00_NT —_PU 8：00_NT
+7月_NT
+2034年_NT
+25日_NT 16:30_NT
+2001_CD —_PU 2007年_NT
+20世纪_NT 50_CD -_PU 70_CD 年代_NN
+近年_NT
+当日_NT
+11月_NT 11日_NT 14时_NT
+近_AD 十_CD 年_M
+8月_NT 6日_NT 零时_NT 31分_NT
+此时_NT
+20_CD 天_M
+三_CD 个_M 月_NN 内_LC
+1985_CD —_PU 2000年_NT
+秋季_NN
+立冬_NT
+1日_NT 5时_NT 40分_NT
+10月_NT 至_P 3月_NT
+1975_CD —_PU 1985年_NT
+一_CD 年_M
+1月_NT
+8月_NT 7日_NT 2时_NT 31分_NT
+2010年_NT 10月_NT 1日_NT 18时_NT 59分_NT 57秒_NT
+2日_NT 5时_NT 48分_NT
+1月份_NT
+21_CD 世纪_M
+春季_NN
+2008年_NT
+2011年_NT
+下午_NT
+7月份_NT
+2日_NT 21时_NT 40分_NT
+12：00_NT —_PU 16：00_NT
+4月_NT
+放假_NN 期间_LC
+25日_NT 6:30_NT
+11月_NT 11日_NT 0时_NT
+1970_CD —_PU 2000年_NT 2000年_NT —_PU 2000年_NT
+一_CD 天_M
+7_CD 、_PU 8月_NT
+2012年_NT 11月_NT 4日_NT 凌晨_NT
+1980_CD ～_PU 2000年_NT
+现代_NT
+8月_NT 5日_NT 13时_NT 31分_NT
+黄昏_NT
+8月_NT 7日_NT 13时_NT 31分_NT
+夏至日_NT
+夜间_NT
+傍晚_NT
+11月_NT 13日_NT 0时_NT
+目前_NT
+距今_VV 2300万_CD 年_M 前_LC
+夏秋季_NT
+秋_NT
+上午_NT
+6月_NT 至_P 9月_NT
+春_NT 、_PU 夏_NT 之交_LC
+冬_NT

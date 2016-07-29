@@ -1,0 +1,45 @@
+时间,地点,术语,数量词,（粗粒度）分词,（细粒度）分词,词性
+0 24,5 7 15 19,2 22,6,2002年11月20日9时 （ 北京时间 ） ， 中国 第19次 南极 科学 考察队 乘 “ 雪龙号 ” 自 上海 出发 ， 此时 长城站 所在地 的 区时 为 19日19时,2002年 11月 20日 9时 （ 北京 时间 ） ， 中国 第 19 次 南极 科学 考察队 乘 “ 雪龙号 ” 自 上海 出发 ， 此时 长城站 所在地 的 区时 为 19日 19时,time PU term PU PU loc num loc NN NN VV PU NN PU P loc VV PU NT loc NN DEG term VC time
+0 24,5 7 15 19,2 22,6,2002年11月20日9时 （ 北京时间 ） ， 中国 第19次 南极 科学 考察队 乘 “ 雪龙号 ” 自 上海 出发 ， 此时 长城站 所在地 的 区时 为 20日5时,2002年 11月 20日 9时 （ 北京 时间 ） ， 中国 第 19 次 南极 科学 考察队 乘 “ 雪龙号 ” 自 上海 出发 ， 此时 长城站 所在地 的 区时 为 20日 5时,time PU term PU PU loc num loc NN NN VV PU NN PU P loc VV PU NT loc NN DEG term VC time
+0 24,5 7 15 19,2 22,6,2002年11月20日9时 （ 北京时间 ） ， 中国 第19次 南极 科学 考察队 乘 “ 雪龙号 ” 自 上海 出发 ， 此时 长城站 所在地 的 区时 为 19日21时,2002年 11月 20日 9时 （ 北京 时间 ） ， 中国 第 19 次 南极 科学 考察队 乘 “ 雪龙号 ” 自 上海 出发 ， 此时 长城站 所在地 的 区时 为 19日 21时,time PU term PU PU loc num loc NN NN VV PU NN PU P loc VV PU NT loc NN DEG term VC time
+0 24,5 7 15 19,2 22,6,2002年11月20日9时 （ 北京时间 ） ， 中国 第19次 南极 科学 考察队 乘 “ 雪龙号 ” 自 上海 出发 ， 此时 长城站 所在地 的 区时 为 20日21时,2002年 11月 20日 9时 （ 北京 时间 ） ， 中国 第 19 次 南极 科学 考察队 乘 “ 雪龙号 ” 自 上海 出发 ， 此时 长城站 所在地 的 区时 为 20日 21时,time PU term PU PU loc num loc NN NN VV PU NN PU P loc VV PU NT loc NN DEG term VC time
+,0 2,,8,中山站 到 南极点 的 直线 距离 约 为 2070千米,中山站 到 南极点 的 直线 距离 约 为 2070 千米,loc CC loc DEG NN NN AD VC num
+,0 2,,8,中山站 到 南极点 的 直线 距离 约 为 2270千米,中山站 到 南极点 的 直线 距离 约 为 2270 千米,loc CC loc DEG NN NN AD VC num
+,0 2,,8,中山站 到 南极点 的 直线 距离 约 为 2570千米,中山站 到 南极点 的 直线 距离 约 为 2570 千米,loc CC loc DEG NN NN AD VC num
+,0 2,,8,中山站 到 南极点 的 直线 距离 约 为 2670千米,中山站 到 南极点 的 直线 距离 约 为 2670 千米,loc CC loc DEG NN NN AD VC num
+,1 4,,,与 中山站 相比 ， 长城站 所在地 白昼 时间 长,与 中山站 相比 ， 长城站 所在地 白昼 时间 长,P loc VV PU loc NN NN NN VA
+,1 4,6,,与 中山站 相比 ， 长城站 所在地 自转 速度 慢,与 中山站 相比 ， 长城站 所在地 自转 速度 慢,P loc VV PU loc NN term NN VA
+,1 4,6,,与 中山站 相比 ， 长城站 所在地 自转 周期 长,与 中山站 相比 ， 长城站 所在地 自转 周期 长,P loc VV PU loc NN term NN VA
+,1 4,6,,与 中山站 相比 ， 长城站 所在地 正午太阳高度 大,与 中山站 相比 ， 长城站 所在地 正午 太阳 高度 大,P loc VV PU loc NN term VA
+,0 14,2 11,,中山站 出现 极昼 期间 ， 下列 河流 最 有 可能 处于 枯水期 的 是 湄公河,中山站 出现 极昼 期间 ， 下列 河流 最 有 可能 处于 枯水期 的 是 湄公河,loc VV term NN PU JJ NN AD VE NN VV term DEC VC loc
+,0 14,2 11,,中山站 出现 极昼 期间 ， 下列 河流 最 有 可能 处于 枯水期 的 是 莱茵河,中山站 出现 极昼 期间 ， 下列 河流 最 有 可能 处于 枯水期 的 是 莱茵河,loc VV term NN PU JJ NN AD VE NN VV term DEC VC loc
+,0 14,2 11,,中山站 出现 极昼 期间 ， 下列 河流 最 有 可能 处于 枯水期 的 是 亚马孙河,中山站 出现 极昼 期间 ， 下列 河流 最 有 可能 处于 枯水期 的 是 亚马孙河,loc VV term NN PU JJ NN AD VE NN VV term DEC VC loc
+,0 14,2 11,,中山站 出现 极昼 期间 ， 下列 河流 最 有 可能 处于 枯水期 的 是 赞比西河,中山站 出现 极昼 期间 ， 下列 河流 最 有 可能 处于 枯水期 的 是 赞比西河,loc VV term NN PU JJ NN AD VE NN VV term DEC VC loc
+,,2,,大理石 因 变质作用 而 形成,大理石 因 变质 作用 而 形成,NN P term MSP VV
+,,4,,大理石 按 成因 属于 岩浆岩,大理石 按 成因 属于 岩浆岩,NN P NN VV term
+,,2,,大理石 因 外力作用 而 形成,大理石 因 外力 作用 而 形成,NN P term MSP VV
+,,3,,大理石 形成 于 地壳 硅镁层,大理石 形成 于 地壳 硅镁层,NN VV P term NR
+,,,,该 建筑 位于 图3 中 的 ①,该 建筑 位于 图3 中 的 ①,DT NN VV NN LC DEG NN
+,,,,该 建筑 位于 图3 中 的 ②,该 建筑 位于 图3 中 的 ②,DT NN VV NN LC DEG NN
+,,,,该 建筑 位于 图3 中 的 ③,该 建筑 位于 图3 中 的 ③,DT NN VV NN LC DEG NN
+,,,,该 建筑 位于 图3 中 的 ④,该 建筑 位于 图3 中 的 ④,DT NN VV NN LC DEG NN
+,2 6,,,图3 中 ①、②、③、④四地 自然 条件 相比 ①、②两地 均 为 荒漠,图3 中 ① 、 ② 、 ③ 、 ④ 四地 自然 条件 相比 ① 、 ② 两地 均 为 荒漠,NN LC loc NN NN VV loc AD VC NN
+,2 6,7,,图3 中 ①、②、③、④四地 自然 条件 相比 ②地 年降水量 最少,图3 中 ① 、 ② 、 ③ 、 ④ 四地 自然 条件 相比 ②地 年降水量 最少,NN LC loc NN NN VV loc term AD
+,2 6,,,图3 中 ①、②、③、④四地 自然 条件 相比 ③地 有 明显 的 旱季 和 雨季,图3 中 ① 、 ② 、 ③ 、 ④ 四地 自然 条件 相比 ③地 有 明显 的 旱季 和 雨季,NN LC loc NN NN VV loc VE VA DEC NN CC NN
+,2 6 8,,,图3 中 ①、②、③、④四地 自然 条件 相比 ④地 比 ①地 气温 年较差 大,图3 中 ① 、 ② 、 ③ 、 ④ 四地 自然 条件 相比 ④地 比 ①地 气温 年较差 大,NN LC loc NN NN VV loc P loc NN NN VA
+0,7,,,12月份 ， 自 东 向 西 穿过 直布罗陀海峡 的 航船 常 遇到 顺风 顺水,12月份 ， 自 东 向 西 穿过 直布罗陀 海峡 的 航船 常 遇到 顺风 顺水,time PU P NN P NN VV loc DEG NN AD VV NN NN
+0,7,,,12月份 ， 自 东 向 西 穿过 直布罗陀海峡 的 航船 常 遇到 逆风 顺水,12月份 ， 自 东 向 西 穿过 直布罗陀 海峡 的 航船 常 遇到 逆风 顺水,time PU P NN P NN VV loc DEG NN AD VV NN NN
+0,7,,,12月份 ， 自 东 向 西 穿过 直布罗陀海峡 的 航船 常 遇到 顺风 逆水,12月份 ， 自 东 向 西 穿过 直布罗陀 海峡 的 航船 常 遇到 顺风 逆水,time PU P NN P NN VV loc DEG NN AD VV NN NN
+0,7,,,12月份 ， 自 东 向 西 穿过 直布罗陀海峡 的 航船 常 遇到 逆风 逆水,12月份 ， 自 东 向 西 穿过 直布罗陀 海峡 的 航船 常 遇到 逆风 逆水,time PU P NN P NN VV loc DEG NN AD VV NN NN
+5,13,,,下列 铁路线 两端 的 城市 1月 平均 气温 差别 最 小 的 是 京哈线,下列 铁路线 两端 的 城市 1月 平均 气温 差别 最 小 的 是 京哈线,JJ NN NN DEG NN time JJ NN NN AD VA DEC VC loc
+5,13,,,下列 铁路线 两端 的 城市 1月 平均 气温 差别 最 小 的 是 焦柳线,下列 铁路线 两端 的 城市 1月 平均 气温 差别 最 小 的 是 焦柳线,JJ NN NN DEG NN time JJ NN NN AD VA DEC VC loc
+5,13,,,下列 铁路线 两端 的 城市 1月 平均 气温 差别 最 小 的 是 浙赣线,下列 铁路线 两端 的 城市 1月 平均 气温 差别 最 小 的 是 浙赣线,JJ NN NN DEG NN time JJ NN NN AD VA DEC VC loc
+5,13,,,下列 铁路线 两端 的 城市 1月 平均 气温 差别 最 小 的 是 青藏线,下列 铁路线 两端 的 城市 1月 平均 气温 差别 最 小 的 是 青藏线,JJ NN NN DEG NN time JJ NN NN AD VA DEC VC loc
+,,,,合理 的 棉纺织 工业 布局 应 位于 图 中 ①,合理 的 棉纺织 工业 布局 应 位于 图 中 ①,VA DEC NN NN NN VV VV NN LC NN
+,,,,合理 的 棉纺织 工业 布局 应 位于 图 中 ②,合理 的 棉纺织 工业 布局 应 位于 图 中 ②,VA DEC NN NN NN VV VV NN LC NN
+,,,,合理 的 棉纺织 工业 布局 应 位于 图 中 ③,合理 的 棉纺织 工业 布局 应 位于 图 中 ③,VA DEC NN NN NN VV VV NN LC NN
+,,,,合理 的 棉纺织 工业 布局 应 位于 图 中 ④,合理 的 棉纺织 工业 布局 应 位于 图 中 ④,VA DEC NN NN NN VV VV NN LC NN
+,17 19 21 23,,,下列 几组 省区 （ 市 ） 按 ① - ② - ③ - ④ 排列 的 是 山东 - 四川 - 西藏 - 江苏,下列 几组 省区 （ 市 ） 按 ① - ② - ③ - ④ 排列 的 是 山东 - 四川 - 西藏 - 江苏,JJ NN NN PU NN PU P NN PU NN PU NN PU NN VV DEC VC loc PU loc PU loc PU loc
+,17 19 21 23,,,下列 几组 省区 （ 市 ） 按 ① - ② - ③ - ④ 排列 的 是 河北 - 新疆 - 青海 - 广东,下列 几组 省区 （ 市 ） 按 ① - ② - ③ - ④ 排列 的 是 河北 - 新疆 - 青海 - 广东,JJ NN NN PU NN PU P NN PU NN PU NN PU NN VV DEC VC loc PU loc PU loc PU loc
+,17 19 21 23,,,下列 几组 省区 （ 市 ） 按 ① - ② - ③ - ④ 排列 的 是 浙江 - 辽宁 - 湖北 - 北京,下列 几组 省区 （ 市 ） 按 ① - ② - ③ - ④ 排列 的 是 浙江 - 辽宁 - 湖北 - 北京,JJ NN NN PU NN PU P NN PU NN PU NN PU NN VV DEC VC loc PU loc PU loc PU loc
+,17 19 21 23,,,下列 几组 省区 （ 市 ） 按 ① - ② - ③ - ④ 排列 的 是 安徽 - 重庆 - 湖南 - 河南,下列 几组 省区 （ 市 ） 按 ① - ② - ③ - ④ 排列 的 是 安徽 - 重庆 - 湖南 - 河南,JJ NN NN PU NN PU P NN PU NN PU NN PU NN VV DEC VC loc PU loc PU loc PU loc

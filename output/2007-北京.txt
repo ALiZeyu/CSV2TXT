@@ -1,0 +1,88 @@
+雅典_loc 所处_VV 的_DEC 自然带_term 是_VC 亚热带常绿阔叶林带_term 
+雅典_loc 所处_VV 的_DEC 自然带_term 是_VC 亚热带_term 常绿_term 阔叶林_term 带_term 
+雅典_loc 所处_VV 的_DEC 自然带_term 是_VC 亚热带常绿硬叶林带_term 
+雅典_loc 所处_VV 的_DEC 自然带_term 是_VC 亚热带_term 常绿_term 硬叶林_term 带_term 
+雅典_loc 所处_VV 的_DEC 自然带_term 是_VC 温带落叶阔叶林带_term 
+雅典_loc 所处_VV 的_DEC 自然带_term 是_VC 温带_term 落叶_term 阔叶林_term 带_term 
+雅典_loc 所处_VV 的_DEC 自然带_term 是_VC 温带混交林带_term 
+雅典_loc 所处_VV 的_DEC 自然带_term 是_VC 温带_term 混交林_term 带_term 
+图_NN 中_LC 火炬_NN 传递_VV 的_DEC 城市_NN 数_NN 中_JJ 纬度_term 比_P 低_JJ 纬度_term 多_VA 
+图_NN 中_LC 火炬_NN 传递_VV 的_DEC 城市_NN 数_NN 中_JJ 纬度_term 比_P 低_JJ 纬度_term 多_VA 
+图_NN 中_LC 火炬_NN 传递_VV 的_DEC 城市_NN 数_NN 北半球_term 比_P 南半球_term 少_VA 
+图_NN 中_LC 火炬_NN 传递_VV 的_DEC 城市_NN 数_NN 北半球_term 比_P 南半球_term 少_VA 
+图_NN 中_LC 火炬_NN 传递_VV 的_DEC 城市_NN 数_NN 西半球_term 比_P 东半球_term 多_VA 
+图_NN 中_LC 火炬_NN 传递_VV 的_DEC 城市_NN 数_NN 西半球_term 比_P 东半球_term 多_VA 
+图_NN 中_LC 火炬_NN 传递_VV 的_DEC 城市_NN 数_NN 南美洲_loc 比_P 北美洲_loc 少_VA 
+图_NN 中_LC 火炬_NN 传递_VV 的_DEC 城市_NN 数_NN 南美洲_loc 比_P 北美洲_loc 少_VA 
+当_P 火炬_NN 传递_VV 到_VV ①地_loc 时_LC ，_PU 当地_NN 正午太阳高度_term 为_VC 全年_NN 最_AD 大_VA 
+当_P 火炬_NN 传递_VV 到_VV ①地_loc 时_LC ，_PU 当地_NN 正午_term 太阳_term 高度_term 为_VC 全年_NN 最_AD 大_VA 
+当_P 火炬_NN 传递_VV 到_VV ③地_loc 时_LC ，_PU 当地_NN 黑夜_NN 比_P 白昼_NN 长_VA 
+当_P 火炬_NN 传递_VV 到_VV ③地_loc 时_LC ，_PU 当地_NN 黑夜_NN 比_P 白昼_NN 长_VA 
+当_P 火炬_NN 传递_VV 到_VV ④地_loc 时_LC ，_PU 当地_NN 正值_VV 多雨_JJ 季节_NN 
+当_P 火炬_NN 传递_VV 到_VV ④地_loc 时_LC ，_PU 当地_NN 正值_VV 多雨_JJ 季节_NN 
+当_P 火炬_NN 传递_VV 到_VV ⑤地_loc 时_LC ，_PU 当地_NN 正值_VV 春暖_JJ 花开_JJ 季节_NN 
+当_P 火炬_NN 传递_VV 到_VV ⑤地_loc 时_LC ，_PU 当地_NN 正值_VV 春暖_JJ 花开_JJ 季节_NN 
+北京时间_term 2008年8月8日20时_time 奥运会_NR 开幕_VV ，_PU 此时_time ②地_loc 所在_VV 时区_term 的_DEG 区时_term 为_VC 7日4时_time 
+北京_term 时间_term 2008年_time 8月_time 8日_time 20时_time 奥运会_NR 开幕_VV ，_PU 此时_time ②地_loc 所在_VV 时区_term 的_DEG 区时_term 为_VC 7日_time 4时_time 
+北京时间_term 2008年8月8日20时_time 奥运会_NR 开幕_VV ，_PU 此时_time ②地_NN 所在_VV 时区_term 的_DEG 区时_term 为_VC 7日12时_time 
+北京_term 时间_term 2008年_time 8月_time 8日_time 20时_time 奥运会_NR 开幕_VV ，_PU 此时_time ②地_NN 所在_VV 时区_term 的_DEG 区时_term 为_VC 7日_time 12时_time 
+北京时间_term 2008年8月8日20时_time 奥运会_NR 开幕_VV ，_PU 此时_time ②地_NN 所在_VV 时区_term 的_DEG 区时_term 为_VC 8日4时_time 
+北京_term 时间_term 2008年_time 8月_time 8日_time 20时_time 奥运会_NR 开幕_VV ，_PU 此时_time ②地_NN 所在_VV 时区_term 的_DEG 区时_term 为_VC 8日_time 4时_time 
+北京时间_term 2008年8月8日20时_time 奥运会_NR 开幕_VV ，_PU 此时_time ②地_NN 所在_VV 时区_term 的_DEG 区时_term 为_VC 9日12时_time 
+北京_term 时间_term 2008年_time 8月_time 8日_time 20时_time 奥运会_NR 开幕_VV ，_PU 此时_time ②地_NN 所在_VV 时区_term 的_DEG 区时_term 为_VC 9日_time 12时_time 
+良好_VA 的_DEC 储油_NN 构造_NN 一般_AD 是_VC 盆地_term 
+良好_VA 的_DEC 储油_NN 构造_NN 一般_AD 是_VC 盆地_term 
+良好_VA 的_DEC 储油_NN 构造_NN 一般_AD 是_VC 断层_term 
+良好_VA 的_DEC 储油_NN 构造_NN 一般_AD 是_VC 断层_term 
+良好_VA 的_DEC 储油_NN 构造_NN 一般_AD 是_VC 向斜_term 
+良好_VA 的_DEC 储油_NN 构造_NN 一般_AD 是_VC 向斜_term 
+良好_VA 的_DEC 储油_NN 构造_NN 一般_AD 是_VC 背斜_term 
+良好_VA 的_DEC 储油_NN 构造_NN 一般_AD 是_VC 背斜_term 
+图_NN 中_LC 箭头_NN ①_NN 表示_VV 秸秆_NN 、_PU 沼渣_NN 和_CC 沼液_NN 供给_NN 养殖业_NN 
+图_NN 中_LC 箭头_NN ①_NN 表示_VV 秸秆_NN 、_PU 沼渣_NN 和_CC 沼液_NN 供给_NN 养殖业_NN 
+图_NN 中_LC 箭头_NN ②_NN 表示_VV 粮食_NN 、_PU 蔬菜_NN 和_CC 棉花_NN 等_ETC 供给_NN 农户_NN 
+图_NN 中_LC 箭头_NN ②_NN 表示_VV 粮食_NN 、_PU 蔬菜_NN 和_CC 棉花_NN 等_ETC 供给_NN 农户_NN 
+图_NN 中_LC 箭头_NN ③_NN 表示_VV 果品_NN 、_PU 肉_NN 和_CC 蛋_NN 等_ETC 供给_NN 食品_NN 加工_NN 
+图_NN 中_LC 箭头_NN ③_NN 表示_VV 果品_NN 、_PU 肉_NN 和_CC 蛋_NN 等_ETC 供给_NN 食品_NN 加工_NN 
+图_NN 中_LC 箭头_NN ④_NN 表示_VV 饲料_NN 、_PU 花卉_NN 和_CC 油料_NN 等_ETC 供给_NN 市场_NN 
+图_NN 中_LC 箭头_NN ④_NN 表示_VV 饲料_NN 、_PU 花卉_NN 和_CC 油料_NN 等_ETC 供给_NN 市场_NN 
+该_DT 图_NN 所示_VV 的_DEC 农业_NN 属于_VV 原始农业_term 
+该_DT 图_NN 所示_VV 的_DEC 农业_NN 属于_VV 原始_term 农业_term 
+该_DT 图_NN 所示_VV 的_DEC 农业_NN 属于_VV 自给农业_term 
+该_DT 图_NN 所示_VV 的_DEC 农业_NN 属于_VV 自给_term 农业_term 
+该_DT 图_NN 所示_VV 的_DEC 农业_NN 属于_VV 粗放农业_term 
+该_DT 图_NN 所示_VV 的_DEC 农业_NN 属于_VV 粗放_term 农业_term 
+该_DT 图_NN 所示_VV 的_DEC 农业_NN 属于_VV 混合农业_term 
+该_DT 图_NN 所示_VV 的_DEC 农业_NN 属于_VV 混合_term 农业_term 
+图_NN 中_LC 表示_VV 住宅区_NN 的_DEG 商业区_NN 的_DEG 曲线_NN 分别_AD 是_VC ①_NN 和_CC ②_NN 
+图_NN 中_LC 表示_VV 住宅区_NN 的_DEG 商业区_NN 的_DEG 曲线_NN 分别_AD 是_VC ①_NN 和_CC ②_NN 
+图_NN 中_LC 表示_VV 住宅区_NN 的_DEG 商业区_NN 的_DEG 曲线_NN 分别_AD 是_VC ①_NN 和_CC ④_NN 
+图_NN 中_LC 表示_VV 住宅区_NN 的_DEG 商业区_NN 的_DEG 曲线_NN 分别_AD 是_VC ①_NN 和_CC ④_NN 
+图_NN 中_LC 表示_VV 住宅区_NN 的_DEG 商业区_NN 的_DEG 曲线_NN 分别_AD 是_VC ②_NN 和_CC ③_NN 
+图_NN 中_LC 表示_VV 住宅区_NN 的_DEG 商业区_NN 的_DEG 曲线_NN 分别_AD 是_VC ②_NN 和_CC ③_NN 
+图_NN 中_LC 表示_VV 住宅区_NN 的_DEG 商业区_NN 的_DEG 曲线_NN 分别_AD 是_VC ③_NN 和_CC ④_NN 
+图_NN 中_LC 表示_VV 住宅区_NN 的_DEG 商业区_NN 的_DEG 曲线_NN 分别_AD 是_VC ③_NN 和_CC ④_NN 
+GIS技术_term 的_DEG 关键_NN 装置_NN 是_VC 传感器_NN 
+GIS_term 技术_term 的_DEG 关键_NN 装置_NN 是_VC 传感器_NN 
+GIS技术_term 的_DEG 数据_NN 模型_NN 用_VV 点_NN 、_PU 线_NN 、_PU 面_NN 表达_VV 
+GIS_term 技术_term 的_DEG 数据_NN 模型_NN 用_VV 点_NN 、_PU 线_NN 、_PU 面_NN 表达_VV 
+GIS技术_term 的_DEG 主要_JJ 功能_NN 是_VC 空间_NN 定位_NN 
+GIS_term 技术_term 的_DEG 主要_JJ 功能_NN 是_VC 空间_NN 定位_NN 
+GIS技术_term 的_DEG 数据库_NN 由_P 若干_CD 图层_NN 组成_VV 
+GIS_term 技术_term 的_DEG 数据库_NN 由_P 若干_CD 图层_NN 组成_VV 
+图_NN 中_LC 城市_NN ①_NN 位于_VV 规划区_NN 
+图_NN 中_LC 城市_NN ①_NN 位于_VV 规划区_NN 
+图_NN 中_LC 城市_NN ②_NN 位于_VV 非矿区_NN 
+图_NN 中_LC 城市_NN ②_NN 位于_VV 非矿区_NN 
+图_NN 中_LC 城市_NN ③_NN 位于_VV 现矿区_NN 
+图_NN 中_LC 城市_NN ③_NN 位于_VV 现矿区_NN 
+图_NN 中_LC 城市_NN ④_NN 位于_VV 原矿区_NN 
+图_NN 中_LC 城市_NN ④_NN 位于_VV 原矿区_NN 
+图示_VA 地区_NN 采矿业_NN 向_P 西_NN 、_PU 向_P 北_NN 迁移_VV ，_PU 主要_AD 是_VC 趋向_VV 原料地_NN 
+图示_VA 地区_NN 采矿业_NN 向_P 西_NN 、_PU 向_P 北_NN 迁移_VV ，_PU 主要_AD 是_VC 趋向_VV 原料地_NN 
+图示_VA 地区_NN 采矿业_NN 向_P 西_NN 、_PU 向_P 北_NN 迁移_VV ，_PU 主要_AD 是_VC 趋向_VV 消费地_NN 
+图示_VA 地区_NN 采矿业_NN 向_P 西_NN 、_PU 向_P 北_NN 迁移_VV ，_PU 主要_AD 是_VC 趋向_VV 消费地_NN 
+图示_VA 地区_NN 采矿业_NN 向_P 西_NN 、_PU 向_P 北_NN 迁移_VV ，_PU 主要_AD 是_VC 趋向_VV 水资源_NN 
+图示_VA 地区_NN 采矿业_NN 向_P 西_NN 、_PU 向_P 北_NN 迁移_VV ，_PU 主要_AD 是_VC 趋向_VV 水资源_NN 
+图示_VA 地区_NN 采矿业_NN 向_P 西_NN 、_PU 向_P 北_NN 迁移_VV ，_PU 主要_AD 是_VC 趋向_VV 交通线_NN 
+图示_VA 地区_NN 采矿业_NN 向_P 西_NN 、_PU 向_P 北_NN 迁移_VV ，_PU 主要_AD 是_VC 趋向_VV 交通线_NN 

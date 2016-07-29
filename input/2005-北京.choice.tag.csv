@@ -1,0 +1,45 @@
+时间,地点,术语,数量词,（粗粒度）分词,（细粒度）分词,词性
+,,8 10,,造成 该 沙尘 天气 的 天气 系统 是 气旋 、 冷锋,造成 该 沙尘 天气 的 天气 系统 是 气旋 、 冷锋,VV DT NN NN DEG NN NN VC term PU term
+,,8 10,,造成 该 沙尘 天气 的 天气 系统 是 气旋 、 暖锋,造成 该 沙尘 天气 的 天气 系统 是 气旋 、 暖锋,VV DT NN NN DEG NN NN VC term PU term
+,,8 10,,造成 该 沙尘 天气 的 天气 系统 是 反气旋 、 暖锋,造成 该 沙尘 天气 的 天气 系统 是 反气旋 、 暖锋,VV DT NN NN DEG NN NN VC term PU term
+,,8 10,,造成 该 沙尘 天气 的 天气 系统 是 反气旋 、 冷锋,造成 该 沙尘 天气 的 天气 系统 是 反气旋 、 冷锋,VV DT NN NN DEG NN NN VC term PU term
+,5 7 9,,,该 沙尘 天气 先后 经过 呼和浩特 、 北京 、 石家庄 ， 它们 依次 是 图 中 的 ① ② ③,该 沙尘 天气 先后 经过 呼和浩特 、 北京 、 石家庄 ， 它们 依次 是 图 中 的 ① ② ③,DT NN NN AD VV loc PU loc PU loc PU PN AD VC NN LC DEG NN NN NN
+,5 7 9,,,该 沙尘 天气 先后 经过 呼和浩特 、 北京 、 石家庄 ， 它们 依次 是 图 中 的 ② ① ③,该 沙尘 天气 先后 经过 呼和浩特 、 北京 、 石家庄 ， 它们 依次 是 图 中 的 ② ① ③,DT NN NN AD VV loc PU loc PU loc PU PN AD VC NN LC DEG NN NN NN
+,5 7 9,,,该 沙尘 天气 先后 经过 呼和浩特 、 北京 、 石家庄 ， 它们 依次 是 图 中 的 ③ ② ①,该 沙尘 天气 先后 经过 呼和浩特 、 北京 、 石家庄 ， 它们 依次 是 图 中 的 ③ ② ①,DT NN NN AD VV loc PU loc PU loc PU PN AD VC NN LC DEG NN NN NN
+,5 7 9,,,该 沙尘 天气 先后 经过 呼和浩特 、 北京 、 石家庄 ， 它们 依次 是 图 中 的 ② ③ ①,该 沙尘 天气 先后 经过 呼和浩特 、 北京 、 石家庄 ， 它们 依次 是 图 中 的 ② ③ ①,DT NN NN AD VV loc PU loc PU loc PU PN AD VC NN LC DEG NN NN NN
+4,,3,,登顶 队员 在 北京时间 13时 前 撤离 ， 主要 是 为了 避开 大量 冰雪 融化,登顶 队员 在 北京 时间 13时 前 撤离 ， 主要 是 为了 避开 大量 冰雪 融化,NN NN P term time LC VV PU AD VC P VV CD NN VV
+4,,3 12,,登顶 队员 在 北京时间 13时 前 撤离 ， 主要 是 为了 避开 泥石流 爆发,登顶 队员 在 北京 时间 13时 前 撤离 ， 主要 是 为了 避开 泥石流 爆发,NN NN P term time LC VV PU AD VC P VV term VV
+4,,3 12,,登顶 队员 在 北京时间 13时 前 撤离 ， 主要 是 为了 避开 强对流天气,登顶 队员 在 北京 时间 13时 前 撤离 ， 主要 是 为了 避开 强 对流 天气,NN NN P term time LC VV PU AD VC P VV term
+4,,3,,登顶 队员 在 北京时间 13时 前 撤离 ， 主要 是 为了 避开 强 紫外线 辐射,登顶 队员 在 北京 时间 13时 前 撤离 ， 主要 是 为了 避开 强 紫外线 辐射,NN NN P term time LC VV PU AD VC P VV VA NN VV
+,0,4,,珠穆朗玛峰 峰顶 比 同 纬度 海平面 白昼 略 长,珠穆朗玛峰 峰顶 比 同 纬度 海平面 白昼 略 长,loc NN P DT term NN NN AD VA
+,0,4,,珠穆朗玛峰 峰顶 比 同 纬度 海平面 黑夜 略 长,珠穆朗玛峰 峰顶 比 同 纬度 海平面 黑夜 略 长,loc NN P DT term NN NN AD VA
+,0,4 6,,珠穆朗玛峰 峰顶 比 同 纬度 海平面 自转线速度 略 小,珠穆朗玛峰 峰顶 比 同 纬度 海平面 自转 线速度 略 小,loc NN P DT term NN term AD VA
+,0,4 6,,珠穆朗玛峰 峰顶 比 同 纬度 海平面 自转角速度 略 大,珠穆朗玛峰 峰顶 比 同 纬度 海平面 自转 角速度 略 大,loc NN P DT term NN term AD VA
+,1,,,导致 珠穆朗玛峰 海拔 高度 变化 的 是 地面 沉降,导致 珠穆朗玛峰 海拔 高度 变化 的 是 地面 沉降,VV loc NN NN VV DEC VC NN VV
+,1,7,,导致 珠穆朗玛峰 海拔 高度 变化 的 是 地壳运动,导致 珠穆朗玛峰 海拔 高度 变化 的 是 地壳 运动,VV loc NN NN VV DEC VC term
+,1,7,,导致 珠穆朗玛峰 海拔 高度 变化 的 是 变质作用,导致 珠穆朗玛峰 海拔 高度 变化 的 是 变质 作用,VV loc NN NN VV DEC VC term
+,1,,,导致 珠穆朗玛峰 海拔 高度 变化 的 是 海平面 升降,导致 珠穆朗玛峰 海拔 高度 变化 的 是 海平面 升降,VV loc NN NN VV DEC VC NN VV
+,,3 9 11 13 15,,登顶 队员 从 积雪冰川带 下山 ， 依次 经过 的 垂直自然带 是 高山草原带 — 高山草甸带 — 高山针叶林带,登顶 队员 从 积雪 冰川带 下山 ， 依次 经过 的 垂直 自然带 是 高山 草原带 — 高山 草甸带 — 高山 针叶林带,NN NN P term VV PU AD VV DEC term VC term PU term PU term
+,,3 9 11 13 15,,登顶 队员 从 积雪冰川带 下山 ， 依次 经过 的 垂直自然带 是 高山草甸带 — 高寒荒漠带 — 高山草原带,登顶 队员 从 积雪 冰川带 下山 ， 依次 经过 的 垂直 自然带 是 高山 草甸带 — 高寒 荒漠带 — 高山 草原带,NN NN P term VV PU AD VV DEC term VC term PU term PU term
+,,3 9 11 13 15,,登顶 队员 从 积雪冰川带 下山 ， 依次 经过 的 垂直自然带 是 高寒荒漠带 — 高山草原带 — 高山针叶林带,登顶 队员 从 积雪 冰川带 下山 ， 依次 经过 的 垂直 自然带 是 高寒 荒漠带 — 高山 草原带 — 高山 针叶林带,NN NN P term VV PU AD VV DEC term VC term PU term PU term
+,,3 9 11 13 15,,登顶 队员 从 积雪冰川带 下山 ， 依次 经过 的 垂直自然带 是 高寒荒漠带 — 高山草甸带 — 高山草原带,登顶 队员 从 积雪 冰川带 下山 ， 依次 经过 的 垂直 自然带 是 高寒 荒漠带 — 高山 草甸带 — 高山 草原带,NN NN P term VV PU AD VV DEC term VC term PU term PU term
+,1,,,从 P点 出发 ， 车速 最 快 的 去向 是 东,从 P点 出发 ， 车速 最 快 的 去向 是 东,P loc VV PU NN AD VA DEC NN VC NN
+,1,,,从 P点 出发 ， 车速 最 快 的 去向 是 南,从 P点 出发 ， 车速 最 快 的 去向 是 南,P loc VV PU NN AD VA DEC NN VC NN
+,1,,,从 P点 出发 ， 车速 最 快 的 去向 是 西,从 P点 出发 ， 车速 最 快 的 去向 是 西,P loc VV PU NN AD VA DEC NN VC NN
+,1,,,从 P点 出发 ， 车速 最 快 的 去向 是 北,从 P点 出发 ， 车速 最 快 的 去向 是 北,P loc VV PU NN AD VA DEC NN VC NN
+,,,,与 图中 甲 、 乙 、 丙 、 丁 四 类 城市 功能区 依次 对应 的 是 商业区 、 工业区 、 住宅区 、 绿地,与 图中 甲 、 乙 、 丙 、 丁 四 类 城市 功能区 依次 对应 的 是 商业区 、 工业区 、 住宅区 、 绿地,P NN NN PU NN PU NN PU NR CD M NN NN AD VV DEC VC NN PU NN PU NN PU NN
+,,,,与 图中 甲 、 乙 、 丙 、 丁 四 类 城市 功能区 依次 对应 的 是 商业区 、 住宅区 、 绿地 、 工业区,与 图中 甲 、 乙 、 丙 、 丁 四 类 城市 功能区 依次 对应 的 是 商业区 、 住宅区 、 绿地 、 工业区,P NN NN PU NN PU NN PU NR CD M NN NN AD VV DEC VC NN PU NN PU NN PU NN
+,,,,与 图中 甲 、 乙 、 丙 、 丁 四 类 城市 功能区 依次 对应 的 是 工业区 、 商业区 、 住宅区 、 绿地,与 图中 甲 、 乙 、 丙 、 丁 四 类 城市 功能区 依次 对应 的 是 工业区 、 商业区 、 住宅区 、 绿地,P NN NN PU NN PU NN PU NR CD M NN NN AD VV DEC VC NN PU NN PU NN PU NN
+,,,,与 图中 甲 、 乙 、 丙 、 丁 四 类 城市 功能区 依次 对应 的 是 工业区 、 住宅区 、 绿地 、 商业区,与 图中 甲 、 乙 、 丙 、 丁 四 类 城市 功能区 依次 对应 的 是 工业区 、 住宅区 、 绿地 、 商业区,P NN NN PU NN PU NN PU NR CD M NN NN AD VV DEC VC NN PU NN PU NN PU NN
+,,,,对 该 城市 环境 质量 影响 较 大 的 是 钢铁厂,对 该 城市 环境 质量 影响 较 大 的 是 钢铁厂,P DT NN NN NN NN AD VA DEC VC NN
+,,,,对 该 城市 环境 质量 影响 较 大 的 是 印染厂,对 该 城市 环境 质量 影响 较 大 的 是 印染厂,P DT NN NN NN NN AD VA DEC VC NN
+,,,,对 该 城市 环境 质量 影响 较 大 的 是 化肥厂,对 该 城市 环境 质量 影响 较 大 的 是 化肥厂,P DT NN NN NN NN AD VA DEC VC NN
+,,,,对 该 城市 环境 质量 影响 较 大 的 是 服装厂,对 该 城市 环境 质量 影响 较 大 的 是 服装厂,P DT NN NN NN NN AD VA DEC VC NN
+,13 15 17,,,与 乙 、 丙 、 丁 3 个 省市 对应 的 依次 是 苏 、 鲁 、 粤,与 乙 、 丙 、 丁 3 个 省市 对应 的 依次 是 苏 、 鲁 、 粤,P NN PU NN PU NN CD M NN VV DEC AD VC loc PU loc PU loc
+,13 15 17,,,与 乙 、 丙 、 丁 3 个 省市 对应 的 依次 是 京 、 吉 、 苏,与 乙 、 丙 、 丁 3 个 省市 对应 的 依次 是 京 、 吉 、 苏,P NN PU NN PU NN CD M NN VV DEC AD VC loc PU loc PU loc
+,13 15 17,,,与 乙 、 丙 、 丁 3 个 省市 对应 的 依次 是 吉 、 苏 、 鲁,与 乙 、 丙 、 丁 3 个 省市 对应 的 依次 是 吉 、 苏 、 鲁,P NN PU NN PU NN CD M NN VV DEC AD VC loc PU loc PU loc
+,13 15 17,,,与 乙 、 丙 、 丁 3 个 省市 对应 的 依次 是 粤 、 京 、 吉,与 乙 、 丙 、 丁 3 个 省市 对应 的 依次 是 粤 、 京 、 吉,P NN PU NN PU NN CD M NN VV DEC AD VC loc PU loc PU loc
+,,,,与 全国 相比 ， 人均 耕地 和 人均 粮食 的 关系 有 特殊性 ， 其 主要 原因 是 人口 数量 增长 较 快,与 全国 相比 ， 人均 耕地 和 人均 粮食 的 关系 有 特殊性 ， 其 主要 原因 是 人口 数量 增长 较 快,P NN VV PU JJ NN CC JJ NN DEG NN VE NN PU PN JJ NN VC NN NN NN AD VA
+,,,,与 全国 相比 ， 人均 耕地 和 人均 粮食 的 关系 有 特殊性 ， 其 主要 原因 是 城市化 水平 不断 提高,与 全国 相比 ， 人均 耕地 和 人均 粮食 的 关系 有 特殊性 ， 其 主要 原因 是 城市化 水平 不断 提高,P NN VV PU JJ NN CC JJ NN DEG NN VE NN PU PN JJ NN VC NN NN AD VV
+,,,,与 全国 相比 ， 人均 耕地 和 人均 粮食 的 关系 有 特殊性 ， 其 主要 原因 是 耕地 面积 逐年 减少,与 全国 相比 ， 人均 耕地 和 人均 粮食 的 关系 有 特殊性 ， 其 主要 原因 是 耕地 面积 逐年 减少,P NN VV PU JJ NN CC JJ NN DEG NN VE NN PU PN JJ NN VC NN NN AD VV
+,,,,与 全国 相比 ， 人均 耕地 和 人均 粮食 的 关系 有 特殊性 ， 其 主要 原因 是 经济 作物 播种 面积 增加,与 全国 相比 ， 人均 耕地 和 人均 粮食 的 关系 有 特殊性 ， 其 主要 原因 是 经济 作物 播种 面积 增加,P NN VV PU JJ NN CC JJ NN DEG NN VE NN PU PN JJ NN VC NN NN NN NN VV

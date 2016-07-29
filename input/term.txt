@@ -1,0 +1,300 @@
+美洲_NN 板块_NN
+大气_NN 反射_NN 作用_NN
+风力_NN 堆积_NN 作用_NN
+地质_NN
+搬运_NN 作用_NN
+地壳_NN 抬升_NN
+新月形_NN 沙丘_NN
+纬度_NN
+中纬_NN 西风_NN 带_NN
+丝绸_NN 之_DEG 路_NN
+冷锋_NN
+侵蚀_NN 搬运_NN
+第二_OD 产业_NN
+雨季_NN
+寒潮_NN
+雨热_NN 同期_NN
+极夜_NN
+地面_NN 辐射_NN
+混合_NN 农业_NN
+GIS_NR
+偏北风_NN
+生物_NN 多样性_NN
+地质_NN 剖面图_NN
+数字_NN 地球_NN 技术_NN
+低压_NN
+海蚀_NN 地貌_NN
+高压_NN 变质_NN
+全球_NN 定位_NN 系统_NN
+东南_NN 信风_NN 带_NN
+季风_NN 水田_NN 农业_NN
+南温带_NN
+气流_NN
+热带_NN 草原_NN 带_NN
+海浪_NN 侵蚀_NN 作用_NN
+太阳_NN 直射点_NN
+山地_NN
+速度_NN
+热力_NN 环流_NN
+地壳_NN 运动_NN
+等压线_NN
+信风_NN 带_NN
+南半球_NN
+远日点_NN
+西南风_NN
+南_NN 回归线_NN
+西北_NN 季风_NN
+盆地_NN
+副_JJ 热带_NN 高压_JJ 带_NN
+结冰期_NN
+水土_NN 流失_NN
+非洲_NN 板块_NN
+沙尘暴_NN
+亚热带_NN
+年_JJ 太阳_NN 总_NN 辐射量_NN
+东北_NN 季风_NN
+赤道_NN
+雨岛_NN 效应_NN
+林带_NN
+地壳_NN 下沉_NN
+多雨期_NN
+农业_NN 地域_NN 类型_NN
+年_JJ 太阳_NN 辐射_NN 总量_NN
+副_JJ 热带_NN 高压_NN
+重熔_NN 作用_NN
+冰川_NN 地貌_NN
+公转_NN 轨道_NN
+堆积_NN 作用_NN
+地球_NN
+太阳_NN 辐射_NN
+冰雪带_NN
+内涝_NN
+大气_NN 三圈_NN 环流_NN
+背斜山_NN
+盛行_NN 西风_NN
+热带_NN 气旋_NN
+信风_NN
+温带_NN
+第三_OD 产业_NN
+热岛_NN
+区位_NN 因素_NN
+温带_NN 落叶_NN 阔叶林_NN
+地理_NN 信息_NN 技术_NN
+背风坡_NN
+下渗_NN 作用_NN
+沙漠化_NN
+海陆_NN 间_LC 循环_NN
+气压_NN
+雪线_NN
+冲积_NN 平原_NN
+外力_NN 作用_NN
+气候_NN 类型_NN
+中_JJ 、_PU 低_JJ 纬度_NN
+太阳系_NN
+寒流_NN
+热岛_NN 效应_NN
+年_JJ 降水量_NN
+农业_NN 地域_NN
+偏东风_NN
+大_JJ 牧场_NN 放牧业_NN
+火山_NN 地貌_NN
+流水_NN 搬运_NN 作用_NN
+第二_OD 级_M 阶梯_NN
+太平洋_NN 板块_NN
+背斜谷_NN
+蒸发_NN
+沼泽_NN
+低_JJ 纬度_NN
+重熔_NN 再生_NN 作用_NN
+向斜山_NN
+风蚀_NN 地貌_NN
+极圈_NN
+固结_NN 成岩_NN
+沙漠_NN
+GDP_NR
+风化_NN 剥蚀_NN
+滑坡_NN
+中纬_NN
+植被_NN
+水循环_NN
+西半球_NN
+沉积_NN 作用_NN
+北京_NR 时间_NN
+遥感_NN
+赤潮_NN
+数字_NN 地球_NN
+盐碱_NN 地_NN
+PM2.5_NR
+外力_NN 沉积_NN
+极昼_NN
+雷达_NN 技术_NN
+正午_NN 太阳_NN 高度_NN 角_NN
+准_JJ 静止锋_NN
+季风_NN 环流_NN
+地壳_NN
+北半球_NN
+岩浆_NN 侵入_NN
+水汽_NN 输送_NN
+东北风_NN
+区时_NN
+亚热带_NN 常绿_NN 硬叶林_NN
+极地_NN 东风_NN 带_NN
+火山灰_NN
+河流_NN 径流量_NN
+洋流_NN
+副_JJ 热带_NN 高_JJ 气压_NN
+水旱_NN
+自转_NN 角速度_NN
+北寒带_NN
+外流河_NN
+太阳_NN 高度_NN
+丹霞_NN 地貌_NN
+种植园_NN 农业_NN
+山地_NN 垂直_NN 带谱_NN
+凌汛_NN
+第一_OD 产业_NN
+暴雨_NN
+盐碱化_NN
+热带_NN 沙漠_NN 气候_NN
+亚寒带_NN 针叶林_NN 带_NN
+针叶林_NN 带_NN
+地热_NN 温泉_NN
+地壳_NN 物质_NN 循环_NN
+自转_NN 线速度_NN
+东南风_NN
+山地_NN 垂直_NN 地带性_NN
+内流河_NN
+裂隙_NN
+盛行风_NN
+热带_NN
+风沙_NN
+雨带_NN
+板块_NN
+高原_NN
+天气_NN 系统_NN
+东北_NN 信风_NN 带_NN
+低纬_NN
+平原_NN
+大理岩_NN
+地中海_NN 气候_NN
+热带_NN 雨林_NN 带_NN
+内力_NN 作用_NN
+印度洋_NN 板块_NN
+崩塌_NN
+全球_NN 气候_NN 变暖_NN
+商品_NN 谷物_NN 农业_NN
+沿岸_NN
+松花江_NN 流域_NN
+气温_NN 日较差_NN
+中_JJ 纬度_NN
+河_NN 外_NN 星系_NN
+气候_NN
+晨昏线_NN
+冷气团_NN
+地_NN 月_NN 系_NN
+低纬_NN 环流_NN
+遥感_NN 技术_NN
+高_JJ 纬度_NN
+气旋_NN
+湿润_JJ 区_NN
+变质岩_NN
+常绿_NN 硬叶林_NN
+北_NN 赤道_NN 暖流_NN
+人口_NN 自然_NN 增长率_NN
+近日点_NN
+沉积岩_NN
+东南_NN 季风_NN
+旱涝_NN
+环境_NN 承载力_NN
+地形_NN 剖面图_NN
+温带_NN 季风_NN 气候_NN
+春旱_NN
+向斜_NN
+GIS_NR 技术_NN
+飓风_NN
+润扬_NN 长江_NN 公路_NN 大桥_NN
+自然_NN 地理_NN 环境_NN
+日晒_NN
+落叶_NN 阔叶林_NN
+计算机_NN 技术_NN
+喀斯特_NN 地貌_NN
+海啸_NN
+冰川_NN 搬运_NN 作用_NN
+河流_NN 下切_NN
+草原_NN
+垂直_NN 地带性_NN
+地貌_NN
+冰川_NN
+变质_NN 作用_NN
+北极_NN 点_NN
+风带_NN
+热带_NN 雨林_NN
+GPS_NR
+RS_NR
+水稻_NN 种植业_NN
+工业_NN 地域_NN
+高纬_NN
+环流_NN
+地理_NN 信息_NN 系统_NN
+等值线_NN
+西北_NN 漂流_NN
+温带草原带_NN
+西北风_NN
+旱季_NN
+自然带_NN
+封冻期_NN
+赤道_NN 低压_NN 带_NN
+台风_NN
+半_NN 湿润_NN 区_NN
+东半球_NN
+纬线圈_NN
+径流量_NN
+岩浆岩_NN
+副_JJ 热带_NN 高气压_NN 带_NN
+人口_NN 出生率_NN
+地形_NN 剖面_NN
+地震_NN
+降水_NN
+风暴潮_NN
+丘陵_NN
+北温带_NN
+偏南风_NN
+地质_NN 作用_NN
+夏汛_NN
+卫星镇_NN
+石灰岩_NN
+大气_NN 逆_NN 辐射_NN
+温带_NN 海洋性_NN 气候_NN
+正午_NN 太阳_NN 高度_NN
+亚欧_NN 板块_NN
+三_CD 级_M 阶梯_NN
+高压_NN
+地下_NN 径流_NN
+太平洋_NN
+亚热带_NN 常绿_NN 阔叶林_NN
+侵蚀_NN 作用_NN
+极地_NN 东风_NN
+高温期_NN
+东北_NN 信风_NN
+泥石流_NN
+暖流_NN
+东南_NN 信风_NN
+地表_NN 径流_NN
+火山_NN
+冻土_NN
+旱灾_NN
+风化_NN
+热带_NN 季风_NN 气候_NN
+流水_NN 沉积_NN 作用_NN
+洪涝_NN
+流水_NN 侵蚀_NN
+汛期_NN
+花岗岩_NN
+荒漠_NN
+立体农业_NN
+暖锋_NN
+等温线_NN
+热液_NN 区_NN
+温带_NN 大陆性_NN 气候_NN
+湿地_NN
+外力_NN 侵蚀_NN 作用_NN
