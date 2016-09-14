@@ -6,6 +6,14 @@
 ③_NN 和_CC ④_NN 
 图_NN 中_LC 指示_VV 山脊_NN 和_CC 山谷_NN 的_DEG 分别_AD 是_VC ④_NN 和_CC ⑤_NN 
 ④_NN 和_CC ⑤_NN 
+八达岭_NR 地区_NN 花岗岩_NN 从_P 形成_VV 到_P 出露_VV 所_MSP 经历_VV 的_DEC 地质_NN 过程_NN 依次_AD 是_VC 固结成岩_NN —_PU 风化剥蚀_NN —_PU 侵蚀搬运_NN —_PU 地壳抬升_NN 
+固结成岩_NN —_PU 风化剥蚀_NN —_PU 侵蚀搬运_NN —_PU 地壳抬升_NN 
+八达岭_NR 地区_NN 花岗岩_NN 从_P 形成_VV 到_P 出露_VV 所_MSP 经历_VV 的_DEC 地质_NN 过程_NN 依次_AD 是_VC 地壳抬升_NN —_PU 侵蚀搬运_NN —_PU 岩浆侵入_NN —_PU 风化剥蚀_NN 
+地壳抬升_NN —_PU 侵蚀搬运_NN —_PU 岩浆侵入_NN —_PU 风化剥蚀_NN 
+八达岭_NR 地区_NN 花岗岩_NN 从_P 形成_VV 到_P 出露_VV 所_MSP 经历_VV 的_DEC 地质_NN 过程_NN 依次_AD 是_VC 岩浆侵入_NN —_PU 地壳抬升_NN —_PU 风化剥蚀_NN —_PU 侵蚀搬运_NN 
+岩浆侵入_NN —_PU 地壳抬升_NN —_PU 风化剥蚀_NN —_PU 侵蚀搬运_NN 
+八达岭_NR 地区_NN 花岗岩_NN 从_P 形成_VV 到_P 出露_VV 所_MSP 经历_VV 的_DEC 地质_NN 过程_NN 依次_AD 是_VC 侵蚀搬运_NN —_PU 岩浆侵入_NN —_PU 地壳抬升_NN —_PU 固结成岩_NN 
+侵蚀搬运_NN —_PU 岩浆侵入_NN —_PU 地壳抬升_NN —_PU 固结成岩_NN 
 经纬网_NN 的_DEG 纬线_NN 间距_NN 为_VC 3°_NN 
 3°_NN 
 经纬网_NN 的_DEG 纬线_NN 间距_NN 为_VC 5°_NN 
