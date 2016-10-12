@@ -2,10 +2,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CuewordProcess {
+	/**
+	 * 根据编号提取每个模板对应的触发词
+	 * */
 
 	public static void main(String[] args) {
 		CueProcess();
-
 	}
 	
 	public static void CueProcess(){

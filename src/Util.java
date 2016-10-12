@@ -1,5 +1,6 @@
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -11,6 +12,24 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Util {
+	
+	public static void diff(String out , String ref , String diff){
+		List<String> candidates=read_file(out);
+		List<String> references=read_file(ref);
+		List<String> result=new ArrayList<>();
+		if(candidates.size()!=references.size()){
+			System.out.println("the reference and the candidate consists of different number of lines!");
+			return;
+		}
+		for(int i=0;i<candidates.size();i++){
+			if(!candidates.get(i).equals(references.get(i))){
+				result.add(candidates.get(i));
+				result.add(references.get(i));
+			}
+		}
+		writeFile(result, diff);
+	}
+	
 	public static List<String> read_file(String path){
 		List<String> result = new ArrayList<>();
 		try {
@@ -46,5 +65,16 @@ public class Util {
 			e.printStackTrace();
 		}
 		
+	}
+	
+	public static List<String> getFileList(String path){
+		File file = new File(path);
+		File[] list = file.listFiles();
+		List<String> result = new ArrayList<>();
+		for(File f:list){
+			if(f.isFile())
+				result.add(f.getAbsolutePath());
+		}
+		return result;
 	}
 }
