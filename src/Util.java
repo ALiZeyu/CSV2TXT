@@ -11,6 +11,11 @@ import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 1、比较两个文本文件的不同
+ * 2、读文件
+ * 3、写文件
+ * 4、获取当前文件夹下的所有文件*/
 public class Util {
 	
 	public static void diff(String out , String ref , String diff){
@@ -48,7 +53,6 @@ public class Util {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		System.out.println();
 		return result;
 	}
 	
@@ -66,7 +70,7 @@ public class Util {
 		}
 		
 	}
-	
+	/**获取当前路径下所有的文件名*/
 	public static List<String> getFileList(String path){
 		File file = new File(path);
 		File[] list = file.listFiles();
@@ -76,5 +80,48 @@ public class Util {
 				result.add(f.getAbsolutePath());
 		}
 		return result;
+	}
+	/**获取当前文件夹下所有文件的内容List。*/
+	public static List<String> getAllFileContentList(String path){
+		List<String> final_result=new ArrayList<>();
+		List<String> fileList=Util.getFileList(path);
+		for(String str : fileList){
+			List<String> temp = Util.read_file(str);
+			temp.remove(0);
+			final_result.addAll(temp);
+		}
+		return final_result;
+	}
+	//这个是训练berkeley parser之前，把训练数据改成要求的格式
+	public static void modifyBracket(String path){
+		List<String> txt=read_file(path);
+		List<String> result=new ArrayList<>();
+		for(String str:txt){
+			result.add("( "+str+" )");
+		}
+		writeFile(result, "E://workspace/BerkelyParser/lib/traindata.txt");
+	}
+	
+	public static void posFileToSegFile(String path){
+		List<String> txt=read_file(path);
+		List<String> result=new ArrayList<>();
+		for(String str:txt){
+			String[] temp=str.split(" ");
+			StringBuffer s=new StringBuffer();
+			for(String t:temp){
+				if(t.split("_").length!=2){
+					System.out.println(str);
+					return;
+				}
+				s.append(t.split("_")[0]+" ");
+			}
+			result.add(s.toString().trim());
+		}
+		writeFile(result, "E://workspace/BerkelyParser/lib/test.txt");
+	}
+	
+	public static void main(String[] args) {
+		//modifyBracket("E://workspace/BerkelyParser/lib/BRACKETED.txt");
+		posFileToSegFile("E://分词/分词数据/CTB5.0 auto-pos/ctb_test.data");
 	}
 }
