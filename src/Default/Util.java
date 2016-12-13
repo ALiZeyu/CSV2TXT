@@ -1,3 +1,4 @@
+package Default;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -9,6 +10,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -92,7 +94,7 @@ public class Util {
 		}
 		return final_result;
 	}
-	//这个是训练berkeley parser之前，把训练数据改成要求的格式
+	/**这个是训练berkeley parser之前，把训练数据改成要求的格式*/
 	public static void modifyBracket(String path){
 		List<String> txt=read_file(path);
 		List<String> result=new ArrayList<>();
@@ -118,6 +120,13 @@ public class Util {
 			result.add(s.toString().trim());
 		}
 		writeFile(result, "E://workspace/BerkelyParser/lib/test.txt");
+	}
+	
+	/**将有空格做间隔的句子切分成list*/
+	public static List<String> strToList(String sentence){
+		String[] a=sentence.split(" ");
+		List<String> list=new ArrayList<>(Arrays.asList(a));
+		return list;
 	}
 	
 	public static void main(String[] args) {

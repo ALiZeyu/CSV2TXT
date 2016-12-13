@@ -1,3 +1,4 @@
+package Default;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
@@ -15,7 +16,10 @@ public class TaohuaExtraction {
 	public static void main(String[] args) {
 		//getAllTaohua("F://installer/shijuan/上下文");
 		//deleteDup("data/AllTaohua.txt");
-		matchTaohua();
+		//matchTaohua();
+		String s="aaaa。bbbb";
+		System.out.println(s.indexOf("。")+"。".length());
+		System.out.println(s.substring(s.indexOf("。")+"。".length()));
 		
 	}
 	
@@ -23,14 +27,15 @@ public class TaohuaExtraction {
 		List<String> list = Util.read_file("data/套话138");
 		String[] regex={"(根据|据|由|结合|从).*(分析|推测|推断|判断|可知)(，|出){0,1}(下列|关于|有关).*(正确|符合实际|可信).(是)",
 				"(根据|据|由|结合|从).*(分析|推测|推断|判断|可知)(，|出){0,1}",
-				"(下列|关于|有关).*(正确|符合实际|可信).(是)"};
+				"(下列|关于|有关).*(正确|符合实际|可信).{1,3}(是)"};
 		//有一些不符合上述表达式的套话，特别处理一下
-		String[] special={"按此理解，","根据图示信息，","图7中","图2中①②③三地自然条件相比较","图3中①、②、③、④四地自然条件相比","文中描述的现象可以解释为","根据所学知识，你认为","结合图4，"};
+		String[] special={"依据图11与图12，","图中显示","按此理解，","根据图示信息，","图7中","图2中①②③三地自然条件相比较","图3中①、②、③、④四地自然条件相比","文中描述的现象可以解释为","根据所学知识，你认为","结合图4，"};
 		Set<String> spSet=new HashSet<>();
 		for(String str : special)
 			spSet.add(str);
 		for(int i=0;i<list.size();i+=2){
-			String standard=list.get(i+1).split("\t")[0];
+//			String standard=list.get(i+1).split("\t")[0];
+			String standard=list.get(i+1);
 			String mine="";
 			String sentence=list.get(i).substring(list.get(i).indexOf("。")+1, list.get(i).length());
 			List<String> match = matchStr(regex, sentence);
@@ -43,25 +48,29 @@ public class TaohuaExtraction {
 							break;
 						}
 					}
-				
+				if(mine.equals("")){
+					System.out.println("没有匹配结果   "+list.get(i));
+					System.out.println(standard);
+				}
 			}
-			else if(match.size()>1){
-				System.out.println("多个匹配结果   "+list.get(i));
-				for(String s : match) System.out.print(s+"\t");
-				System.out.println(standard);
+			else if(match.size()==1){
+				mine=match.get(0);
 			}
 			else 
-				mine=match.get(0);
+				mine=match.get(0)+"\t"+match.get(1);
+			
 			if(!mine.equals("") && !mine.equals(standard)){
 				System.out.println("结果不相同   "+sentence);
 				System.out.println(mine+"\t"+standard);
 			}
 		}
 	}
-	
+	//输入一句话，返回list中含有套话和上下文
 	public static List<String> matchStr(String[] regs, String str){
 		List<String> result = new ArrayList<>();
 		int i=0;
+		String taohua="";
+		String sxw=null;
 		for(String reg:regs){
 			Pattern p = Pattern.compile(reg);
 			Matcher m = p.matcher(str);
@@ -69,18 +78,88 @@ public class TaohuaExtraction {
 			while (m.find()) {
 				start = m.start();
 				end = m.end();
-				result.add(str.substring(start, end));
+				taohua=str.substring(start, end);
 			}
-			if(i==0&&result.size()==1)
+			if(!taohua.equals("")){
+				result.add(taohua);
+				sxw = getSXW(i + 1, taohua);
+				if (!(sxw == null) && sxw.length() > 0)
+					result.add(sxw);
 				break;
+			}
+//			if(i==0&&result.size()>0)
+//				break;
 			//正确的是前面还有文字，看例子处理
 //			if(i==2&&result.size()>0){
 //				if()
 //			}
 			i++;
 		}
-		
 		return result;
+	}
+	
+	//从套话中抽出上下文信息
+	public static String getSXW(int type, String taohua){
+		String sxw=null;
+		String[]regs=new String[2];
+		switch (type) {
+		case 1:
+			regs[0]="(根据|据|由|结合|从).*(分析|推测|推断|判断|可知)(，|出){0,1}(下列|关于|有关)(对|关于|有关){0,1}";
+			regs[1]="(正确|符合实际|可信).(是)";
+			break;
+		case 2:
+			regs[0]="(根据|据|由|结合|从)";
+			regs[1]="(分析|推测|推断|判断|可知)(，|出){0,1}";
+			break;
+		case 3:
+			regs[0]="(下列|关于|有关)(对|关于|有关){0,1}";
+			regs[1]="(正确|符合实际|可信).(是)";
+			break;
+		default:
+			break;
+		}
+		for(String reg:regs){
+			Pattern p = Pattern.compile(reg);
+			Matcher m = p.matcher(taohua);
+			String temp ="";
+			int start=0,end=0;
+			while (m.find()) {
+				start = m.start();
+				end = m.end();
+				temp = taohua.substring(start, end);
+			}
+			taohua=taohua.replace(temp, "");
+		}
+		sxw=simplifysxw(taohua,type);
+		return sxw;
+	}
+	//进一步处理上下文，去除【，|叙述|描述】之类的
+	public static String simplifysxw(String sxw,int type){
+		if(type==1||type==3){
+			//关于。。正确的是
+			if(sxw.indexOf("，")!=-1)
+				sxw=sxw.substring(0, sxw.indexOf("，"));
+			String[] tail={"的叙述","的描述","的说法","说法","叙述","描述","最"};
+			for(String s : tail){
+				if(sxw.contains(s))
+					sxw=sxw.replace(s, "");
+			}
+		}
+		else if (type==2) {
+			//据图可以判断
+			if(sxw.indexOf("，")!=-1)
+				sxw=sxw.substring(0, sxw.indexOf("，"));
+			
+			String[] tail={"可以","可"};
+			for(String s : tail){
+				if(sxw.endsWith(s))
+					sxw=sxw.substring(0,sxw.length()-s.length());
+			}
+			//
+			if(sxw.matches("图.{0,2}|此")||((sxw.contains("图")||sxw.contains("表")||sxw.contains("材料"))&&sxw.contains("信息")))
+				sxw="";
+		}
+		return sxw;
 	}
 	
 	/**

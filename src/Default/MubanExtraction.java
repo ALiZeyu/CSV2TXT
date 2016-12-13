@@ -1,3 +1,4 @@
+package Default;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
@@ -22,7 +23,9 @@ public class MubanExtraction {
 //		for(String str : mubanArray)
 //			cuewordExtraction("F://地理相关/500题审核/final", str);
 		//mergeCueword("F://地理相关/500题审核/final/data/muban");
-		writeIntoSegFile("F://installer/shijuan/最新分词");
+		//writeIntoSegFile("F://installer/shijuan/最新分词");
+		//check("E://workspace/NewTemplate/data/result.txt");
+		replaceGoldByMine("F:/地理相关/500题审核/final/data/muban/二阶_指示_.txt", "E://workspace/NewTemplate/data/result.txt");
 	}
 	
 	//获取文件夹下所有文件的内容List
@@ -289,6 +292,43 @@ public class MubanExtraction {
 			result.addAll(temp);
 		}
 		Util.writeFile(result, path+"/newseg.txt");
+	}
+	/**由于一些标注的模板是错误的，因此需要把result.txt中的mine批量替换gold
+	 * mine的格式：三行：文本，mine，gold
+	 * gold的格式：两行：文本，gold*/
+	public static void replaceGoldByMine(String path, String mypath){
+		List<String> gold=Util.read_file(path);
+		List<String> mine=Util.read_file(mypath);
+		for(int i=0;i<mine.size();i+=3){
+			String str=mine.get(i);
+			int index=gold.indexOf(str);
+			if(index!=-1){
+				String myMine=mine.get(i+1);
+				gold.set(index+1, myMine);
+			}else {
+				System.out.println(str);
+			}
+		}
+		Util.writeFile(gold, "F://地理相关/500题审核/final/data/muban/二阶_指示.txt");
+	}
+	public static void check(String path){
+		List<String> gold=Util.read_file(path);
+		int i=0;
+		for(String s:gold){
+			if(i%3==0&&(s.startsWith("mine：")||s.startsWith("gold："))){
+				System.out.println(i);
+				break;
+			}
+			else if (i%3==1&&!s.startsWith("mine：")) {
+				System.out.println(i);
+				break;
+			}
+			else if (i%3==2&&!s.startsWith("gold：")) {
+				System.out.println(i);
+				break;
+			}
+			i++;
+		}
 	}
 
 }

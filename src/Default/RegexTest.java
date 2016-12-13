@@ -1,3 +1,4 @@
+package Default;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -16,7 +17,7 @@ public class RegexTest {
 					"[甲|乙|丙|丁|戊|①|②|③|④|⑤|Ⅰ|Ⅱ|Ⅲ|Ⅳ|Ⅴ|[A-Z]|[a-z]][城省处]",
 					"(洋流|气流|环节)[甲|乙|丙|丁|戊|①|②|③|④|⑤|Ⅰ|Ⅱ|Ⅲ|Ⅳ|Ⅴ|[A-Z]|[a-z]]",
 					"([0|1|2|3|4|5|6|7|8|9|０|１|２|３|４|５|６|７|８|９|一|二|三|四|五|六|七|八|九|零|十|百|千|万|亿|〇|两]{0,3})[:|：]([0|1|2|3|4|5|6|7|8|9|０|１|２|３|４|５|６|７|８|９|一|二|三|四|五|六|七|八|九|零|十|百|千|万|亿|〇|两]{0,3})"
-					"(\\d|\\.)+°[ewsnEWSN]?((\\d|\\.)+′[ewsnEWSN]?)?"
+					"(\\d|\\.)+°[ewsnEWSN]?((\\d|\\.)+′[ewsnEWSN]?)?""1[:|︰|：]\\d{1,10}"
 					*/
 		String[] pattern_str = { 
 				"[A-Za-z0-9\\.\\+\\_\\/]*[A-Za-z0-9](分钟|分|秒|世纪|年代|年|月份|月|日|时刻|时|万|亿|%|％|℃){0,1}"
@@ -32,12 +33,13 @@ public class RegexTest {
 				}
 			}
 		}
-		Iterator<String> it=result.iterator();
-		while(it.hasNext()){
-			String s=it.next();
-			if(hasDigitLetter(s))
-				System.out.println(s);
-		}
+		System.out.println(result);
+//		Iterator<String> it=result.iterator();
+//		while(it.hasNext()){
+//			String s=it.next();
+//			if(hasDigitLetter(s))
+//				System.out.println(s);
+//		}
 		//listPrint(result);
 
 	}
